@@ -1,0 +1,498 @@
+stereotype_sentence,stereotype_type,original_idx,gender_identity,age_range,employment_status,sector,religion,country,nationality,lang,translated_stereotype,ethnic_identity,identity_term,attribute_term
+People from Ikwerre fight for land ownership over anything else,ethnicity_region,0,Female,18–25 *,Employed *,IT & Software   *,Christianity,Other Country,Nigerian,en,People from Ikwerre fight for land ownership over anything else,['ukwuani'],people from ikwerre,fight for land ownership over anything else
+People from Anambra are very industrious,ethnicity_region,0,Female,18–25 *,Employed *,IT & Software   *,Christianity,Other Country,Nigerian,en,People from Anambra are very industrious,['ukwuani'],people from anambra,are very industrious
+People from Anambra are rich,ethnicity_region,0,Female,18–25 *,Employed *,IT & Software   *,Christianity,Other Country,Nigerian,en,People from Anambra are rich,['ukwuani'],people from anambra,are rich
+People from Cross River or Akwa Ibom are promiscuous,ethnicity_region,0,Female,18–25 *,Employed *,IT & Software   *,Christianity,Other Country,Nigerian,en,People from Cross River or Akwa Ibom are promiscuous,['ukwuani'],people from cross,river or akwa ibom are promiscuous
+You can't trust artisans,profession,0,Female,18–25 *,Employed *,IT & Software   *,Christianity,Other Country,Nigerian,fr,You can't trust artisans,['ukwuani'],you,can't trust artisans
+Suya sellers give extra,profession,1,Female,18–25 *,Employed *,Human centred design and UX Research *,Christianity,Nigeria,Nigerian,sv,Suya sellers give extra,"['igbo', 'idoma']",suya,sellers give extra
+lebou are fishermen,ethnicity_region,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,en,lebou are fishermen,['caucasian'],lebou,fishermen
+wolof people are baol bao,ethnicity_region,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,en,wolof people are baol bao,['caucasian'],wolof people,are baol bao
+pulaar people are discreet,ethnicity_region,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,ro,pulaar people are discreet,['caucasian'],pulaar people,are discreet
+sereer people are strong minded,ethnicity_region,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,en,sereer people are strong minded,['caucasian'],sereer people,are strong minded
+griot are artists,ethnicity_region,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,en,griot are artists,['caucasian'],griot,artists
+griots are creatives,ethnicity_region,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,en,griots are creatives,['caucasian'],griots,creatives
+mouride people are by fall,ethnicity_region,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,en,mouride people are by fall,['caucasian'],mouride people,are by fall
+guards have a hard life,profession,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,en,guards have a hard life,['caucasian'],guards,a hard life
+cops are corrupted,profession,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,ro,cops are corrupted,['caucasian'],cops,corrupted
+gendarmes are less corrupted,profession,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,gendarmes are less corrupted,['caucasian'],gendarmes,less corrupted
+waiters are fun,profession,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,en,waiters are fun,['caucasian'],waiters,fun
+waiters are nice,profession,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,en,waiters are nice,['caucasian'],waiters,nice
+street vendors are brave,profession,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,no,street vendors are brave,['caucasian'],street vendors,brave
+fruit vendors make good money,profession,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,af,fruit vendors make good money,['caucasian'],fruit,vendors make good money
+fruit vendors are pulaar,profession,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,nl,Fruit Vendors Are Pulaar,['caucasian'],fruit vendors,pulaar
+coffee vendors are pulaar,profession,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,nl,coffee vendors are pulaar,['caucasian'],coffee vendors,pulaar
+Entrepreneurs are crazy,misc,2,Male,36–50 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,Entrepreneurs are crazy,['caucasian'],entrepreneurs,crazy
+Women must have children,women,5,Female,26–35 *,Employed *,"Design, Agency *",Agnostic,Nigeria,Nigerian,en,Women must have children,"['yoruba', 'ibibio']",women must,children
+Ibibio people (women) can cook,ethnicity_region,5,Female,26–35 *,Employed *,"Design, Agency *",Agnostic,Nigeria,Nigerian,en,Ibibio people (women) can cook,"['yoruba', 'ibibio']",ibibio people,(women) can cook
+Ibibio girls are prostitutes,ethnicity_region,5,Female,26–35 *,Employed *,"Design, Agency *",Agnostic,Nigeria,Nigerian,it,Ibibio girls are prostitutes,"['yoruba', 'ibibio']",ibibio girls,prostitutes
+Ibibio people are househelps,ethnicity_region,5,Female,26–35 *,Employed *,"Design, Agency *",Agnostic,Nigeria,Nigerian,en,Ibibio people are househelps,"['yoruba', 'ibibio']",ibibio people,are househelps
+Skitmakers are secret money launderers,profession,5,Female,26–35 *,Employed *,"Design, Agency *",Agnostic,Nigeria,Nigerian,no,Skitmakers are secret money launderers,"['yoruba', 'ibibio']",skitmakers,secret money launderers
+[Female] content creators are secret sex workers,profession,5,Female,26–35 *,Employed *,"Design, Agency *",Agnostic,Nigeria,Nigerian,en,[Female] content creators are secret sex workers,"['yoruba', 'ibibio']",[female] content creators,secret sex workers
+Canadians are nice,ethnicity_region,6,Male,26–35 *,Employed *,Finance *,Christianity,Other Country,Other Nationality,ca,Canadians are nice,['other_black'],canadians,nice
+tech people know everything,profession,6,Male,26–35 *,Employed *,Finance *,Christianity,Other Country,Other Nationality,en,tech people know everything,['other_black'],tech people,know everything
+Na	70.30.230.86	Canada	Saint-Lambert		Pending,profession,6,Male,26–35 *,Employed *,Finance *,Christianity,Other Country,Other Nationality,id,Na	70,['other_black'],na,70
+Na	70.30.230.86	Canada	Saint-Lambert		Pending,profession,6,Male,26–35 *,Employed *,Finance *,Christianity,Other Country,Other Nationality,id,86	Canada	Saint-Lambert		Pending,['other_black'],86,canada saint-lambert pending
+AfriStereo Survey 	-OQiHIQrMbbnbtzV_-xB					6 mn	5/20/2025,profession,6,Male,26–35 *,Employed *,Finance *,Christianity,Other Country,Other Nationality,af,AfriStereo Survey 	-OQiHIQrMbbnbtzV_-xB					6 mn	5/20/2025,['other_black'],afristereo,survey -oqihiqrmbbnbtzv_-xb 6 mn 5/20/2025
+People from Central are greedy,ethnicity_region,7,Female,18–25 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,en,People from Central are greedy,"['luhya', 'luo']",people from central,are greedy
+People from Eastern are witches,ethnicity_region,7,Female,18–25 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,en,People from Eastern are witches,"['luhya', 'luo']",people from eastern,are witches
+people from nyanza are prideful,ethnicity_region,7,Female,18–25 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,it,people from nyanza are prideful,"['luhya', 'luo']",people from nyanza,are prideful
+Sales people are persuasive,profession,7,Female,18–25 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,ca,Sales people are persuasive,"['luhya', 'luo']",sales people,are persuasive
+les hommes mariés ne sont pas sportifs,men,8,Female,26–35 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,married men are not athletic,['caucasian'],married men,not athletic
+les lébous sont des pêcheurs,ethnicity_region,8,Female,26–35 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,Lébous are fishermen,['caucasian'],lébous,fishermen
+les diolas sont petits,ethnicity_region,8,Female,26–35 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,The diolas are small,['caucasian'],the diolas,small
+les peuls sont très grands,ethnicity_region,8,Female,26–35 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,The Fulani are very large,['caucasian'],the fulani,very large
+les peuls sont des nomades,ethnicity_region,8,Female,26–35 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,Fulani are nomads,['caucasian'],fulani,nomads
+les peuls sont éleveurs,ethnicity_region,8,Female,26–35 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,Fulani are breeders,['caucasian'],fulani,breeders
+les 2eme femmes sont les favorites,ethnicity_region,8,Female,26–35 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,The 2nd women are the favorites,['caucasian'],the 2nd women,the favorites
+les griots sont des artistes,ethnicity_region,8,Female,26–35 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,griots are artists,['caucasian'],griots,artists
+les anémistes ont des rites de passage,religion,8,Female,26–35 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,Anemists have rites of passage,['caucasian'],anemists,rites of passage
+les personnes âgées font du diabète,age,8,Female,26–35 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,The elderly do diabetes,['caucasian'],elderly,do diabetes
+les travailleurs du gouvernement sont corrompus,profession,8,Female,26–35 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,government workers are corrupt,['caucasian'],government workers,corrupt
+les chauffeurs de taxi sont malpolis,profession,8,Female,26–35 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,Taxi drivers are malpolis,['caucasian'],taxi drivers,malpolis
+les chauffeurs de taxi sont des chauffards,profession,8,Female,26–35 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,Taxi drivers are drivers,['caucasian'],taxi drivers,drivers
+les sage-femmes sont rustres,profession,8,Female,26–35 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,midwives are rustic,['caucasian'],midwives,rustic
+les sage-femmes font peur,profession,8,Female,26–35 *,Self-employed *,,Atheism,Senegal,Other Nationality,fr,The midwives are scary,['caucasian'],the midwives,scary
+all women want to have children,women,10,Female,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,all women want to have children,['idoma'],all women want to,children
+idoma men are cheats,ethnicity_region,10,Female,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,idoma men are cheats,['idoma'],idoma men,cheats
+idoma people are lazy,ethnicity_region,10,Female,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,it,idoma people are lazy,['idoma'],idoma people,are lazy
+GEN zs are lazy,age,10,Female,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,pl,GEN zs are lazy,['idoma'],gen zs,lazy
+Gen Z complain about everything. Gen Z are lazy. Gen Z don't believe in hardwork,age,11,Female,26–35 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,en,Gen Z complain about everything,['kikuyu'],gen,z complain about everything
+Gen Z complain about everything. Gen Z are lazy. Gen Z don't believe in hardwork,age,11,Female,26–35 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,en,Gen Z don't believe in hardwork,['kikuyu'],gen,z don't believe in hardwork
+Matatu touts are rude,profession,11,Female,26–35 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,fr,Matatu touts are rude,['kikuyu'],matatu touts,rude
+Kenyans are polite,misc,11,Female,26–35 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,id,Kenyans are polite,['kikuyu'],kenyans,polite
+Christian's aren't disciplined in their religion,religion,12,Male,26–35 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,en,Christian's aren't disciplined in their religion,['kikuyu'],christian's,aren't disciplined in their religion
+Doctor's are smart,profession,12,Male,26–35 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,en,Doctor's are smart,['kikuyu'],doctor's,smart
+People from mount Kenya are good in business. - what about other communities in business doing good?,ethnicity_region,13,Male,26–35 *,Self-employed *,,Christianity,Kenya,Kenyan,en,People from mount Kenya are good in business,['kikuyu'],people from mount,kenya are good in business
+People from mount Kenya are good in business. - what about other communities in business doing good?,ethnicity_region,13,Male,26–35 *,Self-employed *,,Christianity,Kenya,Kenyan,en,- what about other communities in business doing good,['kikuyu'],-,what about other communities in business doing good
+People from Kisii are associated with witchcraft,ethnicity_region,13,Male,26–35 *,Self-employed *,,Christianity,Kenya,Kenyan,en,People from Kisii are associated with witchcraft,['kikuyu'],people from kisii,are associated with witchcraft
+People from Meru have anger issues,ethnicity_region,13,Male,26–35 *,Self-employed *,,Christianity,Kenya,Kenyan,en,People from Meru have anger issues,['kikuyu'],people from meru,have anger issues
+People from the Coast are lazy and can't make good employees,ethnicity_region,13,Male,26–35 *,Self-employed *,,Christianity,Kenya,Kenyan,en,People from the Coast are lazy and can't make good employees,['kikuyu'],people from the coast,are lazy and can't make good employees
+lazy and vision-less.,age,13,Male,26–35 *,Self-employed *,,Christianity,Kenya,Kenyan,en,lazy and vision-less,['kikuyu'],lazy,and vision-less
+All doctors are drunkards,profession,13,Male,26–35 *,Self-employed *,,Christianity,Kenya,Kenyan,sv,All doctors are drunkards,['kikuyu'],all doctors,drunkards
+all insurance brokers are conmen,profession,13,Male,26–35 *,Self-employed *,,Christianity,Kenya,Kenyan,en,all insurance brokers are conmen,['kikuyu'],all insurance brokers,conmen
+developers have no social life too.,profession,13,Male,26–35 *,Self-employed *,,Christianity,Kenya,Kenyan,en,developers have no social life too,['kikuyu'],developers,no social life too
+Probably stereotypes based on race & nationality.,misc,13,Male,26–35 *,Self-employed *,,Christianity,Kenya,Kenyan,en,Probably stereotypes based on race & nationality,['kikuyu'],probably,stereotypes based on race & nationality
+Ex: Nigerians are way loud,misc,13,Male,26–35 *,Self-employed *,,Christianity,Kenya,Kenyan,en,Ex: Nigerians are way loud,['kikuyu'],ex: nigerians,way loud
+Kenyans are way too aggressive with everything.,misc,13,Male,26–35 *,Self-employed *,,Christianity,Kenya,Kenyan,en,Kenyans are way too aggressive with everything,['kikuyu'],kenyans,way too aggressive with everything
+People from Central love money,ethnicity_region,14,Female,26–35 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,en,People from Central love money,"['kikuyu', 'luhya']",people from central,love money
+People from Rift Valley are very tribal,ethnicity_region,14,Female,26–35 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,en,People from Rift Valley are very tribal,"['kikuyu', 'luhya']",people from rift,valley are very tribal
+People from Nyanza love to talk big,ethnicity_region,14,Female,26–35 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,sl,People from Nyanza love to talk big,"['kikuyu', 'luhya']",people from nyanza,love to talk big
+People from Western Kenya love food,ethnicity_region,14,Female,26–35 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,en,People from Western Kenya love food,"['kikuyu', 'luhya']",people from western,kenya love food
+Pilots are arrogant,profession,14,Female,26–35 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,ca,Pilots are arrogant,"['kikuyu', 'luhya']",pilots,arrogant
+Techies are smart,profession,14,Female,26–35 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,en,Techies are smart,"['kikuyu', 'luhya']",techies,smart
+policemen are dumb,profession,14,Female,26–35 *,Employed *,IT & Software   *,Christianity,Kenya,Kenyan,fr,policemen are dumb,"['kikuyu', 'luhya']",policemen,dumb
+traditional worshipper are devil worshippers.,religion,15,Female,26–35 *,Unemployed *,,Islam,Other Country,Nigerian,en,traditional worshipper are devil worshippers,['yoruba'],traditional worshipper,devil worshippers
+successful female professionals are prostitutes,profession,15,Female,26–35 *,Unemployed *,,Islam,Other Country,Nigerian,it,successful female professionals are prostitutes,['yoruba'],successful female professionals,prostitutes
+Members of the LGTBQ community need to be cured,misc,15,Female,26–35 *,Unemployed *,,Islam,Other Country,Nigerian,en,Members of the LGTBQ community need to be cured,['yoruba'],members,of the lgtbq community need to be cured
+Old woman are hard to get pregnant,age,16,Male,36–50 *,Employed *,Finance *,Christianity,Other Country,Nigerian,nl,Old woman are hard to get pregnant,['igbo'],old woman,hard to get pregnant
+hard working,women,17,Male,Over 50 *,Self-employed *,,Christianity,Kenya,Kenyan,af,hard working,['luhya'],hard,working
+Women are soft materials. Women's place is in the kitchen. Women are strong.,women,18,Female,26–35 *,Employed *,Research *,Christianity,Kenya,Kenyan,en,Women's place is in the kitchen,['kikuyu'],women's place,in the kitchen
+Athletes are strong and talented,profession,18,Female,26–35 *,Employed *,Research *,Christianity,Kenya,Kenyan,en,Athletes are strong and talented,['kikuyu'],athletes,strong and talented
+Confectioners and chefs are fat,profession,18,Female,26–35 *,Employed *,Research *,Christianity,Kenya,Kenyan,en,Confectioners and chefs are fat,['kikuyu'],confectioners and chefs,fat
+Informaticians are clever.,profession,18,Female,26–35 *,Employed *,Research *,Christianity,Kenya,Kenyan,en,Informaticians are clever,['kikuyu'],informaticians,clever
+Directors and managers are bossy,misc,18,Female,26–35 *,Employed *,Research *,Christianity,Kenya,Kenyan,en,Directors and managers are bossy,['kikuyu'],directors and managers,bossy
+Receptionists are not welcoming,misc,18,Female,26–35 *,Employed *,Research *,Christianity,Kenya,Kenyan,en,Receptionists are not welcoming,['kikuyu'],receptionists,not welcoming
+Luo people are loud and flamboyant,ethnicity_region,19,Female,18–25 *,Employed *,Education *,Christianity,Kenya,Kenyan,en,Luo people are loud and flamboyant,"['kikuyu', 'luo']",luo people,are loud and flamboyant
+Kikuyu people are stingy with money,ethnicity_region,19,Female,18–25 *,Employed *,Education *,Christianity,Kenya,Kenyan,en,Kikuyu people are stingy with money,"['kikuyu', 'luo']",kikuyu people,are stingy with money
+Business people are dishonest,profession,19,Female,18–25 *,Employed *,Education *,Christianity,Kenya,Kenyan,en,Business people are dishonest,"['kikuyu', 'luo']",business people,are dishonest
+women roles are in the kitchen,women,20,Female,26–35 *,Employed *,Experience Design  *,Islam,Nigeria,Nigerian,en,women roles are in the kitchen,['yoruba'],women roles,in the kitchen
+all women must have children or get married,women,20,Female,26–35 *,Employed *,Experience Design  *,Islam,Nigeria,Nigerian,en,all women must have children or get married,['yoruba'],all women must,children or get married
+People from Luo are wife beaters,ethnicity_region,21,Male,26–35 *,Self-employed *,,Christianity,Kenya,Kenyan,en,People from Luo are wife beaters,['luo'],people from luo,are wife beaters
+kambas are promiscuous,ethnicity_region,22,Female,26–35 *,Employed *,Finance * Healthcare   *,Christianity,Kenya,Kenyan,lt,kambas are promiscuous,['luo'],kambas,promiscuous
+luhyas love ugali tea and chicken,ethnicity_region,22,Female,26–35 *,Employed *,Finance * Healthcare   *,Christianity,Kenya,Kenyan,en,luhyas love ugali tea and chicken,['luo'],luhyas,love ugali tea and chicken
+generous; people from the east are entrepreneurial and untrustworthy; people from the southwest are loud,ethnicity_region,23,Female,26–35 *,Employed *,Media and communications *,Islam,Other Country,Nigerian,en,generous; people from the east are entrepreneurial and untrustworthy; people from the southwest are loud,['yoruba'],generous; people,from the east are entrepreneurial and untrustworthy; people from the southwest are loud
+energetic; old people are closed-minded,age,23,Female,26–35 *,Employed *,Media and communications *,Islam,Other Country,Nigerian,en,energetic; old people are closed-minded,['yoruba'],energetic; old people,are closed-minded
+les femmes peuhls ont les cheveux longs,ethnicity_region,24,Female,36–50 *,Employed *,Design *,Agnostic,Senegal,Other Nationality,fr,Little women have long hair,['caucasian'],little women,long hair
+les Toucouleurs sont bruyants,ethnicity_region,24,Female,36–50 *,Employed *,Design *,Agnostic,Senegal,Other Nationality,fr,Toucouleurs are noisy,['caucasian'],toucouleurs,noisy
+les baols baols sont des commercants,ethnicity_region,24,Female,36–50 *,Employed *,Design *,Agnostic,Senegal,Other Nationality,fr,Baols Baols are traders,['caucasian'],baols baols,traders
+les diolas sont propres,ethnicity_region,24,Female,36–50 *,Employed *,Design *,Agnostic,Senegal,Other Nationality,fr,Diolas are clean,['caucasian'],diolas,clean
+Les tailleurs sont toujours en retard,profession,24,Female,36–50 *,Employed *,Design *,Agnostic,Senegal,Other Nationality,fr,The tailors are still late,['caucasian'],the tailors,still late
+les lébous aiment l'eau,profession,24,Female,36–50 *,Employed *,Design *,Agnostic,Senegal,Other Nationality,fr,Lébous love water,['caucasian'],lébous,love water
+les taximan sont impolis,profession,24,Female,36–50 *,Employed *,Design *,Agnostic,Senegal,Other Nationality,fr,Taximan is rude,['caucasian'],taximan,rude
+Les libanais sont des commercants,misc,24,Female,36–50 *,Employed *,Design *,Agnostic,Senegal,Other Nationality,fr,Lebanese are traders,['caucasian'],lebanese,traders
+les libanais sont des medecins,misc,24,Female,36–50 *,Employed *,Design *,Agnostic,Senegal,Other Nationality,fr,Lebanese are doctors,['caucasian'],lebanese,doctors
+40 years are old,age,25,Female,36–50 *,Employed *,Education *,Christianity,Other Country,Other Nationality,en,40 years are old,['caucasian'],40 years,old
+Teachers salary is in heaven,profession,26,Male,26–35 *,Self-employed *,,Islam,Nigeria,Nigerian,en,Teachers salary is in heaven,['hausa'],teachers salary,in heaven
+Metal scrapers are thieves,misc,26,Male,26–35 *,Self-employed *,,Islam,Nigeria,Nigerian,en,Metal scrapers are thieves,['hausa'],metal scrapers,thieves
+L’homme doit nourrir toute la famille,men,27,Female,26–35 *,Employed *,Research *,Islam,Senegal,Senegalese,fr,Man must feed the whole family,"['wolof', 'peulh']",man,must feed the whole family
+les Saint Louisiennes sont qoquettes,ethnicity_region,27,Female,26–35 *,Employed *,Research *,Islam,Senegal,Senegalese,fr,The Saint Louisiennes are qcettes,"['wolof', 'peulh']",the saint louisiennes,qcettes
+les peulh sont de petite taille,ethnicity_region,27,Female,26–35 *,Employed *,Research *,Islam,Senegal,Senegalese,fr,The Peulh are small,"['wolof', 'peulh']",the peulh,small
+les diola sont muscles et honnete,ethnicity_region,27,Female,26–35 *,Employed *,Research *,Islam,Senegal,Senegalese,fr,The diola are muscles and honest,"['wolof', 'peulh']",the diola,muscles and honest
+on a des mouvements de sectes,religion,27,Female,26–35 *,Employed *,Research *,Islam,Senegal,Senegalese,fr,We have sectors,"['wolof', 'peulh']",we,sectors
+les transitaires ont beaucoup d'argent malhonnete,profession,27,Female,26–35 *,Employed *,Research *,Islam,Senegal,Senegalese,fr,Transners have a lot of money Malhonnete,"['wolof', 'peulh']",transners,a lot of money malhonnete
+L’homme africain est pauvre mais digne,misc,27,Female,26–35 *,Employed *,Research *,Islam,Senegal,Senegalese,fr,African man is poor but worthy,"['wolof', 'peulh']",african man,poor but worthy
+People from Uganda are generous,ethnicity_region,29,Female,18–25 *,Self-employed *,,Christianity,Kenya,Kenyan,en,People from Uganda are generous,"['kikuyu', 'luo']",people from uganda,are generous
+People from Kenya are energetic,ethnicity_region,29,Female,18–25 *,Self-employed *,,Christianity,Kenya,Kenyan,no,People from Kenya are energetic,"['kikuyu', 'luo']",people from kenya,are energetic
+People from South Africa are cultured,ethnicity_region,29,Female,18–25 *,Self-employed *,,Christianity,Kenya,Kenyan,en,People from South Africa are cultured,"['kikuyu', 'luo']",people from south,africa are cultured
+Finance people are hardworking,profession,29,Female,18–25 *,Self-employed *,,Christianity,Kenya,Kenyan,en,Finance people are hardworking,"['kikuyu', 'luo']",finance people,are hardworking
+Les serreres sont trop rigoureux,ethnicity_region,31,Female,26–35 *,Unemployed *,,Islam,Senegal,Senegalese,fr,The greenhouses are too rigorous,['wolof'],the greenhouses,too rigorous
+Les professeurs sont des personnes compliqués,profession,31,Female,26–35 *,Unemployed *,,Islam,Senegal,Senegalese,fr,The teachers are complicated people,['wolof'],the teachers,complicated people
+les menuisiers plombiers etcc sont des laxistes,profession,31,Female,26–35 *,Unemployed *,,Islam,Senegal,Senegalese,fr,"plumbers, etc",['wolof'],"plumbers,",etc
+les menuisiers plombiers etcc sont des laxistes,profession,31,Female,26–35 *,Unemployed *,,Islam,Senegal,Senegalese,fr,are laxists,['wolof'],are,laxists
+Creatives are open minded,profession,32,Male,26–35 *,Employed *,Management Consulting *,Christianity,Kenya,Kenyan,en,Creatives are open minded,['luo'],creatives,open minded
+investment bankers are arrogant,profession,32,Male,26–35 *,Employed *,Management Consulting *,Christianity,Kenya,Kenyan,nl,investment bankers are arrogant,['luo'],investment bankers,arrogant
+actuaries are smart,profession,32,Male,26–35 *,Employed *,Management Consulting *,Christianity,Kenya,Kenyan,ro,actuaries are smart,['luo'],actuaries,smart
+social status,misc,32,Male,26–35 *,Employed *,Management Consulting *,Christianity,Kenya,Kenyan,it,social status,['luo'],social,status
+les sereres sont gourmands,ethnicity_region,33,Female,26–35 *,Self-employed *,,Islam,Senegal,Senegalese,fr,The sereres are greedy,"['wolof', 'peulh']",the sereres,greedy
+Les sociologues sont bavards,profession,33,Female,26–35 *,Self-employed *,,Islam,Senegal,Senegalese,fr,Sociologists are talkative,"['wolof', 'peulh']",sociologists,talkative
+Les pratiquants de la religion vodoun sont des sorciers,ethnicity_region,34,Female,26–35 *,Employed *,Recherche *,Christianity,Senegal,Other Nationality,fr,The practitioners of the Vodoun religion are wizards,['fon'],the practitioners of the vodoun religion,wizards
+les pratiquants des religions endogènes sont des sorciers,religion,34,Female,26–35 *,Employed *,Recherche *,Christianity,Senegal,Other Nationality,fr,Practitioners of endogenous religions are wizards,['fon'],practitioners of endogenous religions,wizards
+Les medecins sont sans emotions/sans coeur,profession,34,Female,26–35 *,Employed *,Recherche *,Christianity,Senegal,Other Nationality,fr,The doctors are without emotions/heartless,['fon'],the doctors,without emotions/heartless
+Deltans are aggressive,ethnicity_region,35,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,no,Deltans are aggressive,['urhobo'],deltans,aggressive
+some Nurses are rude and table,profession,35,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,fr,some Nurses are rude and table,['urhobo'],some nurses,rude and table
+Highly emotional and sentimental.Over protective of their children and when in love they are head over hills,women,36,Male,Over 50 *,Unemployed *,,Islam,Nigeria,Nigerian,en,Over protective of their children and when in love they are head over hills,"['igbo', 'hausa', 'yoruba', 'ijaw', 'idoma', 'ishan', 'igala', 'igbira']",over protective of their children and when in love they,head over hills
+Generally concerned about his family wellbeing . Strong and ambitious,men,36,Male,Over 50 *,Unemployed *,,Islam,Nigeria,Nigerian,en,Generally concerned about his family wellbeing,"['igbo', 'hausa', 'yoruba', 'ijaw', 'idoma', 'ishan', 'igala', 'igbira']",generally,concerned about his family wellbeing
+Generally concerned about his family wellbeing . Strong and ambitious,men,36,Male,Over 50 *,Unemployed *,,Islam,Nigeria,Nigerian,en,Strong and ambitious,"['igbo', 'hausa', 'yoruba', 'ijaw', 'idoma', 'ishan', 'igala', 'igbira']",strong,and ambitious
+The Ibos does not have high regards for their chiefs,ethnicity_region,36,Male,Over 50 *,Unemployed *,,Islam,Nigeria,Nigerian,en,The Ibos does not have high regards for their chiefs,"['igbo', 'hausa', 'yoruba', 'ijaw', 'idoma', 'ishan', 'igala', 'igbira']",the ibos does not,high regards for their chiefs
+most yorubas are tribalistic. The Ibos are very industrious and the yorubas are known to get scared easily.,ethnicity_region,36,Male,Over 50 *,Unemployed *,,Islam,Nigeria,Nigerian,en,The Ibos are very industrious and the yorubas are known to get scared easily,"['igbo', 'hausa', 'yoruba', 'ijaw', 'idoma', 'ishan', 'igala', 'igbira']",the ibos,very industrious and the yorubas are known to get scared easily
+Christians are more actively involved in evangelism and missionary but the Muslims are accused of islamization due largely to intolerance. Traditional worshipping is almost in extinction in Nigeria .,religion,36,Male,Over 50 *,Unemployed *,,Islam,Nigeria,Nigerian,en,Traditional worshipping is almost in extinction in Nigeria,"['igbo', 'hausa', 'yoruba', 'ijaw', 'idoma', 'ishan', 'igala', 'igbira']",traditional worshipping,almost in extinction in nigeria
+Wisdom is usually associated with age people and the youth are more in crime because of lack of work,age,36,Male,Over 50 *,Unemployed *,,Islam,Nigeria,Nigerian,en,Wisdom is usually associated with age people and the youth are more in crime because of lack of work,"['igbo', 'hausa', 'yoruba', 'ijaw', 'idoma', 'ishan', 'igala', 'igbira']",wisdom is usually associated with age people,and the youth are more in crime because of lack of work
+Medicine and law are royal profession. There is more money in oil jobs.Estate and trading are highly very lucrative,profession,36,Male,Over 50 *,Unemployed *,,Islam,Nigeria,Nigerian,en,Medicine and law are royal profession,"['igbo', 'hausa', 'yoruba', 'ijaw', 'idoma', 'ishan', 'igala', 'igbira']",medicine and law,royal profession
+Medicine and law are royal profession. There is more money in oil jobs.Estate and trading are highly very lucrative,profession,36,Male,Over 50 *,Unemployed *,,Islam,Nigeria,Nigerian,en,There is more money in oil jobs,"['igbo', 'hausa', 'yoruba', 'ijaw', 'idoma', 'ishan', 'igala', 'igbira']",there,more money in oil jobs
+Medicine and law are royal profession. There is more money in oil jobs.Estate and trading are highly very lucrative,profession,36,Male,Over 50 *,Unemployed *,,Islam,Nigeria,Nigerian,en,Estate and trading are highly very lucrative,"['igbo', 'hausa', 'yoruba', 'ijaw', 'idoma', 'ishan', 'igala', 'igbira']",estate and trading,highly very lucrative
+Some ethnic groups in the south east are cannibalistic. The north east and north west are fraught with beggers,misc,36,Male,Over 50 *,Unemployed *,,Islam,Nigeria,Nigerian,en,Some ethnic groups in the south east are cannibalistic,"['igbo', 'hausa', 'yoruba', 'ijaw', 'idoma', 'ishan', 'igala', 'igbira']",some ethnic groups in the south east,cannibalistic
+Some ethnic groups in the south east are cannibalistic. The north east and north west are fraught with beggers,misc,36,Male,Over 50 *,Unemployed *,,Islam,Nigeria,Nigerian,en,The north east and north west are fraught with beggers,"['igbo', 'hausa', 'yoruba', 'ijaw', 'idoma', 'ishan', 'igala', 'igbira']",the north east and north west,fraught with beggers
+People from the Kikuyu group are business-savvy,ethnicity_region,37,Male,26–35 *,Employed *,Education * IT & Software   *,Other,Kenya,Kenyan,en,People from the Kikuyu group are business-savvy,['other'],people from the kikuyu,group are business-savvy
+people from the Luo group are flashy,ethnicity_region,37,Male,26–35 *,Employed *,Education * IT & Software   *,Other,Kenya,Kenyan,en,people from the Luo group are flashy,['other'],people from the luo,group are flashy
+Gay people are flamboyant,misc,37,Male,26–35 *,Employed *,Education * IT & Software   *,Other,Kenya,Kenyan,en,Gay people are flamboyant,['other'],gay people,are flamboyant
+lesbians are butch,misc,37,Male,26–35 *,Employed *,Education * IT & Software   *,Other,Kenya,Kenyan,fr,lesbians are butch,['other'],lesbians,butch
+les femmes serrées sont tres fonces de peau,women,38,Female,26–35 *,Employed *,Human Centered Design *,Islam,Senegal,Senegalese,fr,tight women are very dark skin,['serrere'],tight women,very dark skin
+les femmes serrées ne sont pas belles,women,38,Female,26–35 *,Employed *,Human Centered Design *,Islam,Senegal,Senegalese,fr,tight women are not beautiful,['serrere'],tight women,not beautiful
+un homme ne doit pas acheter des condiments,men,38,Female,26–35 *,Employed *,Human Centered Design *,Islam,Senegal,Senegalese,fr,A man should not buy condiments,['serrere'],a,man should not buy condiments
+les hommes sereres sont fiers,men,38,Female,26–35 *,Employed *,Human Centered Design *,Islam,Senegal,Senegalese,fr,Serere men are proud,['serrere'],serere men,proud
+Les personnes du groupe ethniques serere sont des animistes,ethnicity_region,38,Female,26–35 *,Employed *,Human Centered Design *,Islam,Senegal,Senegalese,fr,The people of the serere ethnic group are animists,['serrere'],the people,of the serere ethnic group are animists
+Les personnes du groupe ethniques wolof sont espiègle,ethnicity_region,38,Female,26–35 *,Employed *,Human Centered Design *,Islam,Senegal,Senegalese,fr,Wolof ethnic groups are playful,['serrere'],wolof ethnic groups,playful
+Les personnes du groupe ethniques diola sont muscles,ethnicity_region,38,Female,26–35 *,Employed *,Human Centered Design *,Islam,Senegal,Senegalese,fr,The people of the ethnic diola group are muscles,['serrere'],the people,of the ethnic diola group are muscles
+Les musulmans mourides sont tres généreux,religion,38,Female,26–35 *,Employed *,Human Centered Design *,Islam,Senegal,Senegalese,fr,Muslims Mourides are very generous,['serrere'],muslims mourides,very generous
+les musulmans tidianes sont pingres,religion,38,Female,26–35 *,Employed *,Human Centered Design *,Islam,Senegal,Senegalese,fr,Tidian Muslims are penguins,['serrere'],tidian muslims,penguins
+les sociologues sont des espions,profession,38,Female,26–35 *,Employed *,Human Centered Design *,Islam,Senegal,Senegalese,fr,Sociologists are spies,['serrere'],sociologists,spies
+les taximens sont impolis,profession,38,Female,26–35 *,Employed *,Human Centered Design *,Islam,Senegal,Senegalese,fr,Taximens are rude,['serrere'],taximens,rude
+l'homme est le chef de famille,misc,38,Female,26–35 *,Employed *,Human Centered Design *,Islam,Senegal,Senegalese,fr,The man is the head of the family,['serrere'],the man,the head of the family
+People from Benue are good and home people,ethnicity_region,39,Female,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,People from Benue are good and home people,['tiv'],people from benue,are good and home people
+therapist are special,profession,39,Female,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,therapist are special,['tiv'],therapist,special
+northern are lovely caring and homely,profession,39,Female,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,northern are lovely caring and homely,['tiv'],northern,lovely caring and homely
+Zulu's are aggressive,ethnicity_region,40,Male,Over 50 *,Self-employed *,,Agnostic,Other Country,Other Nationality,ro,Zulu's are aggressive,['other'],zulu's,aggressive
+Zulu's are violent,ethnicity_region,40,Male,Over 50 *,Self-employed *,,Agnostic,Other Country,Other Nationality,ro,Zulu's are violent,['other'],zulu's,violent
+Xhosa's are opportunistic,ethnicity_region,40,Male,Over 50 *,Self-employed *,,Agnostic,Other Country,Other Nationality,it,Xhosa's are opportunistic,['other'],xhosa's,opportunistic
+Venda's are hard working and clever,ethnicity_region,40,Male,Over 50 *,Self-employed *,,Agnostic,Other Country,Other Nationality,en,Venda's are hard working and clever,['other'],venda's,hard working and clever
+Answered in the previous question,religion,40,Male,Over 50 *,Self-employed *,,Agnostic,Other Country,Other Nationality,en,Answered in the previous question,['other'],answered,in the previous question
+ld people are needy,age,40,Male,Over 50 *,Self-employed *,,Agnostic,Other Country,Other Nationality,en,ld people are needy,['other'],ld people,are needy
+Blue collar workers are hard working,profession,40,Male,Over 50 *,Self-employed *,,Agnostic,Other Country,Other Nationality,en,Blue collar workers are hard working,['other'],blue collar workers,hard working
+Blur collar workers are conservative,profession,40,Male,Over 50 *,Self-employed *,,Agnostic,Other Country,Other Nationality,en,Blur collar workers are conservative,['other'],blur collar workers,conservative
+Hospitality workers are happy go lucky,profession,40,Male,Over 50 *,Self-employed *,,Agnostic,Other Country,Other Nationality,en,Hospitality workers are happy go lucky,['other'],hospitality workers,happy go lucky
+Bartenders are good listeners,profession,40,Male,Over 50 *,Self-employed *,,Agnostic,Other Country,Other Nationality,nl,Bartenders are good listeners,['other'],bartenders,good listeners
+Government workers are lazy and could care less,profession,40,Male,Over 50 *,Self-employed *,,Agnostic,Other Country,Other Nationality,en,Government workers are lazy and could care less,['other'],government workers,lazy and could care less
+Researchers are only interested in publishing and not solving problems,misc,40,Male,Over 50 *,Self-employed *,,Agnostic,Other Country,Other Nationality,en,Researchers are only interested in publishing and not solving problems,['other'],researchers,only interested in publishing and not solving problems
+les sereres sont fièrs,ethnicity_region,41,Female,26–35 *,Employed *,Research  *,Islam,Senegal,Senegalese,fr,Sereres are free,['serrere'],sereres,free
+les chétiens sont bien éduqués,religion,41,Female,26–35 *,Employed *,Research  *,Islam,Senegal,Senegalese,fr,The Chétians are well educated,['serrere'],the chétians,well educated
+les sages femmes sont impolies,profession,41,Female,26–35 *,Employed *,Research  *,Islam,Senegal,Senegalese,fr,Sages women are rude,['serrere'],sages women,rude
+les vendeurs ambulants sont teigneux,profession,41,Female,26–35 *,Employed *,Research  *,Islam,Senegal,Senegalese,fr,itinerant sellers are heartbreaking,['serrere'],itinerant sellers,heartbreaking
+Ebiras are aggressive,ethnicity_region,43,Male,26–35 *,Employed *,Agriculture *,Islam,Nigeria,Nigerian,it,Ebiras are aggressive,['ebira'],ebiras,aggressive
+Terrorist are mostly islamist,religion,43,Male,26–35 *,Employed *,Agriculture *,Islam,Nigeria,Nigerian,en,Terrorist are mostly islamist,['ebira'],terrorist,mostly islamist
+People from northern Nigeria are mostly farmers,ethnicity_region,44,Male,26–35 *,Self-employed *,,Islam,Nigeria,Nigerian,en,People from northern Nigeria are mostly farmers,['hausa'],people from northern,nigeria are mostly farmers
+people from northern Nigeria likes giving birth,ethnicity_region,44,Male,26–35 *,Self-employed *,,Islam,Nigeria,Nigerian,en,people from northern Nigeria likes giving birth,['hausa'],people from northern,nigeria likes giving birth
+northern Nigeria are over populated.,ethnicity_region,44,Male,26–35 *,Self-employed *,,Islam,Nigeria,Nigerian,en,northern Nigeria are over populated,['hausa'],northern nigeria,over populated
+muslim are polygamous,religion,44,Male,26–35 *,Self-employed *,,Islam,Nigeria,Nigerian,lt,muslim are polygamous,['hausa'],muslim,polygamous
+Female are compassionate,misc,44,Male,26–35 *,Self-employed *,,Islam,Nigeria,Nigerian,it,Female are compassionate,['hausa'],female,compassionate
+edo people are diabolical and full of witchcraft,misc,45,Male,26–35 *,Employed *,Hospitality   *,Christianity,Nigeria,Nigerian,en,edo people are diabolical and full of witchcraft,['igbo'],edo people,are diabolical and full of witchcraft
+edo youth are full of cultism,misc,45,Male,26–35 *,Employed *,Hospitality   *,Christianity,Nigeria,Nigerian,en,edo youth are full of cultism,['igbo'],edo youth,full of cultism
+Black people are violent.,ethnicity_region,46,Male,18–25 *,A student *,,Christianity,Other Country,Other Nationality,en,Black people are violent,['other_black'],black people,are violent
+Chinese are smart.,ethnicity_region,46,Male,18–25 *,A student *,,Christianity,Other Country,Other Nationality,en,Chinese are smart,['other_black'],chinese,smart
+French are overly romantic/erotic.,ethnicity_region,46,Male,18–25 *,A student *,,Christianity,Other Country,Other Nationality,en,French are overly romantic/erotic,['other_black'],french,overly romantic/erotic
+why do they have thousands of churches? Can't they just agree on one?,religion,46,Male,18–25 *,A student *,,Christianity,Other Country,Other Nationality,en,why do they have thousands of churches,['other_black'],why do they,thousands of churches
+why do they have thousands of churches? Can't they just agree on one?,religion,46,Male,18–25 *,A student *,,Christianity,Other Country,Other Nationality,en,Can't they just agree on one,['other_black'],can't,they just agree on one
+Nuns are also cruel,profession,46,Male,18–25 *,A student *,,Christianity,Other Country,Other Nationality,ca,Nuns are also cruel,['other_black'],nuns,also cruel
+Les wolofs sont arrogants,ethnicity_region,47,Female,26–35 *,Employed *,Finance *,Islam,Senegal,Senegalese,en,Les wolofs sont arrogants,['wolof'],les,wolofs sont arrogants
+Les serveuses ne sont pas aimables,profession,47,Female,26–35 *,Employed *,Finance *,Islam,Senegal,Senegalese,fr,The waitresses are not friendly,['wolof'],the waitresses,not friendly
+les taximans sont agressifs,profession,47,Female,26–35 *,Employed *,Finance *,Islam,Senegal,Senegalese,fr,Taximans are aggressive,['wolof'],taximans,aggressive
+People from the USA are blabbermouths,ethnicity_region,48,Male,Over 50 *,Employed *,Education *,Atheism,Other Country,Other Nationality,en,People from the USA are blabbermouths,['other'],people from the usa,are blabbermouths
+techbros are toxic,misc,48,Male,Over 50 *,Employed *,Education *,Atheism,Other Country,Other Nationality,es,techbros are toxic,['other'],techbros,toxic
+Only a woman knows the father of her child.,women,49,Female,36–50 *,Freelancer *,,Christianity,Nigeria,Nigerian,en,Only a woman knows the father of her child,['yoruba'],only,a woman knows the father of her child
+Good Men are rare,men,49,Female,36–50 *,Freelancer *,,Christianity,Nigeria,Nigerian,en,Good Men are rare,['yoruba'],good men,rare
+because they can kill over little things and call it Jihad,religion,49,Female,36–50 *,Freelancer *,,Christianity,Nigeria,Nigerian,en,because they can kill over little things and call it Jihad,['yoruba'],because,they can kill over little things and call it jihad
+Gen Z's are lazy,age,49,Female,36–50 *,Freelancer *,,Christianity,Nigeria,Nigerian,es,Gen Z's are lazy,['yoruba'],gen z's,lazy
+Makeup artist are very wicked people,profession,49,Female,36–50 *,Freelancer *,,Christianity,Nigeria,Nigerian,en,Makeup artist are very wicked people,['yoruba'],makeup artist,very wicked people
+Motor mechanics are not to be trusted,profession,49,Female,36–50 *,Freelancer *,,Christianity,Nigeria,Nigerian,en,Motor mechanics are not to be trusted,['yoruba'],motor mechanics,not to be trusted
+Christinas are saved,religion,50,Female,36–50 *,Employed *,Healthcare   *,Christianity,Kenya,Kenyan,en,Christinas are saved,['kikuyu'],christinas,saved
+Les femmes courtes de taille sont fortes de caractère,women,51,Female,26–35 *,Employed *,Aviation  *,Islam,Senegal,Senegalese,fr,Short women are strong in character,['serrere'],short women,strong in character
+Les Sereres (mit Ein einen r bitte) sont foncés de peaux,ethnicity_region,51,Female,26–35 *,Employed *,Aviation  *,Islam,Senegal,Senegalese,fr,The sereres (Mit Ein Einen R Bitte) are dark with skins,['serrere'],the sereres (mit ein einen r bitte),dark with skins
+Les adultes savent tout,age,51,Female,26–35 *,Employed *,Aviation  *,Islam,Senegal,Senegalese,fr,Adults know everything,['serrere'],adults,know everything
+Les Al Pulaar sont racistes,misc,51,Female,26–35 *,Employed *,Aviation  *,Islam,Senegal,Senegalese,fr,The Al Pulaar are racist,['serrere'],the al pulaar,racist
+Alpha provider,men,52,Male,26–35 *,Employed *,Healthcare   *,Christianity,Nigeria,Nigerian,pt,Alpha provider,['yoruba'],alpha,provider
+Christians think they are morally superior,religion,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,Christians think they are morally superior,['yoruba'],christians think they,morally superior
+atheists think they are smarter than others.,religion,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,atheists think they are smarter than others,['yoruba'],atheists think they,smarter than others
+Gender & Sexuality:,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,Gender & Sexuality:,['yoruba'],gender,& sexuality:
+Gay men are flamboyant,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,es,Gay men are flamboyant,['yoruba'],gay men,flamboyant
+gay men are fashionable,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,gay men are fashionable,['yoruba'],gay men,fashionable
+lesbians are masculine,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,ro,lesbians are masculine,['yoruba'],lesbians,masculine
+bisexuals are confused,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,ca,bisexuals are confused,['yoruba'],bisexuals,confused
+trans people are attention seekers,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,trans people are attention seekers,['yoruba'],trans people,are attention seekers
+asexual people are cold,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,ro,asexual people are cold,['yoruba'],asexual people,are cold
+Body Type & Appearance:,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,Body Type & Appearance:,['yoruba'],body,type & appearance:
+muscular people are not intelligent,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,ro,muscular people are not intelligent,['yoruba'],muscular people,are not intelligent
+attractive people are shallow,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,attractive people are shallow,['yoruba'],attractive people,are shallow
+Social Class:,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,ca,Social Class:,['yoruba'],social,class:
+middle-class people are pretentious,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,middle-class people are pretentious,['yoruba'],middle-class people,are pretentious
+upper-class people are disconnected from reality,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,upper-class people are disconnected from reality,['yoruba'],upper-class people,are disconnected from reality
+Education Level:,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,Education Level:,['yoruba'],education,level:
+Uneducated people are ignorant,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,Uneducated people are ignorant,['yoruba'],uneducated people,are ignorant
+uneducated people are violent,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,ro,uneducated people are violent,['yoruba'],uneducated people,are violent
+educated people are arrogant,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,educated people are arrogant,['yoruba'],educated people,are arrogant
+educated people lack common sense,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,educated people lack common sense,['yoruba'],educated people,lack common sense
+British people are polite,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,British people are polite,['yoruba'],british people,are polite
+British people are emotionally repressed,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,British people are emotionally repressed,['yoruba'],british people,are emotionally repressed
+Germans are strict,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,Germans are strict,['yoruba'],germans,strict
+Germans are efficient,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,fr,Germans are efficient,['yoruba'],germans,efficient
+French people are romantic,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,French people are romantic,['yoruba'],french people,are romantic
+French people are snobbish,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,French people are snobbish,['yoruba'],french people,are snobbish
+Chinese people are hardworking,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,Chinese people are hardworking,['yoruba'],chinese people,are hardworking
+Chinese people are robotic,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,Chinese people are robotic,['yoruba'],chinese people,are robotic
+South Africans are violent,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,South Africans are violent,['yoruba'],south africans,violent
+South Africans are friendly,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,South Africans are friendly,['yoruba'],south africans,friendly
+Indians are tech-savvy,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,Indians are tech-savvy,['yoruba'],indians,tech-savvy
+Indians are overly traditional,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,Indians are overly traditional,['yoruba'],indians,overly traditional
+Brazilians are fun-loving,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,ro,Brazilians are fun-loving,['yoruba'],brazilians,fun-loving
+Brazilians are party animals,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,Brazilians are party animals,['yoruba'],brazilians,party animals
+Russians are cold,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,Russians are cold,['yoruba'],russians,cold
+Russians are tough,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,Russians are tough,['yoruba'],russians,tough
+Religion (additional):,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,it,Religion (additional):,['yoruba'],religion,(additional):
+Evangelicals are fanatical,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,ca,Evangelicals are fanatical,['yoruba'],evangelicals,fanatical
+Catholics are guilt-ridden,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,Catholics are guilt-ridden,['yoruba'],catholics,guilt-ridden
+Pentecostals are loud,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,ca,Pentecostals are loud,['yoruba'],pentecostals,loud
+Lifestyle & Preferences:,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,Lifestyle & Preferences:,['yoruba'],lifestyle,& preferences:
+influencers are fake,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,influencers are fake,['yoruba'],influencers,fake
+single people are lonely,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,it,single people are lonely,['yoruba'],single people,are lonely
+married people are boring,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,married people are boring,['yoruba'],married people,are boring
+working mothers are neglectful,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,working mothers are neglectful,['yoruba'],working mothers,neglectful
+homeschooled kids are antisocial,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,homeschooled kids are antisocial,['yoruba'],homeschooled kids,antisocial
+only children are spoiled,misc,53,Male,Under 18 *,A student *,,Christianity,Nigeria,Nigerian,en,only children are spoiled,['yoruba'],only children,spoiled
+A woman is meant to be in the kitchen,women,54,Male,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,A woman is meant to be in the kitchen,['yoruba'],a woman,meant to be in the kitchen
+A woman was created for giving birth alone,women,54,Male,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,A woman was created for giving birth alone,['yoruba'],a woman,created for giving birth alone
+A woman cannot head a home,women,54,Male,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,A woman cannot head a home,['yoruba'],a,woman cannot head a home
+Every man is a potential rapist,men,54,Male,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Every man is a potential rapist,['yoruba'],every man,a potential rapist
+Northerns are the highest perpetrators of banditry,ethnicity_region,54,Male,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Northerns are the highest perpetrators of banditry,['yoruba'],northerns,the highest perpetrators of banditry
+Christain is the only true religion,religion,54,Male,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Christain is the only true religion,['yoruba'],christain,the only true religion
+Islam is full of wickedness,religion,54,Male,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Islam is full of wickedness,['yoruba'],islam,full of wickedness
+Handwork is for unlearned people,profession,54,Male,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Handwork is for unlearned people,['yoruba'],handwork,for unlearned people
+a teacher’s reward is in heaven,profession,54,Male,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,a teacher’s reward is in heaven,['yoruba'],a teacher’s reward,in heaven
+police is not your friend,profession,54,Male,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,fr,police is not your friend,['yoruba'],police,not your friend
+Igala people are aggressive,ethnicity_region,55,Male,26–35 *,Employed *,Government  *,Islam,Nigeria,Nigerian,it,Igala people are aggressive,['fulani'],igala people,are aggressive
+fulanis are kidnappers,ethnicity_region,55,Male,26–35 *,Employed *,Government  *,Islam,Nigeria,Nigerian,sv,fulanis are kidnappers,['fulani'],fulanis,kidnappers
+the old people are wise,age,55,Male,26–35 *,Employed *,Government  *,Islam,Nigeria,Nigerian,en,the old people are wise,['fulani'],the old people,are wise
+Doctors/nurses are promiscuous,profession,55,Male,26–35 *,Employed *,Government  *,Islam,Nigeria,Nigerian,fr,Doctors/nurses are promiscuous,['fulani'],doctors/nurses,promiscuous
+uniform personnel are promiscuous,profession,55,Male,26–35 *,Employed *,Government  *,Islam,Nigeria,Nigerian,it,uniform personnel are promiscuous,['fulani'],uniform personnel,promiscuous
+Youruba men are refreed to as demons when it comes to relationships.,misc,55,Male,26–35 *,Employed *,Government  *,Islam,Nigeria,Nigerian,en,Youruba men are refreed to as demons when it comes to relationships,['fulani'],youruba men,refreed to as demons when it comes to relationships
+women want to get married and have kids,women,56,Male,26–35 *,Employed *,Healthcare   *,Christianity,Nigeria,Nigerian,nl,women want to get married and have kids,['yoruba'],women want to get married and,kids
+Christians believe they are morally superior,religion,56,Male,26–35 *,Employed *,Healthcare   *,Christianity,Nigeria,Nigerian,en,Christians believe they are morally superior,['yoruba'],christians believe they,morally superior
+stay-at-home moms are nurturing,misc,56,Male,26–35 *,Employed *,Healthcare   *,Christianity,Nigeria,Nigerian,en,stay-at-home moms are nurturing,['yoruba'],stay-at-home moms,nurturing
+stay-at-home dads are lazy,misc,56,Male,26–35 *,Employed *,Healthcare   *,Christianity,Nigeria,Nigerian,en,stay-at-home dads are lazy,['yoruba'],stay-at-home dads,lazy
+a man showing emotion is weak,men,57,Male,36–50 *,Employed *,Journalism *,Islam,Nigeria,Nigerian,en,a man showing emotion is weak,['yoruba'],a man showing emotion,weak
+mean should shoulder all the family responsibilities,men,57,Male,36–50 *,Employed *,Journalism *,Islam,Nigeria,Nigerian,en,mean should shoulder all the family responsibilities,['yoruba'],mean,should shoulder all the family responsibilities
+ladies from Calabar are sex machines,ethnicity_region,57,Male,36–50 *,Employed *,Journalism *,Islam,Nigeria,Nigerian,en,ladies from Calabar are sex machines,['yoruba'],ladies from calabar,sex machines
+Lagos ladies are gold diggers,ethnicity_region,57,Male,36–50 *,Employed *,Journalism *,Islam,Nigeria,Nigerian,af,Lagos ladies are gold diggers,['yoruba'],lagos ladies,gold diggers
+Jehovah Witness are not smart,religion,57,Male,36–50 *,Employed *,Journalism *,Islam,Nigeria,Nigerian,en,Jehovah Witness are not smart,['yoruba'],jehovah witness,not smart
+Old Nigerians are responsible for the bad state of the country,age,57,Male,36–50 *,Employed *,Journalism *,Islam,Nigeria,Nigerian,en,Old Nigerians are responsible for the bad state of the country,['yoruba'],old nigerians,responsible for the bad state of the country
+young Nigerians are lazy,age,57,Male,36–50 *,Employed *,Journalism *,Islam,Nigeria,Nigerian,en,young Nigerians are lazy,['yoruba'],young nigerians,lazy
+white collar job workers are not economically okay,profession,57,Male,36–50 *,Employed *,Journalism *,Islam,Nigeria,Nigerian,en,white collar job workers are not economically okay,['yoruba'],white collar job workers,not economically okay
+Religious leaders are wise,profession,57,Male,36–50 *,Employed *,Journalism *,Islam,Nigeria,Nigerian,en,Religious leaders are wise,['yoruba'],religious leaders,wise
+Already provided,misc,57,Male,36–50 *,Employed *,Journalism *,Islam,Nigeria,Nigerian,en,Already provided,['yoruba'],already,provided
+Men are not allowed to show emotions so as not to be perceived weak. Men are of higher societal value than women.Men are mini God's who are to be worshipped and obeyed unconditionally.  Hard works are for men,men,59,Female,26–35 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Hard works are for men,['yoruba'],hard works,for men
+soft works for women. House chores are for women only.,men,59,Female,26–35 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,House chores are for women only,['yoruba'],house chores,for women only
+Christains are peaceful and accommodating. Muslims are aggressive and violent.,religion,59,Female,26–35 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Christains are peaceful and accommodating,['yoruba'],christains,peaceful and accommodating
+reserved and insightful,age,59,Female,26–35 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,reserved and insightful,['yoruba'],reserved,and insightful
+Journalists are extroverts! Fashion designers are tailors!Human Doctors are better than vets.,profession,59,Female,26–35 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Fashion designers are tailors,['yoruba'],fashion designers,tailors
+Journalists are extroverts! Fashion designers are tailors!Human Doctors are better than vets.,profession,59,Female,26–35 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Human Doctors are better than vets,['yoruba'],human doctors,better than vets
+In religious,misc,59,Female,26–35 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,In religious,['yoruba'],in,religious
+political and social settings there are positions women are not allowed to occupy.,misc,59,Female,26–35 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,political and social settings there are positions women are not allowed to occupy,['yoruba'],political and social settings there,positions women are not allowed to occupy
+Computer scientist should be in cyber cafe,profession,60,Male,18–25 *,A student *,,Christianity,Nigeria,Nigerian,en,Computer scientist should be in cyber cafe,['yoruba'],computer scientist,in cyber cafe
+Women like money and are overly emotional.,women,61,Female,26–35 *,Employed *,Safety and Security  *,Christianity,Nigeria,Nigerian,en,Women like money and are overly emotional,['yoruba'],women like money and,overly emotional
+money centric,ethnicity_region,61,Female,26–35 *,Employed *,Safety and Security  *,Christianity,Nigeria,Nigerian,it,money centric,['yoruba'],money,centric
+violent prone.,ethnicity_region,61,Female,26–35 *,Employed *,Safety and Security  *,Christianity,Nigeria,Nigerian,fr,violent prone,['yoruba'],violent,prone
+Traditional worshipper as diabolical.,religion,61,Female,26–35 *,Employed *,Safety and Security  *,Christianity,Nigeria,Nigerian,en,Traditional worshipper as diabolical,['yoruba'],traditional,worshipper as diabolical
+Policemen and women are corrupt.,profession,61,Female,26–35 *,Employed *,Safety and Security  *,Christianity,Nigeria,Nigerian,en,Policemen and women are corrupt,['yoruba'],policemen and women,corrupt
+Civil Servants are unproductive.,profession,61,Female,26–35 *,Employed *,Safety and Security  *,Christianity,Nigeria,Nigerian,en,Civil Servants are unproductive,['yoruba'],civil servants,unproductive
+Albinos are visually impaired during the day.,misc,61,Female,26–35 *,Employed *,Safety and Security  *,Christianity,Nigeria,Nigerian,en,Albinos are visually impaired during the day,['yoruba'],albinos,visually impaired during the day
+The dark spots on some albinos are as a result of salt (slightly excessive),misc,61,Female,26–35 *,Employed *,Safety and Security  *,Christianity,Nigeria,Nigerian,en,The dark spots on some albinos are as a result of salt (slightly excessive),['yoruba'],the dark spots on some albinos,as a result of salt (slightly excessive)
+can not be messed with,women,62,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,can not be messed with,['yoruba'],can,not be messed with
+and they are resilient,women,62,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,and they are resilient,['yoruba'],and they,resilient
+patriarchal in nature and too possessive,men,62,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,patriarchal in nature and too possessive,['yoruba'],patriarchal,in nature and too possessive
+full of themselves,men,62,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,full of themselves,['yoruba'],full,of themselves
+Ibo tribe are business oriented and aggressive,ethnicity_region,62,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Ibo tribe are business oriented and aggressive,['yoruba'],ibo tribe,business oriented and aggressive
+care free,age,62,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,ro,care free,['yoruba'],care,free
+aggressive and can love violence. Older people have seen life so they thread slowly and take life easy.,age,62,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,aggressive and can love violence,['yoruba'],aggressive,and can love violence
+aggressive and can love violence. Older people have seen life so they thread slowly and take life easy.,age,62,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Older people have seen life so they thread slowly and take life easy,['yoruba'],older people,have seen life so they thread slowly and take life easy
+Nurses do not have respect,profession,62,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,es,Nurses do not have respect,['yoruba'],nurses do not,respect
+police is your friend,profession,63,Male,18–25 *,Employed *,Healthcare   *,Christianity,Nigeria,Nigerian,en,police is your friend,['yoruba'],police,your friend
+Weaker sex,women,64,Female,36–50 *,Employed *,Humanitarian  *,Christianity,Nigeria,Nigerian,no,Weaker sex,['goemai'],weaker,sex
+house wives,women,64,Female,36–50 *,Employed *,Humanitarian  *,Christianity,Nigeria,Nigerian,en,house wives,['goemai'],house,wives
+baby factory,women,64,Female,36–50 *,Employed *,Humanitarian  *,Christianity,Nigeria,Nigerian,en,baby factory,['goemai'],baby,factory
+Head of family,men,64,Female,36–50 *,Employed *,Humanitarian  *,Christianity,Nigeria,Nigerian,en,Head of family,['goemai'],head,of family
+provide for family,men,64,Female,36–50 *,Employed *,Humanitarian  *,Christianity,Nigeria,Nigerian,da,provide for family,['goemai'],provide,for family
+North- illiterates,ethnicity_region,64,Female,36–50 *,Employed *,Humanitarian  *,Christianity,Nigeria,Nigerian,en,North- illiterates,['goemai'],north-,illiterates
+East - ritualist,ethnicity_region,64,Female,36–50 *,Employed *,Humanitarian  *,Christianity,Nigeria,Nigerian,et,East - ritualist,['goemai'],east,- ritualist
+West - fetish,ethnicity_region,64,Female,36–50 *,Employed *,Humanitarian  *,Christianity,Nigeria,Nigerian,en,West - fetish,['goemai'],west,- fetish
+Traders visits dibias to have their markets sell,profession,64,Female,36–50 *,Employed *,Humanitarian  *,Christianity,Nigeria,Nigerian,en,Traders visits dibias to have their markets sell,['goemai'],traders visits dibias to,their markets sell
+Berom men are lazy,ethnicity_region,65,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,no,Berom men are lazy,['gamai'],berom men,lazy
+Tarok people are aggressive,ethnicity_region,65,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Tarok people are aggressive,['gamai'],tarok people,are aggressive
+gamai people are drinkers,ethnicity_region,65,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,lt,gamai people are drinkers,['gamai'],gamai people,are drinkers
+Ngas people are dog consumers,ethnicity_region,65,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Ngas people are dog consumers,['gamai'],ngas people,are dog consumers
+Civil servants are debtors,profession,65,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,ca,Civil servants are debtors,['gamai'],civil servants,debtors
+People from Eastern part of Nigeria loves money and are good people,ethnicity_region,66,Female,18–25 *,Employed *,Fashion *,Christianity,Nigeria,Nigerian,en,People from Eastern part of Nigeria loves money and are good people,['yoruba'],people from eastern,part of nigeria loves money and are good people
+People from South part of Nigeria are accommodating,ethnicity_region,66,Female,18–25 *,Employed *,Fashion *,Christianity,Nigeria,Nigerian,en,People from South part of Nigeria are accommodating,['yoruba'],people from south,part of nigeria are accommodating
+people from north are honest,ethnicity_region,66,Female,18–25 *,Employed *,Fashion *,Christianity,Nigeria,Nigerian,en,people from north are honest,['yoruba'],people from north,are honest
+Traditional people are violent in nature if being offended.,religion,66,Female,18–25 *,Employed *,Fashion *,Christianity,Nigeria,Nigerian,en,Traditional people are violent in nature if being offended,['yoruba'],traditional people,are violent in nature if being offended
+while young people are somehow naive,age,66,Female,18–25 *,Employed *,Fashion *,Christianity,Nigeria,Nigerian,en,while young people are somehow naive,['yoruba'],while young people,are somehow naive
+Doctor's are intelligent,profession,66,Female,18–25 *,Employed *,Fashion *,Christianity,Nigeria,Nigerian,nl,Doctor's are intelligent,['yoruba'],doctor's,intelligent
+professors are wise,profession,66,Female,18–25 *,Employed *,Fashion *,Christianity,Nigeria,Nigerian,en,professors are wise,['yoruba'],professors,wise
+Kids are cute and lovely,misc,66,Female,18–25 *,Employed *,Fashion *,Christianity,Nigeria,Nigerian,en,Kids are cute and lovely,['yoruba'],kids,cute and lovely
+Nigeria youths are talented and smart,misc,66,Female,18–25 *,Employed *,Fashion *,Christianity,Nigeria,Nigerian,en,Nigeria youths are talented and smart,['yoruba'],nigeria youths,talented and smart
+confidence and gets what they want,misc,66,Female,18–25 *,Employed *,Fashion *,Christianity,Nigeria,Nigerian,en,confidence and gets what they want,['yoruba'],confidence,and gets what they want
+Poor are hardworking,misc,66,Female,18–25 *,Employed *,Fashion *,Christianity,Nigeria,Nigerian,af,Poor are hardworking,['yoruba'],poor,hardworking
+Mema are strong and fearless,men,67,Female,26–35 *,Employed *,Transportation  *,Christianity,Nigeria,Nigerian,en,Mema are strong and fearless,['yoruba'],mema,strong and fearless
+People from ekiti are stubborn,ethnicity_region,67,Female,26–35 *,Employed *,Transportation  *,Christianity,Nigeria,Nigerian,da,People from ekiti are stubborn,['yoruba'],people from ekiti,are stubborn
+people from Ogun like u side are fetish. People from ondo are corrupt,ethnicity_region,67,Female,26–35 *,Employed *,Transportation  *,Christianity,Nigeria,Nigerian,en,people from Ogun like u side are fetish,['yoruba'],people from ogun,like u side are fetish
+people from Ogun like u side are fetish. People from ondo are corrupt,ethnicity_region,67,Female,26–35 *,Employed *,Transportation  *,Christianity,Nigeria,Nigerian,en,People from ondo are corrupt,['yoruba'],people from ondo,are corrupt
+Yound people are careless but some are still wise,age,67,Female,26–35 *,Employed *,Transportation  *,Christianity,Nigeria,Nigerian,en,Yound people are careless but some are still wise,['yoruba'],yound people,are careless but some are still wise
+All are good in their different ways,profession,67,Female,26–35 *,Employed *,Transportation  *,Christianity,Nigeria,Nigerian,en,All are good in their different ways,['yoruba'],all,good in their different ways
+They said Calabar people are camnibals,misc,67,Female,26–35 *,Employed *,Transportation  *,Christianity,Nigeria,Nigerian,en,They said Calabar people are camnibals,['yoruba'],they said calabar people,are camnibals
+love each other,ethnicity_region,68,Male,26–35 *,Employed *,Agriculture *,Christianity,Nigeria,Nigerian,en,love each other,['hausa'],love,each other
+People from East love most,ethnicity_region,68,Male,26–35 *,Employed *,Agriculture *,Christianity,Nigeria,Nigerian,en,People from East love most,['hausa'],people from east,love most
+People from West value respect,ethnicity_region,68,Male,26–35 *,Employed *,Agriculture *,Christianity,Nigeria,Nigerian,en,People from West value respect,['hausa'],people from west,value respect
+Middle-age people are busy,age,69,Male,26–35 *,A student *,,Christianity,Nigeria,Nigerian,en,Middle-age people are busy,['yoruba'],middle-age people,are busy
+Dark skin men are attractive,misc,69,Male,26–35 *,A student *,,Christianity,Nigeria,Nigerian,sv,Dark skin men are attractive,['yoruba'],dark skin men,attractive
+short women are Dangerous,misc,69,Male,26–35 *,A student *,,Christianity,Nigeria,Nigerian,en,short women are Dangerous,['yoruba'],short women,dangerous
+light skin ladies ate attractive,misc,69,Male,26–35 *,A student *,,Christianity,Nigeria,Nigerian,en,light skin ladies ate attractive,['yoruba'],light,skin ladies ate attractive
+The idea that men are violent when they're not rich,men,70,Male,18–25 *,Unemployed *,,Christianity,Nigeria,Nigerian,en,The idea that men are violent when they're not rich,['yoruba'],the idea that men,violent when they're not rich
+Most people in Nigeria believe that Muslims are violent,religion,70,Male,18–25 *,Unemployed *,,Christianity,Nigeria,Nigerian,en,Most people in Nigeria believe that Muslims are violent,['yoruba'],most people,in nigeria believe that muslims are violent
+The idea that male youths in Nigeria are internet fraudsters,age,70,Male,18–25 *,Unemployed *,,Christianity,Nigeria,Nigerian,en,The idea that male youths in Nigeria are internet fraudsters,['yoruba'],the idea that male youths in nigeria,internet fraudsters
+Muslims in the north are viewed as people of violence,religion,72,Female,18–25 *,Unemployed *,,Christianity,Nigeria,Nigerian,en,Muslims in the north are viewed as people of violence,['mwaghavul'],muslims in the north are viewed as people,of violence
+The middle belt people of Nigeria are often referred to as Hausa when they are not. They have their own separate languages,misc,72,Female,18–25 *,Unemployed *,,Christianity,Nigeria,Nigerian,en,The middle belt people of Nigeria are often referred to as Hausa when they are not,['mwaghavul'],the middle belt people,of nigeria are often referred to as hausa when they are not
+Fulani's are hostile,misc,74,Male,36–50 *,Security *,,Christianity,Nigeria,Nigerian,ro,Fulani's are hostile,['jukun'],fulani's,hostile
+people from the Fulani ethnic group are nomadic,ethnicity_region,75,Female,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,people from the Fulani ethnic group are nomadic,['igbo'],people from the fulani,ethnic group are nomadic
+programmers are introverted,profession,75,Female,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,no,programmers are introverted,['igbo'],programmers,introverted
+Italians are loud,misc,75,Female,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Italians are loud,['igbo'],italians,loud
+software developers are socially awkward,misc,75,Female,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,software developers are socially awkward,['igbo'],software developers,socially awkward
+Asians are smart,misc,75,Female,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Asians are smart,['igbo'],asians,smart
+People from different ethnic groups have different values and cultures,ethnicity_region,76,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,People from different ethnic groups have different values and cultures,['yoruba'],people from different,ethnic groups have different values and cultures
+Tailors and seamstress are not the same,profession,77,Female,18–25 *,A student *,,Christianity,Nigeria,Nigerian,en,Tailors and seamstress are not the same,['delta igbo'],tailors and seamstress,not the same
+I love anything related to food e.g Jollofrice with grilled chicken,misc,77,Female,18–25 *,A student *,,Christianity,Nigeria,Nigerian,en,I love anything related to food e,['delta igbo'],i,love anything related to food e
+I love anything related to food e.g Jollofrice with grilled chicken,misc,77,Female,18–25 *,A student *,,Christianity,Nigeria,Nigerian,en,g Jollofrice with grilled chicken,['delta igbo'],g,jollofrice with grilled chicken
+emotional laborers.,women,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,emotional laborers,['yoruba'],emotional,laborers
+mechanically inclined,men,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,mechanically inclined,['yoruba'],mechanically,inclined
+set in their ways,age,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,set in their ways,['yoruba'],set,in their ways
+technologically challenged,age,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,technologically challenged,['yoruba'],technologically,challenged
+Elderly people are frail,age,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,Elderly people are frail,['yoruba'],elderly people,are frail
+Millennials are narcissistic,age,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,ca,Millennials are narcissistic,['yoruba'],millennials,narcissistic
+socially conscious,age,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,socially conscious,['yoruba'],socially,conscious
+overworked and underpaid while Traders are persuasive,profession,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,overworked and underpaid while Traders are persuasive,['yoruba'],overworked and underpaid while traders,persuasive
+money-driven and passionate about business.,profession,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,money-driven and passionate about business,['yoruba'],money-driven,and passionate about business
+athletes are arrogant,misc,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,athletes are arrogant,['yoruba'],athletes,arrogant
+nerds are socially awkward,misc,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,nerds are socially awkward,['yoruba'],nerds,socially awkward
+introverts are shy,misc,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,introverts are shy,['yoruba'],introverts,shy
+extroverts are loud,misc,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,fr,extroverts are loud,['yoruba'],extroverts,loud
+city dwellers are sophisticated,misc,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,city dwellers are sophisticated,['yoruba'],city dwellers,sophisticated
+rural folks are simple,misc,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,ro,rural folks are simple,['yoruba'],rural folks,simple
+tourists are clueless,misc,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,fr,tourists are clueless,['yoruba'],tourists,clueless
+programmers are geniuses.,misc,78,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,da,programmers are geniuses,['yoruba'],programmers,geniuses
+asking single ladies when they're going to marry,women,79,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,asking single ladies when they're going to marry,['igbo'],asking,single ladies when they're going to marry
+Ebira people likes fighting a lot,ethnicity_region,79,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,Ebira people likes fighting a lot,['igbo'],ebira people,likes fighting a lot
+Igala people love diabolism,ethnicity_region,79,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,it,Igala people love diabolism,['igbo'],igala people,love diabolism
+Muslim prayer on Friday,religion,79,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,tr,Muslim prayer on Friday,['igbo'],muslim,prayer on friday
+Older people easily forget,age,79,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,Older people easily forget,['igbo'],older people,easily forget
+young people m are not as wise. Young blood are stronger than old people,age,79,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,Young blood are stronger than old people,['igbo'],young blood,stronger than old people
+Science inclined people are intelligent why art students aren,profession,79,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,Science inclined people are intelligent why art students aren,['igbo'],science inclined people,are intelligent why art students aren
+I've done that already,misc,79,Female,26–35 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,I've done that already,['igbo'],i've,done that already
+weaker sex,women,80,Male,36–50 *,Employed *,Education *,Christianity,Nigeria,Nigerian,af,weaker sex,['igala'],weaker,sex
+Drug peddling,ethnicity_region,80,Male,36–50 *,Employed *,Education *,Christianity,Nigeria,Nigerian,cy,Drug peddling,['igala'],drug,peddling
+religious bigots,ethnicity_region,80,Male,36–50 *,Employed *,Education *,Christianity,Nigeria,Nigerian,nl,religious bigots,['igala'],religious,bigots
+Traditionalists- Rituals,religion,80,Male,36–50 *,Employed *,Education *,Christianity,Nigeria,Nigerian,en,Traditionalists- Rituals,['igala'],traditionalists-,rituals
+people from East are business minded,ethnicity_region,81,Male,26–35 *,Employed *,Engineering  *,Christianity,Nigeria,Nigerian,en,people from East are business minded,['ibibio'],people from east,are business minded
+Dr stick to their professional norms,misc,81,Male,26–35 *,Employed *,Engineering  *,Christianity,Nigeria,Nigerian,en,Dr stick to their professional norms,['ibibio'],dr,stick to their professional norms
+Some professions are exclusively not for Women,women,82,Male,36–50 *,Employed *,Finance *,Christianity,Nigeria,Nigerian,en,Some professions are exclusively not for Women,['yoruba'],some professions,exclusively not for women
+less open minded,men,84,Male,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,da,less open minded,['yoruba'],less,open minded
+pilot flies planes,profession,84,Male,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,fr,pilot flies planes,['yoruba'],pilot,flies planes
+Being better than each other based on ethnicity wise,misc,84,Male,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Being better than each other based on ethnicity wise,['yoruba'],being,better than each other based on ethnicity wise
+Provide and protect his family,men,85,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Provide and protect his family,['yoruba'],provide,and protect his family
+Older generation think critically before taking any step,age,85,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Older generation think critically before taking any step,['yoruba'],older,generation think critically before taking any step
+I choose to keep this private,ethnicity_region,86,Male,26–35 *,Employed *,Manufacturing *,Christianity,Nigeria,Nigerian,en,I choose to keep this private,['yoruba'],i,choose to keep this private
+Younger generations are careless and uninterested in education,age,88,Male,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Younger generations are careless and uninterested in education,['igbo'],younger generations,careless and uninterested in education
+Blacks are lesser than whites,misc,88,Male,18–25 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,Blacks are lesser than whites,['igbo'],blacks,lesser than whites
+la femme est perçue comme ayant pour seul rôle de gérer les tâches domestiques,women,90,Male,26–35 *,Self-employed *,,Islam,Other Country,Other Nationality,fr,The woman is perceived as the sole role of managing domestic tasks,['mossi'],the woman,perceived as the sole role of managing domestic tasks
+la femme vertueuse doit faire preuve de douceur et de soumission et les femmes sont guidées principalement par leurs émotions.,women,90,Male,26–35 *,Self-employed *,,Islam,Other Country,Other Nationality,fr,The virtuous woman must show sweetness and submission and women are guided mainly by their emotions,['mossi'],the virtuous woman must show sweetness and submission and women,guided mainly by their emotions
+en réprimant toute manifestation de faiblesse ou d’émotion,men,90,Male,26–35 *,Self-employed *,,Islam,Other Country,Other Nationality,fr,by repressing any manifestation of weakness or emotion,['mossi'],by,repressing any manifestation of weakness or emotion
+notamment les larmes,men,90,Male,26–35 *,Self-employed *,,Islam,Other Country,Other Nationality,fr,especially tears,['mossi'],especially,tears
+et doivent avoir plusieurs partenaires pour être considérés comme de « vrais hommes » ; enfin,men,90,Male,26–35 *,Self-employed *,,Islam,Other Country,Other Nationality,fr,"and must have several partners to be considered as ""real men""; Finally",['mossi'],and must,"several partners to be considered as ""real men""; finally"
+Les Mossi aiment le pouvoir et le leadership,ethnicity_region,90,Male,26–35 *,Self-employed *,,Islam,Other Country,Other Nationality,fr,Mossi love power and leadership,['mossi'],mossi,love power and leadership
+les Mossi sont profondément attachés à leurs traditions et font preuve d’un grand conservatisme culturel.,ethnicity_region,90,Male,26–35 *,Self-employed *,,Islam,Other Country,Other Nationality,fr,Mossi are deeply attached to their traditions and show great cultural conservatism,['mossi'],mossi,deeply attached to their traditions and show great cultural conservatism
+Tous les musulmans sont arabes et terroristes.,religion,90,Male,26–35 *,Self-employed *,,Islam,Other Country,Other Nationality,fr,All Muslims are Arab and terrorists,['mossi'],all muslims,arab and terrorists
+vérité et de la parole.,age,90,Male,26–35 *,Self-employed *,,Islam,Other Country,Other Nationality,fr,truth and speech,['mossi'],truth,and speech
+Les policiers sont  perçus comme corrompus,profession,90,Male,26–35 *,Self-employed *,,Islam,Other Country,Other Nationality,fr,The police are perceived as corrupt,['mossi'],the police,perceived as corrupt
+Wolof sont digne,ethnicity_region,91,Male,36–50 *,Unemployed *,,Islam,Senegal,Senegalese,en,Wolof sont digne,['wolof'],wolof,sont digne
+n'aime pas école,age,91,Male,36–50 *,Unemployed *,,Islam,Senegal,Senegalese,fr,does not like school,['wolof'],does,not like school
+Diola aime le gnankatang,misc,91,Male,36–50 *,Unemployed *,,Islam,Senegal,Senegalese,tl,Diola loves gnankatang,['wolof'],diola,loves gnankatang
+wolofs are elegant,ethnicity_region,92,Female,18–25 *,A student *,,Islam,Senegal,Senegalese,af,wolofs are elegant,['peulh'],wolofs,elegant
+jollahs are strong,ethnicity_region,92,Female,18–25 *,A student *,,Islam,Senegal,Senegalese,sv,jollahs are strong,['peulh'],jollahs,strong
+love giving,religion,92,Female,18–25 *,A student *,,Islam,Senegal,Senegalese,da,love giving,['peulh'],love,giving
+good advisor. Young people are daring,age,92,Female,18–25 *,A student *,,Islam,Senegal,Senegalese,en,good advisor,['peulh'],good,advisor
+never get sick,profession,92,Female,18–25 *,A student *,,Islam,Senegal,Senegalese,da,never get sick,['peulh'],never,get sick
+super smart,profession,92,Female,18–25 *,A student *,,Islam,Senegal,Senegalese,ca,super smart,['peulh'],super,smart
+the cream of the cream. Entrepreneurs are mad,profession,92,Female,18–25 *,A student *,,Islam,Senegal,Senegalese,en,Entrepreneurs are mad,['peulh'],entrepreneurs,mad
+should get a proper job,profession,92,Female,18–25 *,A student *,,Islam,Senegal,Senegalese,en,should get a proper job,['peulh'],should,get a proper job
+not willing for stability. Laws are liars,profession,92,Female,18–25 *,A student *,,Islam,Senegal,Senegalese,en,Laws are liars,['peulh'],laws,liars
+Running out of idea,misc,92,Female,18–25 *,A student *,,Islam,Senegal,Senegalese,en,Running out of idea,['peulh'],running,out of idea
+Older folks are kinder and more tolerant to the to the children,age,93,Male,Over 50 *,Employed *,Healthcare   *,Christianity,Nigeria,Nigerian,en,Older folks are kinder and more tolerant to the to the children,['yoruba'],older folks,kinder and more tolerant to the to the children
+younger folks are too money conscious,age,93,Male,Over 50 *,Employed *,Healthcare   *,Christianity,Nigeria,Nigerian,en,younger folks are too money conscious,['yoruba'],younger folks,too money conscious
+gen-Zs are impulsive,age,93,Male,Over 50 *,Employed *,Healthcare   *,Christianity,Nigeria,Nigerian,ro,gen-Zs are impulsive,['yoruba'],gen-zs,impulsive
+None that I can think of now,misc,93,Male,Over 50 *,Employed *,Healthcare   *,Christianity,Nigeria,Nigerian,en,None that I can think of now,['yoruba'],none,that i can think of now
+Les Peulhs sont ethnicistes . Les Wolofs se croient au dessus de tout le monde,ethnicity_region,94,Male,Over 50 *,Employed *,Education *,Islam,Senegal,Senegalese,fr,Wolofs believe themselves above everyone,['peulh'],wolofs,believe themselves above everyone
+Les commerçants sont riches,profession,94,Male,Over 50 *,Employed *,Education *,Islam,Senegal,Senegalese,fr,Merchants are rich,['peulh'],merchants,rich
+Les Africains attendent trop des autres,misc,94,Male,Over 50 *,Employed *,Education *,Islam,Senegal,Senegalese,fr,Africans expect too much from others,['peulh'],africans,expect too much from others
+Touts are vulgar,profession,95,Male,26–35 *,Self-employed *,,Other,Kenya,Kenyan,et,Touts are vulgar,"['kikuyu', 'luo']",touts,vulgar
+If you are young you can't run a company,misc,95,Male,26–35 *,Self-employed *,,Other,Kenya,Kenyan,en,If you are young you can't run a company,"['kikuyu', 'luo']",if you,young you can't run a company
+Kind & nurturing,women,96,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,de,Kind & nurturing,['idoma'],kind,& nurturing
+warm & receptive,women,96,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,warm & receptive,['idoma'],warm,& receptive
+strong & resilient,women,96,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,af,strong & resilient,['idoma'],strong,& resilient
+intelligent and skillful,men,96,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,da,intelligent and skillful,['idoma'],intelligent,and skillful
+that He is the Messiah anointed by God to save humanity,religion,96,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,that He is the Messiah anointed by God to save humanity,['idoma'],that he,the messiah anointed by god to save humanity
+older adults are perceived as strong and fragile,age,96,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,older adults are perceived as strong and fragile,['idoma'],older adults,perceived as strong and fragile
+intelligent and disciplined. Doctors are termed as smart,profession,96,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,intelligent and disciplined,['idoma'],intelligent,and disciplined
+all knowing and unemotional,profession,96,Female,36–50 *,Self-employed *,,Christianity,Nigeria,Nigerian,en,all knowing and unemotional,['idoma'],all,knowing and unemotional
+good leaders.,women,97,Male,36–50 *,Self-employed *,,Christianity,Kenya,Kenyan,en,good leaders,['luo'],good,leaders
+hard working,men,97,Male,36–50 *,Self-employed *,,Christianity,Kenya,Kenyan,af,hard working,['luo'],hard,working
+bread winners.,men,97,Male,36–50 *,Self-employed *,,Christianity,Kenya,Kenyan,en,bread winners,['luo'],bread,winners
+development consciousness,religion,97,Male,36–50 *,Self-employed *,,Christianity,Kenya,Kenyan,fr,development consciousness,['luo'],development,consciousness
+Ga people are aggressive and quick-tempered,ethnicity_region,99,Male,26–35 *,Self-employed *,,Christianity,Other Country,Nigerian,en,Ga people are aggressive and quick-tempered,['yoruba'],ga people,are aggressive and quick-tempered
+Tech people are rich,profession,99,Male,26–35 *,Self-employed *,,Christianity,Other Country,Nigerian,en,Tech people are rich,['yoruba'],tech people,are rich
+PR don't understand what they do,profession,99,Male,26–35 *,Self-employed *,,Christianity,Other Country,Nigerian,en,PR don't understand what they do,['yoruba'],pr,don't understand what they do
+Women who are financially stable are threats to their families,women,100,Female,18–25 *,A student *,,Islam,Nigeria,Nigerian,en,Women who are financially stable are threats to their families,['yoruba'],women who,financially stable are threats to their families
+men who show emotions are weak,men,100,Female,18–25 *,A student *,,Islam,Nigeria,Nigerian,en,men who show emotions are weak,['yoruba'],men who show emotions,weak
+herbalists are wicked,profession,100,Female,18–25 *,A student *,,Islam,Nigeria,Nigerian,en,herbalists are wicked,['yoruba'],herbalists,wicked
+architects are women,profession,100,Female,18–25 *,A student *,,Islam,Nigeria,Nigerian,en,architects are women,['yoruba'],architects,women
+Women should not have a say in household or family matters,women,101,Female,18–25 *,A student *,,Islam,Nigeria,Nigerian,en,Women should not have a say in household or family matters,['yoruba'],women should not,a say in household or family matters
+Ebira people arr wicked,ethnicity_region,101,Female,18–25 *,A student *,,Islam,Nigeria,Nigerian,en,Ebira people arr wicked,['yoruba'],ebira people,arr wicked
+Nigerian federal institution system is the best,misc,101,Female,18–25 *,A student *,,Islam,Nigeria,Nigerian,en,Nigerian federal institution system is the best,['yoruba'],nigerian federal institution system,the best
+the Northerns are family oriented,ethnicity_region,102,Male,26–35 *,Employed *,Entertainment *,Christianity,Nigeria,Nigerian,en,the Northerns are family oriented,['igbo'],the northerns,family oriented
+while traditional worship serve idols,religion,102,Male,26–35 *,Employed *,Entertainment *,Christianity,Nigeria,Nigerian,en,while traditional worship serve idols,['igbo'],while,traditional worship serve idols
+Professors are educational leaders,misc,102,Male,26–35 *,Employed *,Entertainment *,Christianity,Nigeria,Nigerian,en,Professors are educational leaders,['igbo'],professors,educational leaders
+Emotional: women are too Emotional in reacting to issue's,women,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,Emotional: women are too Emotional in reacting to issue's,['yoruba'],emotional: women,too emotional in reacting to issue's
+Caregivers:  women  are often see as a lover of children and the elderly add hey do so with empathy.,women,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,Caregivers:  women  are often see as a lover of children and the elderly add hey do so with empathy,['yoruba'],caregivers:  women,often see as a lover of children and the elderly add hey do so with empathy
+Weaknesses: women are weak in decision making especially relationships decision.,women,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,Weaknesses: women are weak in decision making especially relationships decision,['yoruba'],weaknesses: women,weak in decision making especially relationships decision
+Ego: men are seem to be arrogant,men,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,nl,Ego: men are seem to be arrogant,['yoruba'],ego: men,seem to be arrogant
+Aggressive:  most men are emotionally aggressive towards women,men,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,Aggressive:  most men are emotionally aggressive towards women,['yoruba'],aggressive:  most men,emotionally aggressive towards women
+Body physic,men,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,cy,Body physic,['yoruba'],body,physic
+Financial stability: men are being stereotypes base on Financial capabilities.,men,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,Financial stability: men are being stereotypes base on Financial capabilities,['yoruba'],financial stability: men,being stereotypes base on financial capabilities
+Islam: people believe you're fanatic related to you base on  this.,ethnicity_region,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,Islam: people believe you're fanatic related to you base on  this,['yoruba'],islam: people,believe you're fanatic related to you base on  this
+Similar thing happens if u are a Christian some folks are not just comfortable relating to you base on your religion association,ethnicity_region,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,Similar thing happens if u are a Christian some folks are not just comfortable relating to you base on your religion association,['yoruba'],similar thing happens if u,a christian some folks are not just comfortable relating to you base on your religion association
+Ethnicity: some people fee more comfortable and associated with their ethnic group,ethnicity_region,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,Ethnicity: some people fee more comfortable and associated with their ethnic group,['yoruba'],ethnicity: some people,fee more comfortable and associated with their ethnic group
+they see other ethnic are bad or evil.,ethnicity_region,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,they see other ethnic are bad or evil,['yoruba'],they see other ethnic,bad or evil
+Muslim: been Muslim is a crime to spe people 🙄 because you're presumably a terrorist or fanatic.,religion,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,Muslim: been Muslim is a crime to spe people 🙄 because you're presumably a terrorist or fanatic,['yoruba'],muslim: been muslim is a crime to spe people,🙄 because you're presumably a terrorist or fanatic
+Christianity : they seem as conservative,religion,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,Christianity : they seem as conservative,['yoruba'],christianity,: they seem as conservative
+not relevant with trends. Even seem as a witch,age,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,Even seem as a witch,['yoruba'],even,seem as a witch
+too rigid with culture,age,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,too rigid with culture,['yoruba'],too,rigid with culture
+There are alot of steotypes associated with profession examples Police officers are presume to be corrupt,profession,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,There are alot of steotypes associated with profession examples Police officers are presume to be corrupt,['yoruba'],there,alot of steotypes associated with profession examples police officers are presume to be corrupt
+Prostitution : referring to a lady as a prostitute,misc,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,Prostitution : referring to a lady as a prostitute,['yoruba'],prostitution,: referring to a lady as a prostitute
+Short people: referring to them as dwarf,misc,103,Male,26–35 *,Employed *,IT & Software   *,Christianity,Nigeria,Nigerian,en,Short people: referring to them as dwarf,['yoruba'],short,people: referring to them as dwarf
+People from Kogi are wicked,ethnicity_region,104,Female,26–35 *,Unemployed *,,Islam,Nigeria,Nigerian,en,People from Kogi are wicked,"['yoruba', 'nupe']",people from kogi,are wicked
+People from the northern states are decent,ethnicity_region,104,Female,26–35 *,Unemployed *,,Islam,Nigeria,Nigerian,en,People from the northern states are decent,"['yoruba', 'nupe']",people from the northern,states are decent
+Dont know,ethnicity_region,105,Male,36–50 *,A student *,,Islam,Nigeria,Nigerian,en,Dont know,['hausa'],dont,know
+Dont know,misc,105,Male,36–50 *,A student *,,Islam,Nigeria,Nigerian,en,Dont know,['hausa'],dont,know

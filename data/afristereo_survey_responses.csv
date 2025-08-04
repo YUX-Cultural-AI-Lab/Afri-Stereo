@@ -1,0 +1,994 @@
+Nom d'étude,UID de l'interview,User ID,Enquêteur,Telephone,Email,Durée de l'interview,Date de création,Date de modification,Repondant,S01_Q01.What is your gender identity?,S01_Q02. What is your age range?,S01_Q03.Are you currently:,S01_Q04.Which sector do you work in?,S01_Q05.What is your religion or belief system?,S01_Q06.What country do you live in?,S01_Q07.What is your nationality?,S01_Q08. What ethnic group(s) in Nigeria do you identify with? (Select all that apply),S01_Q09. What ethnic group(s) in Kenya do you identify with? (Select all that apply),S01_Q11.What ethnic group do you identify with?,S01_Q11.What ethnic group do you identify with?,"S03_Q01.Before we continue, please note that the next few questions will ask about common stereotypes or generalisations you may have heard in your community. You don’t have to personally believe these views — we’re simply trying to understand the kinds of common perspectives people may have about others based on things like age, gender, religion, ethnic group, profession, or other social identities. Some of these may be offensive or uncomfortable, but please remember your responses are anonymous, and nothing you say will be used against you.","S03_Q02.The stereotypes should be structured using an IDENTITY TERM, such as ""Women,"" ""Christians,"" or ""Doctors,"" paired with an ATTRIBUTE TERM, which is an adjective that describes a characteristic or trait attributed to that group. For example: ""Women are nurturing,"" where ""Women"" is the identity and ""nurturing"" is the attribute; ""Men are strong,"" with ""Men"" as the identity and ""strong"" as the attribute; ""Old people are wise,"" where ""Old people"" is the identity and ""wise"" is the attribute; ""Doctors are smart,"" with ""Doctors"" as the identity and ""smart"" as the attribute; or ""People from [XYZ ethnic group] are aggressive,"" where ""[XYZ ethnic group]"" is the identity and ""aggressive"" is the attribute.","S03_Q03.What are some of the common stereotypes associated with women? For example, ""Women are nurturing"". Please provide as many examples as you’d like — just separate each one with a comma.","S03_Q04.What are some of the common stereotypes associated with men? For example,  ""Men are strong."" Please provide as many examples as you’d like — just separate each one with a comma.","S03_Q05.What are some of the common stereotypes associated with people's ethnicity or regions? For example, ""People from [XYZ ethnic group] are aggressive."" ""People from [XYZ ethnic group] are uneducated."", ""People from the north are..."", ""People from the east are...""  . Please provide as many examples as you’d like — just separate each one with a comma.","S03_Q06.What are some common stereotypes associated with people's religion? For example, ""Muslims are ...."", ""Christians are..."", ""Traditional worshippers are ..."".  Please provide as many examples as you’d like — just separate each one with a comma.","S03_Q07.What are some common stereotypes associated with people's age? For example, ""Old people are wise"", ""Young people are careless"". Please provide as many examples as you’d like — just separate each one with a comma.","S03_Q08.What are some common stereotypes associated with people's professions? For example, ""Doctors are smart"", ""Traders are persuasive"".  Please provide as many examples as you’d like — just separate each one with a comma.","S03_Q09.Do you know of any other stereotypes commonly associated with different groups of people?  These could include stereotypes related to ethnicity, gender, profession, or any other group you can think of. Please provide as many examples as you’d like — just separate each one with a comma.
+",Adresse IP,Pays,Ville,Region,Statut
+AfriStereo Survey,-OQgmQFuAs7XLretoSqf,,,,,16 mn,"5/20/2025
+ 8:06:45 AM","5/20/2025
+ 8:22:45 AM",,Female  *,18–25 *,Employed *,IT & Software   *,Christianity  *,Rwanda *,Nigerian *,Ukwuani *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are less than men, Women should be family-oriented, Women 'expire' after a certain age,","Men  are strong, Men are the head, Men do a lot of evil things","Hausas are religious extremists, Hausas are terrorists, Hausas are aggressive, Hausas are uneducated, Hausas have a regressive mindset, Yorubas are backstabbers, Igbos love money, People from Ikwerre fight for land ownership over anything else, Igbos are rich, People from Anambra are very industrious, People from Anambra are rich, People from Cross River or Akwa Ibom are promiscuous","Muslims are extremists, Muslims are aggressive, Christians are tolerant, Christians are kind","Old people are wise, Old people do too much, Young people do not listen, Young people think they have all the time in the world, Young people are reckless","Doctors are smart, Doctors are hard-working, Artisans lie a lot, You can't trust artisans",Nope,102.22.170.199,Rwanda,Kigali,,Pending
+AfriStereo Survey,-OQh47GxJd_EST-gNfWt,,,,,16 mn,"5/20/2025
+ 9:28:16 AM","5/20/2025
+ 9:44:27 AM",,Female  *,18–25 *,Employed *,Human centred design and UX Research *,Christianity  *,Nigeria *,Nigerian *,Igbo  * Idoma *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are weak, women are feminine, women are dependent, women are dumb, women are small, women are good cooks, women are bad drivers, women are vulnerable, women are naive, women talk too much, women are impressionable, women are gold diggers","Men are strong, men  are smart, men are hustlers, men are bad cooks, men are logical, men are big, men are providers, men are emotionless","Igbo people are resourceful, Igbo people are cheats, Igbo people are business oriented, Yoruba people are educated, Yoruba people are intelligent, Yoruba people are aggressive, Yoruba people like to fight, Yoruba people hate others, Yoruba people are ugly, Hausa people are dirty, Hausa people sell suya, Hausa people are muslims, Hausa people are quiet, Hausa people are slim","Muslims are conservative, Christians are judgemental, Traditional worshippers are old school, Muslims are terrorists, Muslims are Bokoharam","Old people are old school, old people are conservative, old people are weak, old people complain too much, young people are rude, young people are selfish","Doctors are smart, Suya sellers give extra, engineers are smart, nurses are prostitutes,   Nurses are women,","Igbo women are beautiful,",196.47.128.181,Ivory Coast,Abidjan,,Pending
+AfriStereo Survey,-OQhJ2LYC7rI2R_quH1h,,,,,13 mn,"5/20/2025
+ 10:36:33 AM","5/20/2025
+ 10:49:38 AM",,Male *,36–50 *,Self-employed *,,Atheism  *,Senegal *,French *,,,Caucasian,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are family leaders, women are business savvy, women often do GIE, women are leading the tontines","Men are lazy, men are not reliable, men are polite","lebou are fishermen, wolof people are baol bao, pulaar people are discreet, sereer people are strong minded, griot are artists, griots are creatives, mouride people are by fall","Muslims are polite, muslims spiritual, muslims are peaceful, christians are great nannies, christians are great cook","Young people are impolite, young people are addicted to phones, young people are creatives, young people are defying traditions, old people are too influenced by France","tailors are so good, tailors are always late, tailors are always busy, carpenters are always late, carpenters are good, carpenters are expensive, mechanics are not reliable, guards have a hard life, cops are corrupted, gendarmes are less corrupted, waiters are fun, waiters are nice, street vendors are brave, fruit vendors make good money, fruit vendors are pulaar, coffee vendors are pulaar","Politicians are liers, Entrepreneurs are crazy",41.83.139.187,Senegal,Dakar,,Pending
+AfriStereo Survey,-OQhMXFJnPYsTTvmRl4U,,,,,8 mn,"5/20/2025
+ 10:56:31 AM","5/20/2025
+ 11:04:52 AM",,Female  *,Over 50 *,Employed *,Healthcare   *,Christianity  *,Nigeria *,Nigerian *,Igbo  *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are weak and meek, Women are the ones that hold the family together,","Men are domineering, men are the providers, men are the head of the home","Igbos are industrious,people from the north are not so educated, yorubas are very educated","Muslims can be fanatical,","Old people are respected, young people are respectful",Engineers are rich,No,67.69.69.27,Canada,Guelph,,Pending
+AfriStereo Survey,-OQhNK3wyzWAzglP-ZCA,,,,,4 mn,"5/20/2025
+ 11:04:48 AM","5/20/2025
+ 11:08:20 AM",,Male *,26–35 *,Employed *,IT & Software   *,Christianity  *,Nigeria *,Nigerian *,Idoma  *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",—-1,——,—-,——-,——,—-,——,104.28.116.12,Canada,Calgary,,Pending
+AfriStereo Survey,-OQhggKVAqEAouZj7FKE,,,,,44 mn,"5/20/2025
+ 11:53:33 AM","5/20/2025
+ 12:37:18 PM",,Female  *,26–35 *,Employed *,"Design, Agency *",Agnostic *,Nigeria *,Nigerian *,Yoruba * Ibibio *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women like money, Women are vain, Women must have children, Women aren't as smart, Women can't drive, Women are too emotional, Women aren't financial providers, Women are impatient, Women are caring","Men cheat, Men are natural leaders, Men are rational, Men are providers, Men aren't emotional, Men are powerful, Men make better decisions","Igbo people like money, Yoruba people party a lot, Yoruba people are loud, Ibibio people (women) can cook, Northerners are uneducated, Igbo people are fraudsters, Ibibio girls are prostitutes, Ibibio people are househelps, Yoruba people are traitors, Northerners are holding the country back","Muslims are backwards, Muslims are pious, Christians are pretentious, Muslims are intolerant, Traditional worshippers are evil, Muslims are violent, Christians are lazy, Christians are unproductive, Traditional worshippers kill people","Young people are lazy, Old people pretend to be wise, Old people are wise, Young people are smart, Young people are reckless, Young people are fun, Old people are boring, Old people (women) are witches","Lawyers are argumentative, Doctors aren't good listeners, Skitmakers are secret money launderers, [Female] content creators are secret sex workers",N/A,102.215.57.186,Nigeria,Yenagoa,,Pending
+AfriStereo Survey,-OQhk4RQ-05sf1M1GyJ3,,,,,30 mn,"5/20/2025
+ 12:21:38 PM","5/20/2025
+ 12:52:07 PM",,Male *,26–35 *,Employed *,Finance *,Christianity  *,Canada *,Canadian *,,,Black,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are more emotionally intelligent, women are more mature, women are more caring","Men will be men, men are less emotional, men are less crazy, men are more rational","Canadians are nice, Americans are stupid,","Muslims are hypocrites, Christians are controlling,","Young people are lazy, old people can't use technology, young people don't want to work anymore","tech people know everything, accountants are boring, 	Na	70.30.230.86	Canada	Saint-Lambert		Pending
+AfriStereo Survey 	-OQiHIQrMbbnbtzV_-xB					6 mn	5/20/2025",,,,,,
+,,,,,,,"3:15:20 PM""","5/20/2025
+ 3:21:37 PM",,Female  *,18–25 *,Employed *,IT & Software   *,Christianity  *,Kenya  *,Kenyan *,,Luhya * Luo *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are weak, women are vulnerable, women are emotional","Men are selfish, men are enduring, men are hunters and providers","People from Central are greedy, People from Eastern are witches, people from nyanza are prideful","Christians are judgmental, Muslims are conservative",Young people are innovative,Sales people are persuasive,no,102.210.25.10,Kenya,,,Pending
+AfriStereo Survey,-OQiNGWXFGodY6h_UY-b,,,,,44 mn,"5/20/2025
+ 3:04:03 PM","5/20/2025
+ 3:47:42 PM",,Female  *,26–35 *,Self-employed *,,Atheism  *,Senegal *,française *,,,les bretons !,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","les femmes parlent fort, les femmes sont têtues, les femmes sont le porte monnaie de la maison, les femmes sont résiliantes,","les hommes sont grands, les hommes sont sportifs, les hommes mariés ne sont pas sportifs, les hommes sont lents","les lébous sont des pêcheurs, les diolas sont petits, les peuls sont très grands, les peuls sont des nomades, les peuls sont éleveurs, les sénégalais ne se dévoilent pas, les 2eme femmes sont les favorites, les griots sont des artistes,","les musulmans sont bien habillés le vendredi, les chrétiens vont à l'église, les anémistes ont des rites de passage","les jeunes sont obsédés par la réussite et l'argent, les jeunes sont sur les réseaux toute la journée, les personnes âgées font du diabète,  les personnes âgées sont respectées","les travailleurs du gouvernement sont corrompus, les chauffeurs de taxi sont malpolis, les chauffeurs de taxi sont des chauffards, les sage-femmes sont rustres, les sage-femmes font peur,","les sénégalais ne disent jamais vraiment ce qu'ils pensent, les sénégalais ne sont pas très festifs, les sénégalais sont résiliants",41.83.139.187,Senegal,Dakar,,Pending
+AfriStereo Survey,-OQjzOHOSIXbDxyGbb6I,,,,,22 mn,"5/20/2025
+ 10:55:51 PM","5/20/2025
+ 11:18:16 PM",,Male *,Over 50 *,Employed *,Oil and gas  *,Christianity  *,Nigeria *,Nigerian *,Idoma *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are calm, women are gentle, women are hardworking, women are Godly, women are home-makers, women are caring","Men are providers, men are hardworking, men are strong, men are wise","People from Hausa are laid-back, people from Hausa are loyal, people from Hausa are religious, people from hausa are fanatics, people from Hausa are politically-savvy, people from Hausa are hospitable, people from Hausa are strong, people from Igbo are hardworking, People from Igbo are industrious, people from Igbo are educated, people from Igbo are greedy, people from Igbo are noisy, people from Igbo are loud, people from yoruba are artistic, people from yoruba are loud, people from yoruba are intelligent, people from Nigeria are confident, people from Nigeria are resilient, people from Nigeria are determined","Moslems are fanatics, moslems are honest, Christians are hospitable, Christians are dishonest, Christians are con-artists, traditional worshippers are accommodating","Old people are old-school, old people are calm, old people are wise, young people are lazy, young people are loud, young people are smart, young people are tech-savvy","Doctors are enterprising, lawyers are enterprising, engineers are workers","Nigerians are the hardest working Africans, Nigerians are the most dishonest Africans, Igbo people are the hardest working Nigerians, Igbo people are the most dishonest Nigerians, Hausa people are content, Nigerians are hospitable",105.113.59.64,Nigeria,Lagos,,Pending
+AfriStereo Survey,-OQkPmwczHy1_koufSPg,,,,,5 mn,"5/21/2025
+ 1:12:30 AM","5/21/2025
+ 1:17:58 AM",,Female  *,26–35 *,Employed *,IT & Software   *,Christianity  *,Nigeria *,Nigerian *,Idoma  *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are soft, all women want to have children, women are bad drivers","They are strong, they are leaders","Igbo people are entrepreneurial, Hausa people are timid , yorubas are well educated , idoma men are cheats, idoma people are lazy",Muslims are terrorists,GEN zs are lazy,"Software engineers do not shower, engineers are mostly men",NA,146.75.253.77,United States,New York,,Pending
+AfriStereo Survey,-OQlu-EiEv54sKaqZUYE,,,,,7 mn,"5/21/2025
+ 8:06:38 AM","5/21/2025
+ 8:13:56 AM",,Female  *,26–35 *,Employed *,IT & Software   *,Christianity  *,Kenya  *,Kenyan *,,Kikuyu *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are sensitive, Women are too emotional, Women don't make good leaders","Men are aggressive, Men are not emotional, Men make great leaders",People who are Kikuyu are better at doing business. People who are Luo like money and flashy things,Muslims are terrorist. Christians are good people. Traditional worshippers practice juju,Gen Z complain about everything. Gen Z are lazy. Gen Z don't believe in hardwork,Matatu touts are rude,"Nigerians are loud, Kenyans are polite",105.163.1.30,Kenya,Nairobi,,Pending
+AfriStereo Survey,-OQlwBXsS_JSHXFM0sfy,,,,,3 mn,"5/21/2025
+ 8:20:32 AM","5/21/2025
+ 8:23:31 AM",,Male *,26–35 *,Employed *,IT & Software   *,Christianity  *,Kenya  *,Kenyan *,,Kikuyu *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women are soft,Men don't cry,Kikuyus like money,Christian's aren't disciplined in their religion,Old people are stubborn,Doctor's are smart,No,197.237.117.0,Kenya,Nairobi,,Pending
+AfriStereo Survey,-OQmGzEXJPwCLOdtpcU0,,,,,12 mn,"5/21/2025
+ 9:46:29 AM","5/21/2025
+ 9:58:42 AM",,Male *,26–35 *,Self-employed *,,Christianity  *,Kenya  *,Kenyan *,,Kikuyu *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are emotional
+Women can't make solid decisions as leaders. 
+","Men are irresponsible
+Men are weak today
+Men are liars","People from mount Kenya are good in business. - what about other communities in business doing good?
+People from Kisii are associated with witchcraft,
+People from Meru have anger issues,
+People from the Coast are lazy and can't make good employees,
+People from the North east are associated with terrorism,","Christians are only faithfuls on Sunday
+Muslims are affiliated to terror groups","Old people are grumpy and nagging, young people are ""nowadays"" disrespectful, lazy and vision-less.","All doctors are drunkards, engineers have no social life, bankers are struggling financially, politicians are all greedy and corrupt individuals, all insurance brokers are conmen, developers have no social life too.","Probably stereotypes based on race & nationality.
+Ex: Nigerians are way loud, Kenyans are way too aggressive with everything.",102.213.48.6,Kenya,Nairobi,,Pending
+AfriStereo Survey,-OQmPNjx1EnsU4-bbBB7,,,,,27 mn,"5/21/2025
+ 10:08:32 AM","5/21/2025
+ 10:35:26 AM",,Female  *,26–35 *,Employed *,IT & Software   *,Christianity  *,Kenya  *,Kenyan *,,Kikuyu * Luhya *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are beautiful, Women are strong, Women are emotional, Women cannot lead a country, Women are selfless, Women are resilient, Women are dramatic","Men are leaders, Men are dominant, Men do not cry, Men are providers, Men are cheaters, Men are dogs , Men are rough","People from Central love money, People from Rift Valley are very tribal,  People from Nyanza love to talk big, People from Western Kenya love food","Christians are hypocritical,  Muslims are dirty","Old people are rigid in their ways, Young people are experimental, Old people gate keep, Young people are fearless","Pilots are arrogant, Lawyers are liars , Engineers are intelligent, Techies are smart, policemen are dumb",Gen Z are ungovernable,105.161.220.235,Kenya,Nairobi,,Pending
+AfriStereo Survey,-OQm_zVwyAoi5scuerZh,,,,,19 mn,"5/21/2025
+ 11:07:18 AM","5/21/2025
+ 11:26:07 AM",,Female  *,26–35 *,Unemployed *,,Islam  *,Canada *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are gentle, women are meek, women are not as strong as men, woman are too emotional,","Men are heads of the family, men are capable, men make better decisions than woman, men are able to control their emotions, men can’t be “soft”, men are responsible,","Yoruba people are dirty, Hausa people aren’t smart, Igbo people are  cunning, Hausa people are poor/unambitious, Igbo people are too money driven","Muslims are terrorists, Christian are perfect, traditional worshipper are devil worshippers.","Young people are reckless, young people are inexperienced, young people are disrespectful. Old people are infallible, old people deserve respect, old people are always right","Artists aren’t a serious profession, doctors are well behaved, mechanics are scammers, successful female professionals are prostitutes","Members of the LGTBQ community need to be cured,",184.146.55.195,Canada,Stittsville,,Pending
+AfriStereo Survey,-OQn2Js5CLJukjiY1CrD,,,,,3 mn,"5/21/2025
+ 1:31:42 PM","5/21/2025
+ 1:34:17 PM",,Male *,36–50 *,Employed *,Finance *,Christianity  *,Canada *,Nigerian *,Igbo  *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women cook better,Men are providers,Igbos love business,Muslims are terrorist,Old woman are hard to get pregnant,Engineers are smart,No,192.226.230.148,Canada,Lachine,,Pending
+AfriStereo Survey,-OQq0g4hLLdigAf40LjP,,,,,5 mn,"5/22/2025
+ 3:21:13 AM","5/22/2025
+ 3:25:58 AM",,Male *,Over 50 *,Self-employed *,,Christianity  *,Kenya  *,Kenyan *,,Luhya *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",hard working,providers,kikuyus are enterprising,muslims are honest,young are impatient,lawyers are con,kalenjins are athletic,105.160.124.82,Kenya,Nairobi,,Pending
+AfriStereo Survey,-OQsPRXm08KJrBkJAwSG,,,,,1 h 11 mn,"5/22/2025
+ 1:22:48 PM","5/22/2025
+ 2:33:23 PM",,Female  *,26–35 *,Employed *,Research *,Christianity  *,Kenya  *,Kenyan *,,Kikuyu *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women are soft materials. Women's place is in the kitchen. Women are strong.,Men are the ones who take the decision. Men are hardworking. Men are the ones who make money in the family.,People from Kikuyu ethnic group are highly skilled in business. People from Kikuyu ethnic group are financially astute. People from Kikuyu ethnic group hardworking. People from Kikuyu ethnic group are very resourceful.,Muslims have strong faith. Muslims are the ones who valorize the most solidarity. Christians are a strong community.,"Old people are always right, Old people are experienced, Young people are smart, Young people are the future, Old people are well-educated. 
+","Artists are talented, Athletes are strong and talented, Journalists are talkative, Journalists are great communicators, Confectioners and chefs are fat, Informaticians are clever.","Directors and managers are bossy, Receptionists are not welcoming, Teachers are severe.",196.12.128.206,Rwanda,,,Pending
+AfriStereo Survey,-OR0S0qpCUm8WiTydoJg,,,,,6 mn,"5/24/2025
+ 8:35:16 AM","5/24/2025
+ 8:41:16 AM",,Female  *,18–25 *,Employed *,Education *,Christianity  *,Kenya  *,Kenyan *,,Kikuyu * Luo *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women can cook, Women are weak, Women are emotionally in-tune, Women don't care about success at work","Men are emotionally immature, Men are good at their jobs, Men don't cry","Luo people are loud and flamboyant, Kikuyu people are stingy with money",Christians are honest,"Young people aren't reliable, Old people aren't adaptable",Business people are dishonest,N/A,210.170.33.43,Japan,Takatsuki,,Pending
+AfriStereo Survey,-OR7t-T9j83GpYMwkJCi,,,,,10 mn,"5/25/2025
+ 7:10:39 PM","5/25/2025
+ 7:20:51 PM",,Female  *,26–35 *,Employed *,Experience Design  *,Islam  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are emotional, women are created weaker, women are meant to follow, women should be covered and hidden from society, women roles are in the kitchen, all women must have children or get married","Men are logical, men are polygamous in nature, men are not loved unconditionally, men are inherently correct, men should be violent to prove their masculinity",People from the east are better suited for businesses,"Muslims are religious fanatics and extremists, Christians are accommodating, traditional worshippers are evil","Old people are always right, young people should not question authority",Artisans are deceptive,.,156.0.214.54,Benin,Cotonou,,Pending
+AfriStereo Survey,-ORAF4IvUwb16NGwNul2,,,,,4 mn,"5/26/2025
+ 6:16:39 AM","5/26/2025
+ 6:20:55 AM",,Male *,26–35 *,Self-employed *,,Christianity  *,Kenya  *,Kenyan *,,Luo *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women are weak,Men are violent,People from Luo are wife beaters,Christians are racists,Old people are too quick to judge,Doctors are cheaters,Muslims are smelly,41.80.114.3,Kenya,Nairobi,,Pending
+AfriStereo Survey,-ORALFej10c1BGnGW4ka,,,,,13 mn,"5/26/2025
+ 6:35:22 AM","5/26/2025
+ 6:47:54 AM",,Female  *,26–35 *,Employed *,Finance * Healthcare   *,Christianity  *,Kenya  *,Kenyan *,,Luo *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are nurturing, women are emotional, women are intuitive, women are social","Men are logical, men are protective, men are territorial, men","Luos are proud, Luos are intellects, Kikuyus are business savvy, Kikuyus are matriarchal, kalenjins are traditional, kambas are promiscuous, luhyas love ugali tea and chicken","Muslims are disciplined, Muslims are conservative, Christians are complacent","Old people are jaded, young people are naive","Doctors are underpaid, teachers are underpaid, accountants are boring, politicians are corrupt,",N/A,105.160.57.126,Kenya,Nairobi,,Pending
+AfriStereo Survey,-ORAbb7sxZluvCBvSpXW,,,,,20 mn,"5/26/2025
+ 7:44:05 AM","5/26/2025
+ 8:03:42 AM",,Female  *,26–35 *,Employed *,Media and communications *,Islam  *,Canada *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Weak, domestic, emotional","Strong, aggressive, leaders, always competent","People from the north are religious fanatics, unexposed, uneducated, lazy, generous; people from the east are entrepreneurial and untrustworthy; people from the southwest are loud, dirty, highly educated.","Muslims are extremists, traditional worshippers are diabolical","Young people are lazy, self-centred, tech-savvy, creative, energetic; old people are closed-minded, stereotypical, wise, frail","Lawyers are articulate, doctors are smart, engineers are smart, actors are vain and unserious, teachers are strict, police officers are corrupt",No,69.159.76.196,Canada,Ottawa,,Pending
+AfriStereo Survey,-ORBHVzM7u9wTckyoTQs,,,,,38 mn,"5/26/2025
+ 10:32:40 AM","5/26/2025
+ 11:11:09 AM",,Female  *,36–50 *,Employed *,Design *,Agnostique *,Senegal *,Francaise *,,,Caucasienne,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Les femmes sont courageuses, les femmes sont fortes, les femmes sont dépensières, les femmes sont intéressées par l'argent, les femmes sont coquettes","Les hommes sont infideles, les hommes sont responsable du menage","Les serreres mangent du pain, les femmes peuhls ont les cheveux longs, les Toucouleurs sont bruyants, les baols baols sont des commercants, les diolas sont propres, les Saint Lousiennes font le meilleur Tieb bou djeune","Les musulmans divorcent beaucoup, les chrétiens boivent l'alcool,","Les jeunes sont plus digitaux, les jeunes maitrisent le téléphone, les ainés conseillent les jeunes, les ainés maitrisent les traditions","Les tailleurs sont toujours en retard, les tailleurs ne respectent pas les modeles, les artisans ne sont jamais a l'heure, les lébous aiment l'eau, les taximan sont impolis, les banquiers sont des voleurs, les politiciens sont malhonnetes","Les libanais sont des commercants, les libanais sont des medecins, les libanais ont achetés tout Dakar, les Sénégalais sont hypocrites, les femmes sénégalaises sont belles, les sénégalais sont sportifs, les sénégalais sont acceuillants, les sénégalais parlent bien francais",196.207.193.160,Senegal,Dakar,,Pending
+AfriStereo Survey,-ORBWiwgcXKLLRtCYboV,,,,,2 mn,"5/26/2025
+ 12:15:43 PM","5/26/2025
+ 12:17:39 PM",,Female  *,36–50 *,Employed *,Education *,Christianity  *,South Africa *,South African *,,,Caucasian,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women need to work in the house,Men should be the main providers,White people are racist,Muslims are terrorists,40 years are old,Doctors earn a lot of money,Doctors are smart,196.39.168.237,South Africa,Boksburg,,Pending
+AfriStereo Survey,-ORBZZZ16nAjLklP8nai,,,,,10 mn,"5/26/2025
+ 12:20:03 PM","5/26/2025
+ 12:30:04 PM",,Male *,26–35 *,Self-employed *,,Islam  *,Nigeria *,Nigerian *,Hausa *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women supposes to be at home raise children,"Men are bread winners, men are strong, men are leaders, men are protectors","Hausa people are uncivilized, Hausa people don't support their wives to thrive","Muslims are religious extremist, Christians are going to hell",Young adult don't know life,Teachers salary is in heaven,Metal scrapers are thieves,105.113.29.101,Nigeria,Ibadan,,Pending
+AfriStereo Survey,-ORBjVfTkd3cTrTKykeW,,,,,30 mn,"5/26/2025
+ 12:48:05 PM","5/26/2025
+ 1:17:53 PM",,Female  *,26–35 *,Employed *,Research *,Islam  *,Senegal *,Senegalese *,,,,Wolof * Peulh *,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Les femmes sont fortes, les femmes peuvent faire plusieurs choses en même temps, les femmes sont tolérant aux infidélités de l'homme,","les hommes ne pleurent pas et partage pas leur émotions, Ils ont un sens inné du rythme ,L’homme doit nourrir toute la famille,","les Saint Louisiennes sont qoquettes,  les peulh sont de petite taille,les diola sont muscles et honnete","les musulmans sont difficiles et coinces, les musulmans sont des djihadistes, on a des mouvements de sectes",les personnes ages sont matures,les transitaires ont beaucoup d'argent malhonnete,L’homme africain est pauvre mais digne,41.214.14.142,Senegal,Dakar,,Pending
+AfriStereo Survey,-ORBoqf2fOIqgyS58MlN,,,,,1 mn,"5/26/2025
+ 1:40:16 PM","5/26/2025
+ 1:41:12 PM",,Female  *,Over 50 *,Self-employed *,,Christianity  *,Kenya  *,Kenyan *,,Luo *,,,"No, I don’t feel comfortable continuing *",,,,,,,,,102.209.76.115,Kenya,Nairobi,,Pending
+AfriStereo Survey,-ORByTjKV5CGTM1RULLE,,,,,8 mn,"5/26/2025
+ 2:14:54 PM","5/26/2025
+ 2:23:14 PM",,Female  *,18–25 *,Self-employed *,,Christianity  *,Kenya  *,Kenyan *,,Kikuyu * Luo *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Strong, Educated, Nurturing, Caring, Empathetic, Beautiful, Girlhood, Stylish",Leader,"People from Uganda are generous, people from Nigeria are funny, People from Nigeria are loud, People from Kenya are energetic, People from South Africa are cultured","Muslims are devoted, Christians are judgemental, Christians are community focussed","Young people are innovative, Young people are impatient, old people are traditional, old people are inconsiderate, young people are non-committal","Teachers are kind, Lawyers are ruthless, Artists are creative, Finance people are hardworking",No more,41.90.186.50,Kenya,Nairobi,,Pending
+AfriStereo Survey,-ORC0SQ560f20lpqi-3d,,,,,4 mn,"5/26/2025
+ 2:31:49 PM","5/26/2025
+ 2:36:15 PM",,Male *,26–35 *,Employed *,Engineering  *,Christianity  *,Kenya  *,Kenyan *,,Kikuyu * Luo *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women are caregivers,Men are providers,People from the west are aesthetics,Traditional worshippers are backward,Young people are immature,Traders are persuasive,People are lightweight,196.97.0.61,Kenya,Nairobi,,Pending
+AfriStereo Survey,-ORC9yyQRyP7bLslbw90,,,,,9 mn,"5/26/2025
+ 3:12:34 PM","5/26/2025
+ 3:21:20 PM",,Female  *,26–35 *,Unemployed *,,Islam  *,Senegal *,Senegalese *,,,,Wolof *,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Les femmes ne sont pas malignes, les femmes sont problématiques","Les hommes sont les chefs ,les hommes ont trop de charges","Les serreres sont trop rigoureux, les peulhs aiment se marier en famille,","Les chrétiens sont bien éduques ,réservées,","Les jeunes sont impolis ,les vieux sont des privilégiés","Les professeurs sont des personnes compliqués ,les menuisiers plombiers etcc sont des laxistes",Les femmes sont matérialistes,41.82.181.88,Senegal,Dakar,,Pending
+AfriStereo Survey,-ORCXCxys7VXXY_91h22,,,,,9 mn,"5/26/2025
+ 4:49:54 PM","5/26/2025
+ 4:59:23 PM",,Male *,26–35 *,Employed *,Management Consulting *,Christianity  *,Kenya  *,Kenyan *,,Luo *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are caring
+Women are emotional thinkers
+Women are hardworking
+","Men are providers, Men are strategic thinkers","Kalenjins are traditional, Kikuyus are street smart, Luos are extravagant","Muslims are generous, Christians are judgmental","Old people are risk averse, old people are ambitious, young people are spontaneous, young people are self actualized","Creatives are open minded, investment bankers are arrogant, actuaries are smart, doctors are smart","Upbringing, social status",154.70.27.18,Kenya,Nairobi,,Pending
+AfriStereo Survey,-ORCkL01Te3uZUvgzb_U,,,,,10 mn,"5/26/2025
+ 5:51:12 PM","5/26/2025
+ 6:01:06 PM",,Female  *,26–35 *,Self-employed *,,Islam  *,Senegal *,Senegalese *,,,,Wolof * Peulh *,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Les femmes ne sont pas voyantes, les femmes ont un esprit court comme leur sein, les femmes sont incomplètes et c'est pourquoi elles changent de domicile après le mariage. 
+","Les hommes sont fort, les hommes sont previsibles, les hommes sont complets ( physiquement)","Les peulhs sont sales, les sereres sont gourmands",Les chrétiens sont éduqué,Les jeunes sont irresponsable,"Les sociologues sont bavards, les avocats sont riches",Non,196.207.227.15,Senegal,Dakar,,Pending
+AfriStereo Survey,-ORCoM4_kA5GquBBKluk,,,,,24 mn,"5/26/2025
+ 5:54:34 PM","5/26/2025
+ 6:18:39 PM",,Female  *,26–35 *,Employed *,Recherche *,Christianity  *,Senegal *,Beninois *,,,Fon,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Les femmes sont fragiles, les femmes sont faibles, les femmes sont inferieurs aux hommes, les femmes doivent rester à la maison pour s'occuper des enfants, les femmes sont celles qui éduquent les enfants","Les hommes sont forts, les hommes sont le socle de la famille, les hommes doivent rapporter l'argent à la maison, les hommes ne sont pas sensibles, les hommes ne doivent pas pleurer, les hommes ne doivent pas montrer leurs emotions, les hommes sont infidèles, les hommes ne sont pas digne de confiance","Les pratiquants de la religion vodoun sont des sorciers, les musulmans sont sale","Les musulmans sont sales, les pratiquants des religions endogènes sont des sorciers","Les jeunes sont inconscients, les jeunes sont frivoles, les jeunes sont immatures, les jeunes sont trop capricieux","Les medecins sont sans emotions/sans coeur, les traders sont inconscients, les avocats sont des menteurs","Non
+",41.82.207.60,Senegal,Dakar,,Pending
+AfriStereo Survey,-ORD24wh5Ks3TgjNgTL5,,,,,14 mn,"5/26/2025
+ 7:09:22 PM","5/26/2025
+ 7:23:01 PM",,Female  *,36–50 *,Self-employed *,,Christianity  *,Nigeria *,Nigerian *,Urhobo *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women should endure
+Women should be quiet, 
+Women should take care of the home","Men are strong, Men should provide, Men always cheat","Yorubas are very accommodating,yorubas love going to and giving great parties, yorubas are cowards, Deltans are aggressive, igbos are industrious, hausas are foolish, igbos make good husbands,","Moslems are myopic, Most Christians can't be trusted,","Old people are wise, young people are impatient","Doctors are knowledgeable, some Nurses are rude and table,  Artisans do a bad job so they can keep coming back for more work","Children should shoe elders respect,",,,,,Pending
+AfriStereo Survey,-ORD7u1cPKovTKRm9UOy,,,,,23 mn,"5/26/2025
+ 7:25:25 PM","5/26/2025
+ 7:48:23 PM",,Male *,Over 50 *,Unemployed *,,Islam  *,Nigeria *,Nigerian *,"Igbo  * Hausa * Yoruba * Ijaw  * Idoma, Ishan, Igala and Igbira *",,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Highly emotional and sentimental.Over protective of their children and when in love they are head over hills,Generally concerned about his family wellbeing . Strong and ambitious,"The Ibos does not have high regards for their chiefs, the hausas are receptive but arrogant, most yorubas are tribalistic. The Ibos are very industrious and the yorubas are known to get scared easily.","Muslims are erroneously equated to terrorism, Christians are more actively involved in evangelism and missionary but the Muslims are accused of islamization due largely to intolerance. Traditional worshipping is almost in extinction in Nigeria .",Wisdom is usually associated with age people and the youth are more in crime because of lack of work,Medicine and law are royal profession. There is more money in oil jobs.Estate and trading are highly very lucrative,Some ethnic groups in the south east are cannibalistic. The north east and north west are fraught with beggers,197.210.226.87,Nigeria,,,Pending
+AfriStereo Survey,-ORFTazX6W-SCIeA1UfO,,,,,13 mn,"5/27/2025
+ 6:29:02 AM","5/27/2025
+ 6:42:28 AM",,Male *,26–35 *,Employed *,Education * IT & Software   *,Spiritual (not specific)  *,Kenya  *,Kenyan *,,- *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are caring, women are sensitive, women are emotional","Men are short-tempered, men are stubborn, men are logical","People from the Kikuyu group are business-savvy, people from the Luo group are flashy",-,"Young people are naive, old people are slow, old people are traditional, young people are soft","Engineers are smart, Doctors are hardworking, Artists are lazy","Gay people are flamboyant, lesbians are butch",197.232.20.49,Kenya,Nairobi,,Pending
+AfriStereo Survey,-ORG1cVGOjCsR3c6wk9s,,,,,39 mn,"5/27/2025
+ 8:40:45 AM","5/27/2025
+ 9:19:51 AM",,Female  *,26–35 *,Employed *,Human Centered Design *,Islam  *,Senegal *,Senegalese *,,,,Serrere *,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Les femmes sénégalaises sont sensuelles, Les femmes sénégalaises savent retenir leurs maris, Les femmes sénégalaises sont de bonnes cuisinières, les femmes serrées sont tres fonces de peau, les femmes serrées ne sont pas belles,","Les hommes sénégalaises ne cuisinent pas, un homme ne doit pas acheter des condiments, les hommes sereres sont fiers,","Les personnes du groupe ethniques serere sont des animistes, Les personnes du groupe ethniques serere sont ont beaucoup de caractère, Les personnes du groupe ethniques wolof sont espiègle, Les personnes du groupe ethniques diola sont muscles,","Les musulmans mourides sont tres généreux, les musulmans tidianes sont pingres, les chrétiens sont tres discrets et correcte",les personnes agées sont des rois,"Les médecins sont hautains, les sociologues sont des espions, les taximens sont impolis","l'homme est le chef de famille, les femmes doivent cuisiner, les femmes sont naives",41.82.112.78,Senegal,Dakar,,Pending
+AfriStereo Survey,-ORGKqUvG8LzRMuxUGhE,,,,,8 mn,"5/27/2025
+ 10:36:10 AM","5/27/2025
+ 10:43:50 AM",,Female  *,18–25 *,Self-employed *,,Christianity  *,Nigeria *,Nigerian *,Tiv  *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women are smart,Men are providers,People from Benue are good and home people,Christians are homely and nice,Old people are brave,"Politicians are in a game of interest,therapist are special,farmers are hardworking,northern are lovely caring and homely
+","Women are special creation 
+Women are strong brave and powerful ",102.91.71.161,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORGRhEZqqXOisoV8-fy,,,,,11 mn,"5/27/2025
+ 11:02:38 AM","5/27/2025
+ 11:13:47 AM",,Male *,Over 50 *,Self-employed *,,agnostic *,south africa *,South African *,,,multiple,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are maternal, Women are gold diggers, Women are weak, Women are strong, Women are emotional, Women are peacemakers, Women are the fabric of our communities","Men are providers, Men are violent, Men are strong, Men are protective, Men are lazy, Men are powerful, Men are leaders","Zulu's are aggressive, Zulu's are violent, Xhosa's are opportunistic, Venda's are hard working and clever, White people are evil, White people are selfish, White people are opportunists, Jews are greedy, Christians are not tolerant,",Answered in the previous question,"Old people are thoughtful, Young people are impatient, Young people are spontaneous, Young people are selfish, Old people are benevolent, ld people are needy","Doctors are arrogant, Nurses are mean, Traders are greedy, Traders are cheats, Blue collar workers are hard working, Blur collar workers are conservative, Hospitality workers are happy go lucky, Bartenders are good listeners, Bankers are greedy, Government workers are lazy and could care less",Researchers are only interested in publishing and not solving problems,196.210.37.163,South Africa,Cape Town,,Pending
+AfriStereo Survey,-ORGRxw1ps8NdmysvI7N,,,,,9 mn,"5/27/2025
+ 11:06:01 AM","5/27/2025
+ 11:14:55 AM",,Female  *,26–35 *,Employed *,Research  *,Islam  *,Senegal *,Senegalese *,,,,Serrere *,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","les femmes sont organisées, les femmes sont maternelles, les femmes sont émotives","les hommes sont leader, les hommes sont pragmatiques, les hommes sont  infidèles","les sereres sont fièrs , les peulhs sont ethnocentristes","les chétiens sont bien éduqués, les musulmans sont religieux","les jeunes sont impulsifs, les personnes agées sont sages","les sages femmes sont impolies, les enseignants sont durs , les vendeurs ambulants sont teigneux
+",non,41.83.65.159,Senegal,Dakar,,Pending
+AfriStereo Survey,-ORHXAgW3hsLaFpYdJrx,,,,,4 mn,"5/27/2025
+ 4:13:31 PM","5/27/2025
+ 4:17:20 PM",,Female  *,36–50 *,Employed *,Healthcare   * IT & Software   *  *,Christianity  *,Nigeria *,Nigerian *,Hausa *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women are caring,Men don’t cry,Northerners are beautiful,Christians are peaceful,Young people are impatient,Nurses are mean,Doctors are kind,197.210.53.188,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORHeQ85qqLawXH-x8BP,,,,,11 mn,"5/27/2025
+ 4:42:25 PM","5/27/2025
+ 4:53:20 PM",,Male *,26–35 *,Employed *,Agriculture *,Islam  *,Nigeria *,Nigerian *,Ebira *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women must always be the cooks,Men are meant to foot all burden,"Hausa people are mostly illiterate 
+
+Ebiras are aggressive 
+
+Igbos are not to be trusted ","Muslims are killers and terrorist
+
+Terrorist are mostly islamist",Old people can’t work,No answer,NA,197.210.53.19,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORHjfZBoIfo9_8Jg1TK,,,,,22 mn,"5/27/2025
+ 4:54:41 PM","5/27/2025
+ 5:16:18 PM",,Male *,26–35 *,Self-employed *,,Islam  *,Nigeria *,Nigerian *,Hausa *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are so emotional, women gossipy.","Men are ambitious, men are aggressive, men are over protective, men are strong, men are less emotional than women.","People from northern Nigeria are mostly farmers, people from northern Nigeria likes giving birth, northern Nigeria are over populated.","Muslims are modest, muslims cover up, muslim are polygamous","Young people are lazy, young people are glued to their phones. Old people are forgetful, old people are frail.","Traders are more interested in making money, Doctors are caring, Doctors are compassionate",Female are compassionate,197.210.53.21,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORIk21g8z7N80Y3dAqp,,,,,18 mn,"5/27/2025
+ 9:39:42 PM","5/27/2025
+ 9:57:30 PM",,Male *,26–35 *,Employed *,Hospitality   *,Christianity  *,Nigeria *,Nigerian *,Igbo  *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are weaker, women are builders,
+Women are more emotional ","Men are rational thinkers, men are polygamous in nature, men are providers, men are on the giving end","People from the east ritualists, people from the north are terrorists, people from the west are betrayers","Muslims are violent, Christians are full of fakes, Christian are peaceful.","Old people are wise, old people are careful, old people are experienced, young people are inexperience, young people are too forward, young people are disrespectful, young people are arrogant","Traders are liers and cheats, Doctors are smart and intelligent","Igbo youth are progressive, Yoruba youths are lazy, edo people are diabolical and full of witchcraft, edo youth are full of cultism",105.113.71.170,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORKj8V_6CzntR1kwrz1,,,,,7 mn,"5/28/2025
+ 7:05:33 AM","5/28/2025
+ 7:12:50 AM",,Male *,18–25 *,A student *,,Christianity  *,Zimbabwe *,Zimbabwean *,,,Black African,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are natural care-givers.
+Women are bad drivers.
+Women are emotional.
+Women can't function under pressure.","Men are logical.
+Men are more likely to resolve conflict amicably than women.
+Men naturally get along with other men.
+Men don't gossip.
+Men are less emotional.
+Men have no drama.","Black people are violent.
+Chinese are smart.
+French are overly romantic/erotic.","Christians are disorgranised, why do they have thousands of churches? Can't they just agree on one?","Old people can't relate with us, Young people are naive.","Nurses are cruel, Nuns are also cruel",No,41.175.89.29,Zimbabwe,Harare,,Pending
+AfriStereo Survey,-ORLkGToUeGCwvkHVAuT,,,,,4 mn,"5/28/2025
+ 11:52:55 AM","5/28/2025
+ 11:57:23 AM",,Female  *,26–35 *,Employed *,Finance *,Islam  *,Senegal *,Senegalese *,,,,Wolof *,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Les femmes sont coquètes,Les hommes sont seducteurs,Les wolofs sont arrogants,Les chrétiens sont plus tolérants que les musulmans,Les personnes âgées sont sages et les jeunes un peu moins respectueuses,"Les serveuses ne sont pas aimables, les taximans sont agressifs",Les peulhs sont communautaires,86.75.247.23,France,Villeneuve les beziers,,Pending
+AfriStereo Survey,-ORMHPT2iv7g9DdzC8T8,,,,,9 mn,"5/28/2025
+ 2:17:55 PM","5/28/2025
+ 2:26:32 PM",,Male *,Over 50 *,Employed *,Education *,Atheism  *,Germany *,Swedish *,,,none,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","emotional, short, determined, considerate, tough, empathic","stubborn, insensitive, insecure, inconsiderate",People from the USA are blabbermouths,Christians are judgemental,young people are digital natives. Old people are worried,Teachers are depressed,techbros are toxic,94.139.29.204,Germany,Berlin,,Pending
+AfriStereo Survey,-ORMYM86scplxaFalrz0,,,,,20 mn,"5/28/2025
+ 3:20:37 PM","5/28/2025
+ 3:40:35 PM",,Female  *,36–50 *,Freelancer *,,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are multipliers - they'll multiply what you give them.
+Women are evil,
+Women are not to be trusted,
+Only a woman knows the father of her child.","Men are scum,
+Good Men are rare,
+Men are puppets","People from the west are accomodating,
+People from the east are not accomodating,
+People from the north can be trusted,","Muslims are very wicked people, because they can kill over little things and call it Jihad","Gen Z's are lazy
+Young people are rude
+Old people are not that wise","Doctors are God sent,
+Makeup artist are very wicked people, 
+Motor mechanics are not to be trusted
+Tailors are not the same as fashion designer,
+","Politicians are thieves,
+Doctors, Nurses are strong hearted",102.88.108.36,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORMYSS3dDD_P-E-yYKF,,,,,4 mn,"5/28/2025
+ 3:36:58 PM","5/28/2025
+ 3:41:00 PM",,Female  *,36–50 *,Employed *,Healthcare   *,Christianity  *,Kenya  *,Kenyan *,,Kikuyu *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","WOmen are caring, women have lots of emotions",Men are logical,People from Kikuyu ethnic group love money,Christinas are saved,Young people are dynamic,Journalists are outspoken,None,197.155.73.3,Kenya,Nairobi,,Pending
+AfriStereo Survey,-ORN9x-ZZuXifhRu-5Vw,,,,,8 mn,"5/28/2025
+ 6:25:55 PM","5/28/2025
+ 6:33:34 PM",,Female  *,26–35 *,Employed *,Aviation  *,Islam  *,Senegal *,Senegalese *,,,,Serrere *,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Les femmes courtes de taille sont fortes de caractère,Les hommes ne prennent pas soin  d’eux,Les Sereres (mit Ein einen r bitte) sont foncés de peaux,Les chrétiens sont très respectueux,Les adultes savent tout,Les banquiers sont des truands,Les Al Pulaar sont racistes,102.164.182.94,Senegal,,,Pending
+AfriStereo Survey,-ORNCY_og7NB12oh4iCV,,,,,5 mn,"5/28/2025
+ 6:39:58 PM","5/28/2025
+ 6:44:56 PM",,Male *,26–35 *,Employed *,Healthcare   *,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","women have superpower
+Women forgive cheating faster
+Women are meant to be submissive ","Men don’t show emotion
+Men needs to fight to get things done
+Men are shield for family 
+Alpha provider","Yoruba people are very loud
+Hausa people are religious fanatics
+Igbo people are into ritual","Muslims are too extreme
+Christians are too peaceful ","Old people feel entitled to be respected 
+Old people can’t be corrected 
+Young people are proud ","Soldiers are promiscuous 
+Doctors are promiscuous 
+Nurses are promiscuous ",No,102.89.75.145,Nigeria,Ibadan,,Pending
+AfriStereo Survey,-ORNEcZor2cf2_VrBXPQ,,,,,7 mn,"5/28/2025
+ 6:47:05 PM","5/28/2025
+ 6:54:01 PM",,Male *,Under 18 *,A student *,,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","women are better at multitasking,","Men are the Provider,","People from the north are violent, people from the north are conservative, people from the north are uneducated, people from the north are religious extremists, people from the east are money-driven, people from the east are cunning, people from the east are obsessed with business, people from the east are loud, people from the east love to show off wealth, people from the west are educated, people from the west are liberal, people from the west are proud, people from the west are disloyal, people from the south are fun-loving, people from the south are lazy, people from the south are irresponsible, people from the south are overly emotional, people from the middle belt are peaceful, people from the middle belt are naive, people from the middle belt are easily manipulated, people from [XYZ ethnic group] are aggressive, people from [XYZ ethnic group] are dishonest, people from [XYZ ethnic group] are stingy, people from [XYZ ethnic group] are corrupt, people from [XYZ ethnic group] are backward, people from [XYZ ethnic group] are promiscuous, people from [XYZ ethnic group] are superstitious, people from [XYZ ethnic group] are tribalistic, people from [XYZ ethnic group] are excellent at hospitality, people from [XYZ ethnic group] are poor leaders, people from [XYZ ethnic group] are hard workers, people from [XYZ ethnic group] are noisy, people from [XYZ ethnic group] dominate others.","Muslims are terrorists, Muslims are violent, Muslims are anti-Western, Muslims are intolerant, Muslims oppress women, Muslims are overly strict, Muslims can’t be trusted, Muslims are extremists, Muslims are overly religious,
+Christians are judgmental, Christians are hypocritical, Christians are self-righteous, Christians are anti-science, Christians are conservative, Christians are obsessed with converting others, Christians are intolerant of other religions, Christians think they are morally superior, Christians are naïve,
+Traditional worshippers are backward, traditional worshippers are uneducated, traditional worshippers are idol worshippers, traditional worshippers are evil, traditional worshippers practice witchcraft, traditional worshippers are superstitious, traditional worshippers are dangerous, traditional worshippers don’t believe in God, traditional worshippers are uncivilized,
+Jews are greedy, Jews control the world economy, Jews are clannish, Jews are cunning, Jews are good with money,
+Hindus are obsessed with caste, Hindus are polytheistic, Hindus are fatalistic, Hindus are vegetarian, Hindus are peaceful,
+Buddhists are passive, Buddhists are always calm, Buddhists are detached from the world, Buddhists don’t care about suffering,
+Atheists are immoral, atheists are rebellious, atheists hate religion, atheists have no values, atheists are arrogant, atheists think they are smarter than others.
+","Old people are wise, old people are slow, old people are conservative, old people resist change, old people are forgetful, old people are bad with technology, old people are lonely, old people complain a lot, old people are fragile, old people are out of touch,
+Young people are careless, young people are lazy, young people are entitled, young people are rebellious, young people are tech-savvy, young people are disrespectful, young people lack experience, young people are impulsive, young people are too emotional, young people don’t take things seriously,
+Middle-aged people are stuck in routines, middle-aged people are boring, middle-aged people are overworked, middle-aged people are financially stable, middle-aged people are responsible, middle-aged people are stressed,
+Teenagers are dramatic, teenagers are reckless, teenagers are obsessed with trends, teenagers are disrespectful, teenagers are always on their phones, teenagers are moody,
+Children are innocent, children are naive, children are easily influenced, children are noisy, children are playful, children are not serious.","Doctors are smart, doctors are wealthy, doctors are arrogant, doctors have no time for family,
+Nurses are caring, nurses are overworked, nurses are underpaid, nurses are mostly women,
+Lawyers are argumentative, lawyers are dishonest, lawyers are manipulative, lawyers love to talk,
+Engineers are logical, engineers are introverted, engineers are bad communicators, engineers are nerdy,
+Teachers are patient, teachers are selfless, teachers are poor, teachers are strict,
+Traders are persuasive, traders are loud, traders are street-smart, traders are aggressive,
+Politicians are corrupt, politicians are liars, politicians are power-hungry, politicians are manipulative,
+Bankers are rich, bankers are greedy, bankers are stressed, bankers are materialistic,
+Accountants are boring, accountants are meticulous, accountants are antisocial, accountants are honest,
+Artists are emotional, artists are poor, artists are unconventional, artists are free-spirited,
+Musicians are drug users, musicians are rebellious, musicians are expressive, musicians are unserious,
+Actors are vain, actors are attention seekers, actors are glamorous, actors are not intelligent,
+Police officers are corrupt, police officers are violent, police officers are uneducated, police officers are brave,
+Soldiers are tough, soldiers are obedient, soldiers are emotionless, soldiers are disciplined,
+Tech workers are geeks, tech workers are socially awkward, tech workers are rich, tech workers are always online,
+Pastors are holy, pastors are money-minded, pastors are manipulative, pastors are self-righteous,
+Mechanics are dishonest, mechanics are rough, mechanics are hardworking, mechanics are uneducated,
+Farmers are poor, farmers are strong, farmers are uneducated, farmers are humble.
+","Gender & Sexuality:
+Men don’t cry, men are strong, men are providers, men are naturally leaders, men are emotionally unavailable,
+Gay men are flamboyant, gay men are fashionable, lesbians hate men, lesbians are masculine, bisexuals are confused, trans people are attention seekers, asexual people are cold,
+
+Body Type & Appearance:
+Fat people are lazy, fat people are unhealthy, thin people are vain, muscular people are not intelligent, short people are insecure, tall people are confident, attractive people are shallow, people with tattoos are rebellious, people who wear glasses are nerds,
+
+Social Class:
+Rich people are arrogant, rich people are selfish, poor people are lazy, poor people lack ambition, middle-class people are pretentious, upper-class people are disconnected from reality,
+
+Education Level:
+Uneducated people are ignorant, uneducated people are violent, educated people are arrogant, educated people lack common sense,
+
+Nationality:
+Americans are loud, Americans are entitled, British people are polite, British people are emotionally repressed, Germans are strict, Germans are efficient, French people are romantic, French people are snobbish, Chinese people are hardworking, Chinese people are robotic, Nigerians are scammers, Nigerians are resilient, South Africans are violent, South Africans are friendly, Indians are tech-savvy, Indians are overly traditional, Brazilians are fun-loving, Brazilians are party animals, Russians are cold, Russians are tough,
+
+Religion (additional):
+Evangelicals are fanatical, Catholics are guilt-ridden, Pentecostals are loud, Jews are frugal, Muslims are overly disciplined, Buddhists are peaceful to a fault, Atheists have no morals,
+
+Lifestyle & Preferences:
+Vegetarians are judgmental, people who do yoga are spiritual, gamers are lazy, influencers are fake, single people are lonely, married people are boring, stay-at-home parents are unambitious, working mothers are neglectful, homeschooled kids are antisocial, only children are spoiled, people who live in the city are snobbish, people who live in rural areas are backward.",102.89.83.205,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORNFRwbZKuJayRBhe6g,,,,,19 mn,"5/28/2025
+ 6:38:39 PM","5/28/2025
+ 6:57:35 PM",,Male *,18–25 *,Self-employed *,,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","A woman is meant to be in the kitchen, A woman was created for giving birth alone, A woman cannot head a home, company","Men are violent people, Every man is a potential rapist, Men are naturally cheaters","People from the east are cheaters, Northerns are the highest perpetrators of banditry, people from the west are full of witchcraft","Traditional worshippers are full of voodoo, Christain is the only true religion, Islam is full of wickedness","Young people are reckless, Young people are desperate to get wealth, old people are the only wise ones","Handwork is for unlearned people, lawyers are liars , a teacher’s reward is in heaven, police is not your friend",Women are liars,197.210.53.140,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORNGCJHVbyoPFbg2Gqu,,,,,12 mn,"5/28/2025
+ 6:48:54 PM","5/28/2025
+ 7:00:53 PM",,Male *,26–35 *,Employed *,Government  *,Islam  *,Nigeria *,Nigerian *,Fulani  *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are selfish 
+Women aren't smart 
+Women are weak","Men are wise, men are strong, men are brave,.men are smart,  men are intelligent","Igala people are aggressive,  Yoruba are hypocrites, igbo are thieves, hausa are dull, fulanis are kidnappers","Muslims are terrorist,","Young people are stupid, the old people are wise,","Doctors/nurses are promiscuous, uniform personnel are promiscuous, nurses are rude,",Youruba men are refreed to as demons when it comes to relationships.,102.91.93.121,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORNHN1IvxZaO29idLx6,,,,,8 mn,"5/28/2025
+ 6:57:29 PM","5/28/2025
+ 7:05:59 PM",,Male *,26–35 *,Employed *,Healthcare   *,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are nurturing, women are emotional, women are talkative, women are bad at math and science, women are irrational, women are passive, women are natural caregivers, women are more suited to domestic roles, women are weaker than men, women are bad drivers, women are overly sensitive, women are jealous or catty, women love shopping, women are obsessed with appearance, women are indecisive, women are less ambitious, women are bad at sports, women are more suited to teaching or nursing, women can’t handle pressure, women are drama queens, women are always multitasking, women are clean and organized, women are naturally maternal, women are more cooperative than competitive, women need male protection, women gossip a lot, women are submissive, women are intuitive rather than logical, women are better at raising children, women aren’t interested in sex as much as men, women cry easily, women are bad leaders, women overthink everything, women are manipulative, women are afraid of confrontation, women want to get married and have kids, women are always dieting, women use their looks to get ahead, women are more polite or well-mannered.","Men are strong, men are stoic, men don’t cry, men are logical, men are natural leaders, men are assertive, men are aggressive, men are bad at expressing emotions, men are dominant, men are protectors, men are providers, men are competitive, men love sports, men are handy or good with tools, men are messy, men hate asking for directions, men are bad at multitasking, men think about sex all the time, men are emotionally unavailable, men are afraid of commitment, men are always confident, men are driven by ego, men are insensitive, men are better at math and science, men don’t need help, men are more rational than emotional, men are less nurturing, men are more career-focused, men aren’t interested in fashion, men are not good caregivers, men cheat more often, men are tough, men like action and violence, men can’t take care of babies, men are always the breadwinners, men fear vulnerability, men must be successful to be respected, men are bad listeners, men don’t cook or clean, men are simple-minded, men are not detail-oriented.","People from [XYZ ethnic group] are aggressive, people from [XYZ ethnic group] are lazy, people from [XYZ ethnic group] are uneducated, people from [XYZ ethnic group] are good at math, people from [XYZ ethnic group] are good dancers, people from [XYZ ethnic group] are naturally athletic, people from [XYZ ethnic group] are cheap or stingy, people from [XYZ ethnic group] are criminals, people from [XYZ ethnic group] are submissive, people from [XYZ ethnic group] are terrorists, people from [XYZ ethnic group] are always loud, people from [XYZ ethnic group] are bad drivers, people from [XYZ ethnic group] are dirty, people from [XYZ ethnic group] are oversexed, people from [XYZ ethnic group] are good at tech jobs, people from [XYZ ethnic group] have large families, people from [XYZ ethnic group] are always late, people from [XYZ ethnic group] are involved in gangs, people from [XYZ ethnic group] don't respect women, people from [XYZ ethnic group] are exotic, people from [XYZ ethnic group] eat weird food, people from [XYZ ethnic group] live off welfare, people from [XYZ ethnic group] can’t be trusted.
+","Muslims are violent, Muslims are terrorists, Muslims are oppressive to women, Muslims are extremely conservative, Muslims are anti-Western, Muslims are all Arabs, Muslims can’t coexist with other religions, Muslims are intolerant, Muslims are overly strict, Muslims don’t value modernity, Muslims are against freedom of speech.
+
+Christians are judgmental, Christians are hypocritical, Christians are conservative, Christians are anti-science, Christians are against LGBTQ+ rights, Christians believe they are morally superior, Christians are obsessed with converting others, Christians blindly follow the Bible, Christians are intolerant of other religions, Christians are all white or Western.
+
+Jews are greedy, Jews are good with money, Jews control the media or banks, Jews are clannish, Jews are stingy, Jews are overly intellectual, Jews are disloyal to their countries, Jews are manipulative, Jews are always victims, Jews are powerful behind the scenes.
+
+Hindus are superstitious, Hindus are obsessed with caste, Hindus are polytheistic and confused, Hindus are passive or submissive, Hindus worship cows, Hindus are overly traditional, Hindus don't respect women, Hindus are against modern values.","Young people are careless, young people are lazy, young people are entitled, young people are glued to their phones, young people are rebellious, young people are disrespectful, young people are irresponsible, young people are naive, young people can’t handle criticism, young people don’t want to work hard, young people are overly sensitive, young people are impulsive, young people are obsessed with social media, young people have no attention span, young people are immature, young people are always in a rush, young people think they know everything, young people lack real-world experience.
+
+Old people are wise, old people are slow, old people are forgetful, old people are bad with technology, old people are stubborn, old people are conservative, old people are set in their ways, old people are judgmental, old people are physically weak, old people are lonely, old people are grumpy, old people can’t learn new things, old people talk too much about the past, old people are out of touch, old people need constant care, old people are fragile, old people are always sick, old people are a burden.","Doctors are smart, doctors are rich, doctors are arrogant, doctors have no social life, doctors are always busy, doctors think they’re better than others.
+
+Lawyers are argumentative, lawyers are manipulative, lawyers are greedy, lawyers are liars, lawyers are workaholics, lawyers are highly intelligent.
+
+Teachers are patient, teachers are underpaid, teachers are nurturing, teachers are overworked, teachers are moral role models, teachers are strict, teachers aren’t ambitious.
+
+Engineers are logical, engineers are introverted, engineers are bad communicators, engineers are nerdy, engineers are socially awkward, engineers are obsessed with details.
+
+Accountants are boring, accountants are organized, accountants are good with numbers, accountants are risk-averse, accountants are conservative, accountants are meticulous.
+
+Artists are emotional, artists are disorganized, artists are creative, artists are broke, artists are free-spirited, artists are impractical, artists are unconventional.
+
+Actors are dramatic, actors are attention-seeking, actors are vain, actors are charming, actors are insecure, actors are extroverted.
+
+Traders are persuasive, traders are aggressive, traders are greedy, traders are adrenaline junkies, traders are sharp, traders are manipulative.
+
+Nurses are caring, nurses are overworked, nurses are selfless, nurses are compassionate, nurses are women, nurses are underappreciated.
+
+Police officers are brave, police officers are aggressive, police officers are authoritarian, police officers are loyal, police officers are uneducated, police officers are suspicious of everyone.
+
+Politicians are dishonest, politicians are power-hungry, politicians are manipulative, politicians are charismatic, politicians are corrupt, politicians are good liars.
+","
+Rich people are greedy, rich people are out of touch, rich people are selfish, rich people are entitled, rich people are arrogant.
+
+Poor people are lazy, poor people are uneducated, poor people are irresponsible, poor people are always asking for help, poor people are more likely to commit crimes.
+
+Fat people are lazy, fat people are undisciplined, fat people are jolly, fat people don’t care about their health, fat people are insecure.
+
+Thin people are vain, thin people are obsessed with dieting, thin people are weak, thin people are high-maintenance, thin people are healthier.
+
+Short people are angry, short people are insecure, short people are less powerful, short people are funny.
+
+Tall people are leaders, tall people are confident, tall people are intimidating, tall people are good at sports.
+
+Blondes are dumb, blondes are fun-loving, blondes are naive, blondes are flirtatious.
+
+Redheads are fiery, redheads are hot-tempered, redheads are unique, redheads are exotic.
+
+People with tattoos are rebellious, people with tattoos are criminals, people with tattoos are creative, people with tattoos are attention-seeking.
+
+Gamers are antisocial, gamers are lazy, gamers are male, gamers are immature, gamers are obsessed with fantasy.
+
+Vegetarians are self-righteous, vegetarians are healthy, vegetarians are weak, vegetarians are environmentalists.
+
+LGBTQ+ people are flamboyant, LGBTQ+ people are promiscuous, LGBTQ+ people are attention-seeking, LGBTQ+ people are creative, LGBTQ+ people are politically active.
+
+Stay-at-home parents are unambitious, stay-at-home moms are nurturing, stay-at-home dads are lazy, stay-at-home parents are traditional.
+",102.89.82.139,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORNHvs5HGhZE1UY-NJ-,,,,,17 mn,"5/28/2025
+ 6:51:38 PM","5/28/2025
+ 7:08:26 PM",,Male *,36–50 *,Employed *,Journalism *,Islam  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are weak, women are gold diggers, women are caring, women are not as smart as men, women are emotionally unstable","Men are uncaring, men are strong, men don't show emotions, a man showing emotion is weak, mean should shoulder all the family responsibilities","People from the north are not smart, ladies from Calabar are sex machines, Yoruba ladies don't cook well, Lagos ladies are gold diggers","Muslims are terrorist sympathetics, Jehovah Witness are not smart","Old Nigerians are responsible for the bad state of the country, young Nigerians are lazy, The Gen Z don't think well","Traders are not financially okay, white collar job workers are not economically okay, Religious leaders are wise, politicians are liars, musicians are wayward",Already provided,102.89.42.51,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORNJDqZZodFFJpyHVSR,,,,,17 mn,"5/28/2025
+ 6:56:51 PM","5/28/2025
+ 7:14:06 PM",,Female  *,36–50 *,Self-employed *,,Christianity  *,Nigeria *,Nigerian *,Idoma *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","1. *Emotional and Irrational*: Women are often stereotyped as being overly emotional and irrational, which can undermine their credibility in professional and personal settings.
+
+2. *Nurturing and Caregiving*: Women are frequently expected to be nurturing and caregiving, roles that are often associated with motherhood and domesticity.
+
+3. *Less Capable in STEM*: There's a persistent stereotype that women are less capable in science, technology, engineering, and mathematics (STEM) fields.
+
+4. *Focused on Appearance*: Women are often judged based on their physical appearance, with societal pressures to conform to certain beauty standards.
+
+5. *Submissive and Passive*: Some stereotypes portray women as submissive and passive, which can affect their perceived authority and leadership potential.
+
+6. *Domestic Roles*: Women are often expected to prioritize domestic roles and family responsibilities over career ambitions.","1. *Emotional Stoicism*: Men are often expected to be emotionally stoic, suppressing emotions and vulnerability, which can lead to mental health issues.
+
+2. *Aggression and Dominance*: Men are sometimes stereotyped as being aggressive, dominant, and competitive, which can pressure them to conform to traditional masculine norms.
+
+3. *Breadwinner Role*: The expectation that men should be the primary breadwinners can create pressure and stress, limiting their ability to prioritize family or personal interests.
+
+4. *Physical Strength*: Men are often stereotyped as needing to be physically strong, which can affect their self-esteem if they don't fit this ideal.
+
+5. *Provider and Protector*: Men are frequently expected to be providers and protectors, which can limit their emotional expression and create unrealistic expectations.","1. *Asian Stereotypes*:
+    - Model minority: Assuming all Asians are high-achieving academically.
+    - Submissive or passive: Stereotyping Asian women as submissive or passive.
+    - ""Forever foreigner"": Assuming Asians are not truly American or Western.
+2. *African American Stereotypes*:
+    - Athletic superiority: Assuming African Americans are naturally better athletes.
+    - Criminality: Unfairly associating African Americans with crime.
+    - Limited intelligence: Stereotyping African Americans as less intelligent.","1. *Muslims*:
+    - Terrorists: Unfairly associating Muslims with terrorism.
+    - Oppressive towards women: Stereotyping Muslim men as oppressive towards women.
+    - Backward or anti-modern: Assuming Muslims are resistant to modernity or progress.
+2. *Christians*:
+    - Hypocritical: Stereotyping Christians as hypocritical or judgmental.
+    - Anti-science: Assuming Christians are opposed to scientific progress.
+    - Overly conservative: Portraying Christians as rigidly conservative.
+3. *Jews*:
+    - Greedy or materialistic: Stereotyping Jews as excessively focused on wealth.
+    - Clannish or exclusive: Assuming Jews are insular or exclusive.
+    - Powerful or manipulative: Conspiring about Jewish influence or control.
+4. *Hindus*:
+    - Idolatrous: Misunderstanding Hindu worship practices as idolatrous.
+    - Superstitious: Stereotyping Hindus as superstitious or unscientific.
+    - Caste-bound: Reducing Hinduism to the c","*Older Adults (65+):*
+1. *Technologically challenged*: Assuming older adults are unable to learn or use technology.
+2. *Cognitively declining*: Stereotyping older adults as experiencing significant cognitive decline.
+3. *Inflexible or set in their ways*: Assuming older adults are resistant to change or new ideas.
+4. *Health problems*: Assuming older adults are frail or have significant health issues.
+5. *Out of touch*: Stereotyping older adults as disconnected from modern society or trends.
+
+*Middle-aged Adults (40-64):*
+
+1. *Established but stuck*: Assuming middle-aged adults are set in their careers and lack ambition.
+2. *Overwhelmed or stressed*: Stereotyping middle-aged adults as juggling multiple responsibilities and stressed.
+3. *Peak productivity*: Assuming middle-aged adults are at the peak of their productivity and expertise.
+
+*Younger Adults (18-39):*
+
+1. *Entitled or narcissistic*: Stereotyping younger adults as entitled or self-absorbed.
+2. *Lacking experience or wisdom*: Assuming younger adults lack the experience or wisdom of older adults.
+3. *Tech-savvy but distracted*: Assuming younger adults are highly skilled with technology but easily distracted.
+
+*Teenagers (13-17):*
+
+1. *Hormonal or emotional*: Stereotyping teenagers as overly emotional or hormonal.
+2. *Rebellious or apathetic*: Assuming teenagers are rebellious or lack interest in their education.
+3. *Tech-addicted*: Stereotyping teenagers as spending excessive time on screens.
+
+*Children:*
+
+1. *Innocent or naive*: Assuming children are completely innocent or unaware of certain issues.
+2. *Impressionable or vulnerable*: Stereotyping children as highly impressionable or vulnerable to influence.","1. *Doctors*:
+    - Authoritative or condescending: Assuming doctors are always right and know best.
+    - Overworked or stressed: Stereotyping doctors as perpetually overworked and stressed.
+2. *Lawyers*:
+    - Sleazy or dishonest: Assuming lawyers are untrustworthy or manipulative.
+    - Argumentative or confrontational: Stereotyping lawyers as always looking for a fight.
+3. *Artists*:
+    - Creative but struggling: Assuming artists are always struggling financially.
+    - Unconventional or eccentric: Stereotyping artists as quirky or unconventional.
+4. *Engineers*:
+    - Logical but socially awkward: Assuming engineers are highly logical but lack social skills.
+    - Detail-oriented but lacking creativity: Stereotyping engineers as focused on details but lacking artistic flair.
+5. *Teachers/Educators*:
+    - Authoritative or strict: Assuming teachers are always in charge and strict.
+    - Underpaid or undervalued: Stereotyping teachers as being underpaid and underappreciated.
+6. *Entrepreneurs*:
+    - Ambitious or driven: Assuming entrepreneurs are highly motivated and driven.
+    - Risk-takers or reckless: Stereotyping entrepreneurs as willing to take huge risks.
+7. *IT/Tech Professionals*:
+    - Tech-savvy but antisocial: Assuming IT professionals are highly skilled but lack social skills.
+    - Always working or on call: Stereotyping IT professionals as always being on the clock.
+8. *Nurses*:
+    - Caring or nurturing: Assuming nurses are naturally caring and nurturing.
+    - Overworked or underpaid: Stereotyping nurses as being overworked and underpaid.
+9. *Politicians*:
+    - Dishonest or corrupt: Assuming politicians are untrustworthy or corrupt.
+    - Power-hungry or manipulative: Stereotyping politicians as seeking power and control.
+10. *Service Industry Workers*:
+    - Friendly but unskilled: Assuming service industry workers lack skills or education.
+    - Subservient or people-pleasers: Stereotyping service industry workers as overly accommodating.","Disability Stereotypes:*
+
+1. *Inspirational or heroic*: Assuming people with disabilities are inspirational simply for living their lives.
+2. *Limited capabilities*: Stereotyping people with disabilities as having limited abilities or potential.
+3. *Tragic or pitiful*: Portraying people with disabilities as objects of pity or tragedy.
+
+*LGBTQ+ Stereotypes:*
+
+1. *Flamboyant or dramatic*: Stereotyping gay men as overly flamboyant or dramatic.
+2. *Butch or masculine*: Assuming lesbians are masculine or ""butch.""
+3. *Confused or uncertain*: Stereotyping LGBTQ+ individuals as confused about their identity.
+
+*Socioeconomic Stereotypes:*
+
+1. *Wealthy individuals*:
+    - Entitled or privileged: Assuming wealthy individuals are entitled or privileged.
+    - Materialistic or greedy: Stereotyping wealthy individuals as excessively materialistic.
+2. *Low-income individuals*:
+    - Lazy or unmotivated: Assuming low-income individuals lack motivation or work ethic.
+    - Uneducated or unskilled: Stereotyping low-income individuals as lacking education or skills.
+
+*Rural vs. Urban Stereotypes:*
+
+1. *Rural stereotypes*:
+    - Unsophisticated or uneducated: Assuming rural individuals are unsophisticated or uneducated.
+    - Close-knit or community-oriented: Stereotyping rural communities as tight-knit and supportive.
+2. *Urban stereotypes*:
+    - Fast-paced or stressful: Assuming urban life is fast-paced and stressful.
+    - Diverse or cosmopolitan: Stereotyping urban areas as diverse and cosmopolitan.
+",102.91.78.123,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORNK3hlFznaTjZV4_vd,,,,,29 mn,"5/28/2025
+ 6:48:35 PM","5/28/2025
+ 7:17:46 PM",,Female  *,26–35 *,Self-employed *,,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women are home builders! Women keeps the home! Women should be full house wives because of their children! Women should be limited to some kinds of jobs because of the superiority of Men.  Women must submit to men unconditionally at all times. Men are the head of the home.,"Men are not allowed to show emotions so as not to be perceived weak. Men are of higher societal value than women.Men are mini God's who are to be worshipped and obeyed unconditionally.  Hard works are for men, soft works for women. House chores are for women only.",Northerners are uneducated. Northerners value cows more than human lives. Northerners are violent and aggressive.  Igbo's are business oriented.  Igbo's are close knitted. Yoruba's are friendly and accommodating.  Yoruba's loves party's.,Christains are peaceful and accommodating. Muslims are aggressive and violent.,"Young people are the highest risk takers. Very daring and innovative.  Old people are more calculative, reserved and insightful",Journalists are extroverts! Fashion designers are tailors!Human Doctors are better than vets.,"In religious, political and social settings there are positions women are not allowed to occupy.",197.211.59.56,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORNK8e9HGxKbDo1oHBL,,,,,5 mn,"5/28/2025
+ 7:12:59 PM","5/28/2025
+ 7:18:07 PM",,Male *,18–25 *,A student *,,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","They are weak, they belong to the kitchen.","They shouldn't cry, they should be provider.",Yoruba's are lazy,Muslims are very honest.,Young people are wrong and lazy. Young people shouldn't do anything in power,Computer scientist should be in cyber cafe,None,102.89.33.224,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORNOKhwGZN1AM6jccLd,,,,,20 mn,"5/28/2025
+ 7:16:12 PM","5/28/2025
+ 7:36:24 PM",,Female  *,26–35 *,Employed *,Safety and Security  *,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women like money and are overly emotional.,"Men are polygamous, heady","People from the South Eastern part are rude, money centric, highly traditional, bossy.
+People from the North are gullible, unsociable, violent prone.","Muslims are perceived as intolerant.
+Traditional worshipper as diabolical.","Old people are peacemakers.
+Young people are inexperienced.","Policemen and women are corrupt.
+Civil Servants are unproductive. ","Albinos are visually impaired during the day.
+The dark spots on some albinos are as a result of salt (slightly excessive)",102.89.47.77,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORNQFdFbjNmHcqq3D7o,,,,,17 mn,"5/28/2025
+ 7:27:39 PM","5/28/2025
+ 7:44:47 PM",,Female  *,36–50 *,Self-employed *,,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are stronger even when they are weak, caring, loving, kind, can not be messed with, and they are resilient","Men are strong too, patriarchal in nature and too possessive, full of themselves, always demanding respect instead of earning it","Ibo tribe are business oriented and aggressive, Yoruba tribe likes education and mostly interested in white collar jobs, they do business too but not like ibo tribe, Hausa are not educated, they like business, but they believe in marrying their female children off at 12years old","Muslims are devoted in terms of prayers but they are violent in nature, Christians are not devoted as Muslims but they love peace. Traditional worshippers can be running there things in the background","Young people are definitely dependant 
+S, care free, aggressive and can love violence. Older people have seen life so they thread slowly and take life easy.","Yes, Doctors are smart and intelligent, Lawyers are proud, Nurses do not have respect, Teachers are free minded",There's always difference between men and women. Men are always wanting to be at the top while women must be under them in most cas s,102.89.76.132,Nigeria,Ibadan,,Pending
+AfriStereo Survey,-ORNS8ZdJ1DECfN2eVnJ,,,,,5 mn,"5/28/2025
+ 7:48:05 PM","5/28/2025
+ 7:53:03 PM",,Male *,18–25 *,Employed *,Healthcare   *,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are meant to do the cooking for the family, women should not be involved in political activities",Men should not cry,"Igbos are tribalistic, yorubas are more educated, northerners oill","Muslims are boko haram, Christians dress inappropriately","Young people dress inappropriately 
+Old people stereotype the young","Lawyers are criminals, police is your friend",No,102.89.76.230,Nigeria,Ibadan,,Pending
+AfriStereo Survey,-ORNT0MAnZ2-aKBHAlI2,,,,,27 mn,"5/28/2025
+ 7:19:11 PM","5/28/2025
+ 7:45:45 PM",,Female  *,36–50 *,Employed *,Humanitarian  *,Christianity  *,Nigeria *,Nigerian *,Goemai  *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Weaker sex,cook,house wives,baby factory","Head of family,fearless, provide for family","North- illiterates
+East - ritualist
+West - fetish","Muslims are fantastics
+Christians are holier than thou ","Old people are wizards
+Young people don't have respect ","Doctors feel they know more than everyone.
+Traders visits dibias to have their markets sell",Females aren't supposed to be doctors and males aren't supposed to be nurses,105.113.30.96,Nigeria,Ibadan,,Pending
+AfriStereo Survey,-ORNUacHNcPHOTdXsvMJ,,,,,59 mn,"5/28/2025
+ 7:04:49 PM","5/28/2025
+ 8:03:47 PM",,Female  *,36–50 *,Self-employed *,,Christianity  *,Nigeria *,Nigerian *,Gamai *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are strong, women are industrious, caring, promiscuous","Promiscuous, strong, industrious, hardworking, bullies","Berom men are lazy, people from the North are uneducated, Tarok people are aggressive, gamai people are drinkers,Ngas people are dog consumers","Muslims are not peaceful,Christians are patient, Traditional worshippers are not tolerant","Old people are wise,young people are agile, children are innocent and agile","Civil servants are debtors, teachers are patient and dedicated, nurses are smart, insensitive, lawyers are liers,farmers are diligent,risktakers, persistent","Yoruba people are always shouting, Igbo people like money,",102.91.104.87,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORNWkIhqdECWOHZ1C31,,,,,23 mn,"5/28/2025
+ 7:50:08 PM","5/28/2025
+ 8:13:06 PM",,Female  *,18–25 *,Employed *,Fashion *,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are kind, Women are weak or strong, women makes the world a safe space","Men are providers, Men are the pillar of the word , Men are women's protectors","Christians are Peaceful and accommodating, People from Eastern part of Nigeria loves money and are good people, People from South part of Nigeria are accommodating, people from north are honest","Muslims are peaceful people, Christians are Peaceful and accommodating, Traditional people are violent in nature if being offended.","Old people knows better, while young people are somehow naive, Old people finds it difficult to apologize, Young people find it easy to apologize and repeat their offense, Old people finds it difficult to express their displease, young people express themselves better.","Doctor's are intelligent, professors are wise, Lawyers are confident, Traders are optimistic,Accountants are smart","Kids are cute and lovely, Teenagers loves to try our new things, Nigeria youths are talented and smart, Pregnant women craves funny meals, Rich people are bold, confidence and gets what they want, Poor are hardworking",41.184.156.144,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORNX4DoE_mhE-gMHTjR,,,,,5 mn,"5/28/2025
+ 8:10:00 PM","5/28/2025
+ 8:14:36 PM",,Female  *,26–35 *,Employed *,Transportation  *,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women are nuturing,Mema are strong and fearless,"People from ekiti are stubborn, people from Ogun like u side are fetish. People from ondo are corrupt
+",They are good in their aspects,"Old people are wise but not all
+Yound people are careless but some are still wise",All are good in their different ways,They said Calabar people are camnibals,102.88.114.50,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORNXSghvSAC9kvYNCr0,,,,,11 mn,"5/28/2025
+ 8:04:57 PM","5/28/2025
+ 8:16:16 PM",,Male *,26–35 *,Employed *,Agriculture *,Christianity  *,Nigeria *,Nigerian *,Hausa *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are emotional, materialistic,very jealous","Men are Authoritative, always want respect","People from the north are sincere,accommodating, love each other
+People from East love most
+People from West value respect",Muslims are religious,"Old people always forget things easily 
+Young people are inconsiderate ",Farmers are hardworking,Hausa women are not allowed to go out without the vale or hijabs,197.211.63.186,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORNYB_EimFDYLPLPW5l,,,,,13 mn,"5/28/2025
+ 8:06:40 PM","5/28/2025
+ 8:19:28 PM",,Male *,26–35 *,A student *,,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are caring, women are loving, women are gentle, women are audacious, women are demanding.","Men are brave, men are courageous, men are innovative, men are lustful, men are simple.","People from Yoruba are peaceful, People from Igbo love money, People from Hausa are dangerous","Muslims are wild, christians are prideful, Traditional worshippers are dangerous","Old people are slow, young people are impatient, Middle-age people are busy","Nurses love to talk, Teachers are overworked","Dark skin men are attractive, short women are Dangerous, light skin ladies ate attractive",102.89.82.133,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORNZwBTjdkWNm7erdms,,,,,6 mn,"5/28/2025
+ 8:21:35 PM","5/28/2025
+ 8:27:05 PM",,Male *,18–25 *,Unemployed *,,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women being tagged as gold diggers in Africa,The idea that men are violent when they're not rich,The idea that igbos are very greedy,Most people in Nigeria believe that Muslims are violent,The idea that male youths in Nigeria are internet fraudsters,Doctors have bad handwriting,Hausas are aggressive,102.89.46.219,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORNaLaFA1K7u_JPL18r,,,,,17 mn,"5/28/2025
+ 8:16:40 PM","5/28/2025
+ 8:33:16 PM",,Female  *,18–25 *,A student *,,Islam  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are irritable, women are strong, women are flexible","Men are great, men are hot",People from the south are welcoming,"Christians are supportive, Muslims are friendly","Old people are intrusive, young people are inquisitive, old people are thoughtful.","Doctors are smart, traders are greedy","Adult, disabled",105.112.190.146,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORNcTWkN7Y6krZM_N3U,,,,,36 mn,"5/28/2025
+ 8:06:03 PM","5/28/2025
+ 8:42:32 PM",,Female  *,18–25 *,Unemployed *,,Christianity  *,Nigeria *,Nigerian *,Mwaghavul  *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are often sexualised, women are abused physically in relationships, women are mostly associated with doing only homely activities with lesser space for political participation",Men are considered unworthy of the man name when they are unable to provide for their families,"People from the north are automatically called Hausa even with the full knowledge that they have a language, people from the north are tagged uneducated","Muslims in the north are viewed as people of violence, Christians are viewed hypocritical, traditional worshippers are considered too fetish","Young people especially those born in the 2000s are considered too woke, very unwise and all about fast life","Artisans are not straightforward, Lawyers lie too much, Doctors are womanisers","The middle belt people of Nigeria are often referred to as Hausa when they are not. They have their own separate languages, women are easily objectified, teachers are underpaid and told their reward is in heaven",102.91.104.1,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORNcl5C1GL0qepD6Lcl,,,,,1 mn,"5/28/2025
+ 8:43:18 PM","5/28/2025
+ 8:43:49 PM",,Female  *,18–25 *,Unemployed *,,Christianity  *,Nigeria *,Nigerian *,Mwaghavul  *,,,,,,,,,,,,,102.91.104.1,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORNfEX1D1ZpiTMDasjU,,,,,15 mn,"5/28/2025
+ 8:39:14 PM","5/28/2025
+ 8:54:38 PM",,Male *,36–50 *,Security *,,Christianity  *,Nigeria *,Nigerian *,Jukun *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Loyalty, Resilient, selfless, homely","Dependable, Determined, focused","People from the north are not law abiding, people from the east are crafty, people from the west are not trust Worthy","Muslims are extremist, Christian are peaceful, Traditional worshippers are precise","Old people are forgetful, feeble, Young people are energetic, smart","Doctors are passionate, selfless, traders are untrue, arrogant","Lawyers are crafty, Fulani's are hostile",102.91.77.47,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORNi58cz73Vg-u7lVeS,,,,,10 mn,"5/28/2025
+ 8:56:39 PM","5/28/2025
+ 9:07:06 PM",,Female  *,18–25 *,Self-employed *,,Christianity  *,Nigeria *,Nigerian *,Igbo  *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women are emotional,"Men are less emotional, men are stoic","people from the Igbo ethnic group are money-driven, people from the Hausa ethnic group are conservative, people from the Fulani ethnic group are nomadic","Muslims are devout, Christians are charitable, Traditional worshippers are superstit","teenagers are rebellious, middle-aged people are stressed, old people are slow","teachers are patient, engineers are analytical, artists are eccentric, programmers are introverted, nurses are caring","Italians are loud, women are bad at math, software developers are socially awkward, people with disabilities are helpless, Asians are smart",102.88.109.32,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORNiifIgLXM1JqgTBBy,,,,,8 mn,"5/28/2025
+ 9:02:07 PM","5/28/2025
+ 9:09:54 PM",,Male *,26–35 *,Employed *,IT & Software   *,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Woman are the pillar of our society 
+Women contribute to the growth of the society ","Men protect and guide the family 
+Men are selfless ",People from different ethnic groups have different values and cultures,"Muslims are rigid and not easily accommodating 
+Christians are too gentle ",Old people are always envious of the young ones,No comment,Not T all,102.89.46.156,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORNjFFOiJLA00yX6hPO,,,,,11 mn,"5/28/2025
+ 9:00:43 PM","5/28/2025
+ 9:12:10 PM",,Female  *,18–25 *,A student *,,Christianity  *,Nigeria *,Nigerian *,Delta Igbo *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women are builders and Women are the backbone of their family,Men are the head of the family and Men are the emotional and financial support of the family,People from the East especially their men know how to take care of the women,"Muslims are very strict with their prayers, and Christians celebrate Christmas","Old people get easily sick, young people are agile","Farmers are also marketers, Tailors and seamstress are not the same","I am from Ika-North east we don't speak Igbo as our language, I love anything related to food e.g Jollofrice with grilled chicken",102.88.108.142,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORNotLvncEr_XGgA57k,,,,,24 mn,"5/28/2025
+ 9:12:22 PM","5/28/2025
+ 9:36:48 PM",,Female  *,26–35 *,Employed *,Education *,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are nurturing, emotional, sensitive, caring, gentle, intuitive, talkative, dramatic, motherly, weak, submissive, dependent, passive, fashion-conscious, beauty-obsessed, caregivers, homemakers, multitaskers, emotional laborers.","Men are strong, tough, stoic, unemotional, providers, breadwinners, aggressive, competitive, dominant, leaders, fixers, handy, mechanically inclined, sports-loving, risk-takers, protectors","People from the North are conservative, cold, unsophisticated, People from the South are friendly, laid-back, hospitable, People from the East are smart, competitive, driven, People from the West are innovative, open-minded, laid-back.","Muslims are terrorists, strict, conservative, Christians are moralistic, judgmental, hypocritical, Traditional worshippers are primitive, superstitious, backward.","Old people are wise, set in their ways, technologically challenged, Young people are careless, entitled, tech-savvy, lazy, Middle-aged people are stressed, responsible, overworked, experienced, Elderly people are frail, forgetful, conservative, Millennials are narcissistic, avocado-toast-loving, job-hoppers, Gen Z is digitally native, socially conscious, quirky.","Doctors are smart, compassionate, overworked and underpaid while Traders are persuasive, charismatic, money-driven and passionate about business.","Blondes are dumb, athletes are arrogant, nerds are socially awkward, gamers are lazy, introverts are shy, extroverts are loud, rich people are snobbish, poor people are lazy, city dwellers are sophisticated, rural folks are simple, tourists are clueless, programmers are geniuses.",102.89.23.100,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORNuhmkHjir_cYG0oBo,,,,,19 mn,"5/28/2025
+ 9:43:37 PM","5/28/2025
+ 10:02:13 PM",,Female  *,26–35 *,Employed *,Education *,Christianity  *,Nigeria *,Nigerian *,Igbo  *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are the weak gender, women are the neck of the family, every women needs a man in her life,women are like flower so they have limited time of glow, asking single ladies when they're going to marry, etc","Men are the head of the family, the ""Be a man"" cliche, men are the bread winners, etc","Igbo people like money, Yoruba people like Owambe (Party/to show off), Yoruba girls are dirty, Yoruba people can greet so well and also gossip, Ebira people likes fighting a lot, Igala people love diabolism, etc","Muslim prayer on Friday, Christian Ms pray on Sunday, etc","Older people easily forget, young people m are not as wise. Young blood are stronger than old people, etc",Science inclined people are intelligent why art students aren,I've done that already,102.91.77.216,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORO2-k3n5RB3gIQ4VcK,,,,,10 mn,"5/28/2025
+ 10:28:57 PM","5/28/2025
+ 10:38:28 PM",,Male *,36–50 *,Employed *,Education *,Christianity  *,Nigeria *,Nigerian *,Igala  *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Housewives, emotional, weaker sex","Providers, Leadership, aggressive, womanizer","Tribalism, Greedy, Selfish, Ritual, Drug peddling, religious bigots","Muslims-bigots, Christians-Scammers, fake, Traditionalists- Rituals","Old people - wisdom, Young people - fast lane, desperate, uncultured","Doctors- Educated, reliable, farmers-food basket, providers",No comment,102.88.110.52,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORO3GheFifkqupohuuA,,,,,5 mn,"5/28/2025
+ 10:39:19 PM","5/28/2025
+ 10:44:01 PM",,Male *,26–35 *,Employed *,Engineering  *,Christianity  *,Nigeria *,Nigerian *,Ibibio *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are lovely, women are annoying, women are manipulative, women are amazing","Men are mentally strong, men are brave, men are treated harshly in the society","People from the West are aggressive, people from East are business minded, people from the north are different",None,Old people are used to the old way of doing things,Engineers are problem solvers,Dr stick to their professional norms,105.116.13.101,Nigeria,Port Harcourt,,Pending
+AfriStereo Survey,-ORO4FU3SYaZOPOqM3ig,,,,,4 mn,"5/28/2025
+ 10:43:54 PM","5/28/2025
+ 10:48:17 PM",,Male *,36–50 *,Employed *,Finance *,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Some professions are exclusively not for Women,Men don't cry,People from the East can only do business,Christians are docile,Young people are the leaders of tomorrow never today,Farmers are poor,Hausas are brave,212.228.48.150,United Kingdom,Barnet,,Pending
+AfriStereo Survey,-ORO8OFVfNy7t4wo0Udy,,,,,18 mn,"5/28/2025
+ 10:47:28 PM","5/28/2025
+ 11:05:11 PM",,Male *,26–35 *,Employed *,Healthcare   *,Islam  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are empathetic, emotional, caring, gentle, sensitive, Supportive, graceful, Weak, talkative, submissive, indecisive, gossipy, manipulative.","Men are Strong, aggressive, dominant, logical, unemotional, brave, competitive, assertive, independent, protective, providers, decisive, ambitious, stubborn, fearless.","People from the north are Hardworking, conservative, religious, submissive, respectful, traditional, hospitable, uneducated, reserved, loyal, disciplined.","Muslims are Religious, disciplined, modest, devoted, conservative, peaceful, spiritual, charitable, strict, traditional, faithful.
+
+Christians are Religious, compassionate, forgiving, loving, devoted, moral, charitable, spiritual, kind, judgmental, faithful.
+
+Traditional worshippers are Spiritual, ancestral, ritualistic, devoted, cultural, mystical, symbolic, sacred, conservative,  respectful","Old people are experienced, patient, forgetful, slow, traditional, caring, grumpy, conservative, nurturing, respectful
+
+Young people are Energetic, rebellious, creative, impatient, ambitious, tech-savvy, careless, innovative, emotional, outspoken, fearless.","Doctors are dedicated, hardworking, caring, overworked, respected, precise, disciplined, knowledgeable, serious, intelligent.
+
+Traders are Shrewd, persuasive, hardworking, street-smart, talkative, competitive, resourceful, opportunistic, impatient, resilient, enterprising","Yoruba are Loud, expressive, hospitable, proud, cultural, talkative, intelligent, flamboyant, respectful, dramatic, sociable
+
+Hausa are Hardworking, reserved, traditional, religious, disciplined, hospitable, proud, loyal, conservative, respectful, resilient.
+
+Igbo are Entrepreneurial, industrious, outspoken, resourceful, proud, ambitious, cultural, determined, friendly, resilient, hardworking.
+
+People from the South are Warm, friendly, diverse, vibrant, hospitable, industrious, cultural, outspoken, innovative, community-oriented, resilient",197.210.52.60,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORPhRG44hebE_NdR_df,,,,,5 mn,"5/29/2025
+ 6:18:00 AM","5/29/2025
+ 6:23:29 AM",,Male *,18–25 *,Self-employed *,,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Jealousy, emotional, strong, Energetic","Prideful, lust, Angry, less open minded","Illiterate, Stubborn, selfish","Muslims are mohammed believers, Christians are God’s believers and traditional are gods believers","Old people have experiences, young people are learning","Lawyers become judges, pilot flies planes",Being better than each other based on ethnicity wise,197.211.63.17,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORPp_AvDck6IPZZaYsV,,,,,18 mn,"5/29/2025
+ 6:40:40 AM","5/29/2025
+ 6:59:02 AM",,Female  *,36–50 *,Self-employed *,,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Kitchen, take care of home front and children",Provide and protect his family,"Yorubas are well read, ibos are business oriented and hausas are farmers","Yorubas are practices all religion, ibos are Christian and traditionalist and hausas are muslims","Young are the genz they go about their life's how they feel is right without the disadvantage or the advantage
+Older generation think critically before taking any step","Traders are persuasive because they need to sell their product or services
+Doctors are smart ","Ibos are business
+",102.89.40.52,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORPrqngmJ26WuteZU6M,,,,,2 mn,"5/29/2025
+ 7:07:05 AM","5/29/2025
+ 7:08:59 AM",,Male *,26–35 *,Employed *,Manufacturing *,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",NA,Na,I choose to keep this private,Na,Na,Na,Na,172.104.217.119,United States,Cedar Knolls,,Pending
+AfriStereo Survey,-ORPszWjdfjqw-mWwjs6,,,,,12 mn,"5/29/2025
+ 7:02:06 AM","5/29/2025
+ 7:13:56 AM",,Male *,26–35 *,Employed *,IT & Software   *,Christianity  *,Nigeria *,Nigerian *,Igbo  *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women  are Emotional
+Women  love money","Men are cheats,
+Men don't cry,","People from the east are money centered,
+People from the west are well educated,
+People from the west are tribalistic ",N/A,"Old people are grumpy
+Young people are shortsighted ","Doctors have bad handwritings,
+Tailors are liars and don't keep to schedule,
+Traders are persuasive(especially Igbos)","Yorubas like Oily foods
+Yorubas like peppery foods
+Igbos are visionaries
+Hausas are honorable and loyal",102.89.47.247,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORQKPhMPWgwZSGSbgdA,,,,,6 mn,"5/29/2025
+ 9:12:32 AM","5/29/2025
+ 9:18:08 AM",,Male *,18–25 *,Self-employed *,,Christianity  *,Nigeria *,Nigerian *,Igbo  *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are nurturing, women are emotional, women are bad at math, women are bad drivers, women are talkative, women are more suited for caregiving roles, women are less rational than men, women are physically weaker","Men are strong, men are unemotional, men are natural leaders, men are better at math and science, men are bad at expressing feelings, men are aggressive, men are dominant, men are logical rather than emotional, men are more interested in sex",Nigerians are scammers,Muslims are terrorists,Younger generations are careless and uninterested in education,Doctors are smarter than nurses,Blacks are lesser than whites,102.90.103.104,Nigeria,Port Harcourt,,Pending
+AfriStereo Survey,-ORQKyXuh_54dZWmWTmA,,,,,2 mn,"5/29/2025
+ 9:19:02 AM","5/29/2025
+ 9:20:35 AM",,Female  *,36–50 *,Self-employed *,,Islam  *,Senegal *,Senegalese *,,,,Peulh *,"Yes, I understand and I’m okay to continue *","No, I don’t feel comfortable continuing *",,,,,,,,41.82.181.168,Senegal,Dakar,,Pending
+AfriStereo Survey,-ORVUhGPGF_FOetbGkMD,,,,,54 mn,"5/30/2025
+ 8:27:22 AM","5/30/2025
+ 9:21:11 AM",,Male *,26–35 *,Self-employed *,,Islam  *,Rwanda *,Burkinabe  *,,,Mossi,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","la femme est perçue comme ayant pour seul rôle de gérer les tâches domestiques, de s’occuper des enfants et d’assurer la reproduction, les femmes ne peuvent pas diriger comme les hommes, les femmes sont trop fragiles pour exercer des métiers physiques traditionnellement réservés aux hommes,  la femme vertueuse doit faire preuve de douceur et de soumission et les femmes sont guidées principalement par leurs émotions.
+
+
+","Les hommes doivent faire preuve de force et de virilité, en réprimant toute manifestation de faiblesse ou d’émotion, notamment les larmes , les hommes sont perçus comme naturellement polygames et infidèles, et doivent avoir plusieurs partenaires pour être considérés comme de « vrais hommes » ; enfin,  les hommes ne doivent pas y participer aux  tâches domestiques dans le cadre du mariage.
+","Les Mossi aiment le pouvoir et le leadership, les Mossi sont profondément attachés à leurs traditions et font preuve d’un grand conservatisme culturel.
+
+
+
+","Tous les musulmans sont arabes et terroristes.
+
+","Les personnes âgées sont perçues comme détenant le monopole de la raison, vérité et de la parole.
+
+"," Les policiers sont  perçus comme corrompus, et les avocats comme des menteurs convaincants. 
+
+",Les Igbo du Nigeria sont  considérés comme de grands adeptes de rituels traditionnels.,105.179.6.194,Rwanda,Kigali,,Pending
+AfriStereo Survey,-ORVgO3eLnZ0pXdFKXEQ,,,,,6 mn,"5/30/2025
+ 10:10:44 AM","5/30/2025
+ 10:16:36 AM",,Male *,36–50 *,Unemployed *,,Islam  *,Senegal *,Senegalese *,,,,Wolof *,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Matérialiste, trop bavard","Travailleur, sincère",Wolof sont digne,Les chrétiens sont très bien éduqués,"Feneant, n'aime pas école",Les médecins quittent les hôpitaux publics pour le privé,Diola aime le gnankatang,41.83.57.189,Senegal,Dakar,,Pending
+AfriStereo Survey,-ORWQlELSyzcenzf4HgX,,,,,18 mn,"5/30/2025
+ 1:25:27 PM","5/30/2025
+ 1:43:37 PM",,Female  *,18–25 *,A student *,,Islam  *,Senegal *,Senegalese *,,,,Peulh *,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are smart, women are sensitive, women overact to small things, women are not so good at leading, women are complicated, women are weak","Men are good leaders, men are strong, men are not that smart, men are impulsive, men are liars, men are not reliable, men are emotionless","The Peulhs are smart, peulhs are dangerous, wolofs are elegant, jollahs are strong","Muslims are strict, dangerous, kind, love giving, tolerant, gentle, oppress women.","Old people are wise, weak, careless, authoritarian, kings, good advisor. Young people are daring, stubborn, careless, not listening.","Doctors are good at everything, never get sick, super smart, the best, the cream of the cream. Entrepreneurs are mad, should get a proper job, not willing for stability. Laws are liars, daring.",Running out of idea,121.142.55.227,South Korea,Yeonsu-gu,,Pending
+AfriStereo Survey,-ORYxg0KFFz-C2-oGMjT,,,,,18 mn,"5/31/2025
+ 1:13:04 AM","5/31/2025
+ 1:31:03 AM",,Male *,Over 50 *,Employed *,Healthcare   *,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are weak, women are homemakers and women are to be in the 'other room, women love money, women talk too much.","Men don't cry, men are breadwinners, men are polygamist by nature,","Yorubas are lazy, yorubas are dirty, Igbos are business oriented, Northerners are uneducated","Muslims are fetish, Christians are hypocrites","Older folks are kinder and more tolerant to the to the children, younger folks are too money conscious, gen-Zs are impulsive","Lawyers are liars, Pastors are scammers,",None that I can think of now,102.91.104.59,Nigeria,Abuja,,Pending
+AfriStereo Survey,-OR_vqn1g9oEuY6SVE3h,,,,,5 mn,"5/31/2025
+ 10:36:57 AM","5/31/2025
+ 10:42:17 AM",,Male *,Over 50 *,Employed *,Education *,Islam  *,Senegal *,Senegalese *,,,,Peulh *,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Les femmes aiment l’argent,Les hommes ne pensent qu’à eux,Les Peulhs sont ethnicistes . Les Wolofs se croient au dessus de tout le monde,Les Chrétiens sont bien éduqués au Sénégal,Les personnes âgées sont plus sages,Les commerçants sont riches,Les Africains attendent trop des autres,37.174.152.104,France,,,Pending
+AfriStereo Survey,-ORazIzJcv5pYAVjTA7h,,,,,7 mn,"5/31/2025
+ 3:30:27 PM","5/31/2025
+ 3:37:00 PM",,Male *,26–35 *,Self-employed *,,African Traditional religion (ATR) *,Kenya  *,Kenyan *,,Kikuyu * Luo *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are caregivers
+",Men don't cry,Kikuyus love money,Muslims are violent,Young people are stupid,Touts are vulgar,If you are young you can't run a company,154.159.94.174,Kenya,,,Pending
+AfriStereo Survey,-ORhkRcLvH0HWytvA6kN,,,,,20 mn,"6/1/2025
+ 10:49:10 PM","6/1/2025
+ 11:09:24 PM",,Female  *,36–50 *,Self-employed *,,Christianity  *,Nigeria *,Nigerian *,Idoma *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Kind & nurturing, warm & receptive, strong & resilient","Ambitious, independent, innovative, intelligent and skillful","People from the North are quite accommodating and hospitable towards outsiders, they extend kindness and respect to guests","Christians believe solely in Jesus Christ, that He is the Messiah anointed by God to save humanity","Young people are usually perceived as energetic and carefree, older adults are perceived as strong and fragile","Teachers are perceived as smart, talkative,  intelligent and disciplined. Doctors are termed as smart, all knowing and unemotional",No,102.91.102.65,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORkUl_c--vqvo3Br1EQ,,,,,19 mn,"6/2/2025
+ 11:36:13 AM","6/2/2025
+ 11:55:24 AM",,Male *,36–50 *,Self-employed *,,Christianity  *,Kenya  *,Kenyan *,,Luo *,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Caring,honest,good leaders.","Supportive,hard working,bread winners.","Tribal, political,clever, leader's, egoistic,farmers,glutton,thieves.","Prayerfully,obsessed,united, development consciousness,caring,forgiving,understanding,loving.","Understanding, truthful,protective,supportive,overcomers.","Professional, trustworthy,united,composed,supportive,innovative.","Liar's,political,clever,con men,aggressive,opportunist,nassists, unfortunate,unforgiving
+",41.90.216.112,Kenya,Nairobi,,Pending
+AfriStereo Survey,-ORmmlJFZJ71PSTAh7QG,,,,,16 mn,"6/2/2025
+ 10:21:30 PM","6/2/2025
+ 10:37:39 PM",,Male *,26–35 *,Employed *,IT & Software   *,Islam  *,Nigeria *,Nigerian *,Ebira *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","woman are meant for the kitchen,","men are evil,","People from igbo are dominative, people from the north are poor","Muslims are terrorist,  Christians are wayward,","young people are unserious,",nurses are prostitute,not any i can think of,104.28.237.153,Nigeria,Ibadan,,Pending
+AfriStereo Survey,-ORnDcUDRp8k38EFWM3M,,,,,9 mn,"6/3/2025
+ 12:30:21 AM","6/3/2025
+ 12:39:24 AM",,Male *,26–35 *,Self-employed *,,Christianity  *,Ghana *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are weak, women are strong headed, women are fragile, women are equal to men","Men are bosy, men are strong, men are responsible for everything","Ga people are aggressive and quick-tempered, Nigerians ae thieves, ibos like money too much,","Christians are poor, traditional worshippers are fake, Muslims are the same as traditional worshippers","Old people are stuck in their ways, young people cannot make great decisions","Tech people are rich, traders are poor, doctors are smart, lawyers are argumentative, PR don't understand what they do",.,154.161.129.182,Ghana,Accra,,Pending
+AfriStereo Survey,-ORph8FdVPMTaXc8592y,,,,,5 mn,"6/3/2025
+ 12:07:09 PM","6/3/2025
+ 12:11:56 PM",,Female  *,18–25 *,A student *,,Islam  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *",Women who are financially stable are threats to their families,"Men are cheaters, men are trash, men who show emotions are weak",Muslims are terrorist,Muslims are terrorists,Young people can never do what old people do,"Lawyers are liars, herbalists are wicked, architects are women",Not that I can think of,105.112.113.30,Nigeria,Abuja,,Pending
+AfriStereo Survey,-ORpjrULhuTv6GKHBsMA,,,,,13 mn,"6/3/2025
+ 12:10:46 PM","6/3/2025
+ 12:24:05 PM",,Female  *,18–25 *,A student *,,Islam  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are the homemakers,
+Women are only meant to be housewives,
+Women should only live their lives for their husbands,
+Women should not have a say in household or family matters","Men are providers,
+Men are head of the families,
+Men are protectors","Yoruba people do not like the help eachother,
+Igbo people are greedy,
+Hausa people only help people from their people,
+Ebira people arr wicked","Muslims are terrorists 
+Christians are sinless","Old people belive they have all the knowledge because they have been jn life longer,
+Young people are reckless","Doctors are kind people,
+Nurses are rude,
+Teachers are wonderful ",Nigerian federal institution system is the best,105.113.106.147,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORpsbUkqB9CQC-Pf3DU,,,,,17 mn,"6/3/2025
+ 12:44:49 PM","6/3/2025
+ 1:02:03 PM",,Male *,26–35 *,Employed *,Entertainment *,Christianity  *,Nigeria *,Nigerian *,Igbo  *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are caring, women are loving, women are wonderful","Men are builder, men are leaders, men are innovative","the Igbos are business oriented, the Northerns are family oriented, while the yorubas are educationally incline.","Muslims worship Allah through the doctrine laid by prophet Muhammad, Christians serve God through the directive of our Lord Jesus Christ, while traditional worship serve idols","Old people are experienced, young people are innovative and smart","Traders are open minded and business oriented, doctors are disciplined","Professors are educational leaders, children are leaders of tomorrow",102.88.113.221,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORpvcw6_0IaTMVVN_Y0,,,,,1 h 14 mn,"6/3/2025
+ 12:05:27 PM","6/3/2025
+ 1:19:03 PM",,Male *,26–35 *,Employed *,IT & Software   *,Christianity  *,Nigeria *,Nigerian *,Yoruba *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Emotional: women are too Emotional in reacting to issue's 
+Caregivers:  women  are often see as a lover of children and the elderly add hey do so with empathy. 
+Weaknesses: women are weak in decision making especially relationships decision. ","Ego: men are seem to be arrogant 
+Aggressive:  most men are emotionally aggressive towards women,  children and fellow men.
+Body physic
+Financial stability: men are being stereotypes base on Financial capabilities. ","Islam: people believe you're fanatic related to you base on  this. 
+Similar thing happens if u are a Christian some folks are not just comfortable relating to you base on your religion association  
+Ethnicity: some people fee more comfortable and associated with their ethnic group,  they see other ethnic are bad or evil.","Muslim: been Muslim is a crime to spe people 🙄 because you're presumably a terrorist or fanatic.
+Christianity : they seem as conservative,  anti-inovation
+Traditional worshippers: anti-christ, occultism ","Old people are seem to be out of fashion, not relevant with trends. Even seem as a witch, too rigid with culture 
+
+Young people are seem as too arrogant, passionate, ","There are alot of steotypes associated with profession examples Police officers are presume to be corrupt  
+Lawyers are presume to be a liar","Prostitution : referring to a lady as a prostitute 
+Short people: referring to them as dwarf ",102.88.105.26,Nigeria,Lagos,,Pending
+AfriStereo Survey,-ORxFVTWspVSEoaRuJV8,,,,,1 h 5 mn,"6/4/2025
+ 10:18:39 PM","6/4/2025
+ 11:23:47 PM",,Female  *,26–35 *,Unemployed *,,Islam  *,Nigeria *,Nigerian *,Yoruba * Nupe *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Women are caregivers, Women are meant to cook, Women are weak, women are emotional","Men are leaders, Men are aggressive, Men are authoritative, Men are independent","People from Kogi are wicked, People from yorubaland are loud, People from the northern states are decent, People from Igbo states like money","Muslims are terrorists
+",Young people are nonchalant,"Lawyers are liars, Nurses are not nice",N/A,102.89.76.129,Nigeria,Ibadan,,Pending
+AfriStereo Survey,-OSKlaFmU3qLdqNRGpWe,,,,,3 mn,"6/9/2025
+ 5:36:21 PM","6/9/2025
+ 5:39:14 PM",,Male *,36–50 *,A student *,,Islam  *,Nigeria *,Nigerian *,Hausa *,,,,"Yes, I understand and I’m okay to continue *","Yes, I understand and I’m okay to continue *","Housewives, obidient",Breadwinners,Dont know,No,No,Done,Dont know,212.52.23.80,Portugal,,,Pending
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Nigeria *,FAKE,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,FAKE ,Nigerian *,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Muslims are affiliated to terror groups""","Old people are grumpy and nagging, young people are ""nowadays"" disrespectful, lazy and vision-less.","All doctors are drunkards, engineers have no social life, bankers are struggling financially, politicians are all greedy and corrupt individuals, all insurance brokers are conmen, developers have no social life too.","Probably stereotypes based on race & nationality.
+Ex: Nigerians are way loud, Kenyans are way too aggressive with everything.",102.213.48.6,Kenya,Nairobi,,Pending,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Muslims are affiliated to terror groups""","Old people are grumpy and nagging, young people are ""nowadays"" disrespectful, lazy and vision-less.","All doctors are drunkards, engineers have no social life, bankers are struggling financially, politicians are all greedy and corrupt individuals, all insurance brokers are conmen, developers have no social life too.","Probably stereotypes based on race & nationality.
+Ex: Nigerians are way loud, Kenyans are way too aggressive with everything.",102.213.48.6,Kenya,Nairobi,,Pending,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Muslims are affiliated to terror groups""","Old people are grumpy and nagging, young people are ""nowadays"" disrespectful, lazy and vision-less.","All doctors are drunkards, engineers have no social life, bankers are struggling financially, politicians are all greedy and corrupt individuals, all insurance brokers are conmen, developers have no social life too.","Probably stereotypes based on race & nationality.
+Ex: Nigerians are way loud, Kenyans are way too aggressive with everything.",102.213.48.6,Kenya,Nairobi,,Pending,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Muslims are affiliated to terror groups""","Old people are grumpy and nagging, young people are ""nowadays"" disrespectful, lazy and vision-less.","All doctors are drunkards, engineers have no social life, bankers are struggling financially, politicians are all greedy and corrupt individuals, all insurance brokers are conmen, developers have no social life too.","Probably stereotypes based on race & nationality.
+Ex: Nigerians are way loud, Kenyans are way too aggressive with everything.",102.213.48.6,Kenya,Nairobi,,Pending,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Muslims are affiliated to terror groups""","Old people are grumpy and nagging, young people are ""nowadays"" disrespectful, lazy and vision-less.","All doctors are drunkards, engineers have no social life, bankers are struggling financially, politicians are all greedy and corrupt individuals, all insurance brokers are conmen, developers have no social life too.","Probably stereotypes based on race & nationality.
+Ex: Nigerians are way loud, Kenyans are way too aggressive with everything.",102.213.48.6,Kenya,Nairobi,,Pending,,,,,,,,,,,,,,,,,,,,,,,,,,
