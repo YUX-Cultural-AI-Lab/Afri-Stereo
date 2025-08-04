@@ -20,4 +20,16 @@ pip install -r requirements.txt
 
 ## Understanding the Structure of the Repository
 
+```text
+afristereo/
+├── data/                   
+│   ├── raw/                # Raw/Input Data
+│   └── processed/          # Processed/Output Data
+├── app/                    # Streamlit annotation interface
+├── evaluation/             # Scripts for LLM evaluation
+├── scripts/                # Scripts for Processing Data and Outputs
+├── requirements.txt        # Python dependencies
+├── README.md               # Project overview
+└── LICENSE                 # Project license
+```
 

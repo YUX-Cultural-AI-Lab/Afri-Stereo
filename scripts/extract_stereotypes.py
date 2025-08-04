@@ -85,7 +85,7 @@ def form_initial_stereo_dataset(df):
     # information per row includes the stereotype sentence submitted by the respondent and the demographic details of the respondent
     # this also identifies seemingly non-english entries and translates it
     # input: df -> cleaned up survey responses
-    # output: writes stereotype_df into ../data/translated_stereotypes.csv
+    # output: writes stereotype_df into ../data/processed/translated_stereotypes.csv
 
     # using the category of stereotype, convert the dataset such that each row has a stereotype
     stereotype_columns = [
@@ -152,8 +152,8 @@ def form_initial_stereo_dataset(df):
     )
     stereotype_df.drop(columns=['ethnic_nigeria', 'ethnic_kenya', 'ethnic_group'], inplace=True)
 
-    stereotype_df.to_csv('../data/translated_stereotypes.csv', index=False)
-    print(f"Successfully stored the initial stereotype dataframe at data/translated_stereotypes.csv")
+    stereotype_df.to_csv('../data/processed/translated_stereotypes.csv', index=False)
+    print(f"Successfully stored the initial stereotype dataframe at data/processed/translated_stereotypes.csv")
 
 def expand_rows_by_sentences(df):
     # this function expands the entries that have multiple stereotypes per row (separated by a ./!/?) into separate entries
@@ -177,7 +177,7 @@ def extract_regex(sentence, stereotype_type=None):
 
     # we also extract the known identity terms to aid with the identity extraction. 
     # load the identity terms
-    with open("../data/identity_categories.json", "r", encoding="utf-8") as f:
+    with open("../data/raw/identity_categories.json", "r", encoding="utf-8") as f:
         identity_categories = json.load(f)
 
     # flatten the set of all identity terms
@@ -348,7 +348,7 @@ def save_outputs(stereotype_df):
 
     # save rows with rare identities for manual checking
     rare_identity_df = stereotype_df[stereotype_df['identity_term'].isin(rare_identities)]
-    rare_identity_df.to_csv("../data/stereotypes_with_rare_identities.csv", index=False)
+    rare_identity_df.to_csv("../data/processed/stereotypes_with_rare_identities.csv", index=False)
 
     # keep only the rows with frequent identities
     stereotype_df = stereotype_df[stereotype_df['identity_term'].isin(identity_counts[identity_counts > 2].index)]
@@ -358,14 +358,14 @@ def save_outputs(stereotype_df):
     stereotype_df = stereotype_df[~stereotype_df['identity_term'].isin(spurious_identities)]
 
     # save the final extracted stereotypes (that are not rare)
-    stereotype_df.to_csv("../data/final_extracted_stereotypes.csv")
+    stereotype_df.to_csv("../data/processed/final_extracted_stereotypes.csv")
 
-    print("The outputs have been stored into ../data/stereotypes_with_rare_identities.csv and ../data/final_extracted_stereotypes.csv.")
+    print("The outputs have been stored into ../data/processed/stereotypes_with_rare_identities.csv and ../data/processed/final_extracted_stereotypes.csv.")
 
 def main():
     parser = argparse.ArgumentParser(description="Script to process a file.")
     parser.add_argument("file_path", nargs="?", type=str, 
-                        default="../data/afristereo_survey_responses.csv", help="Path to the input file")
+                        default="../data/raw/afristereo_survey_responses.csv", help="Path to the input file")
     parser.add_argument("--no_recompute_initial", action="store_false", dest="recompute_initial",
                     help="If set, skips recomputing the initial data")
 
@@ -378,7 +378,7 @@ def main():
         df = preprocess_data(df) # bring the dataframe into an easily understandable form
         form_initial_stereo_dataset(df) # form the stereo dataset and save it into the required path
     
-    stereotype_df = pd.read_csv('../data/translated_stereotypes.csv')
+    stereotype_df = pd.read_csv('../data/processed/translated_stereotypes.csv')
     stereotype_df = expand_rows_by_sentences(stereotype_df)
 
     # Apply regex
@@ -399,9 +399,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-    
-
-
-
