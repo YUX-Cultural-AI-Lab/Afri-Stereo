@@ -181,6 +181,9 @@ def main():
     
     print('The attribute group dictionary has been saved to data/processed/attribute_to_group_initial.json!')
 
+    extracted_stereotypes.to_csv("./data/processed/final_cleaned_stereotypes.csv")
+
+    print('The merged and cleaned stereotypes have been saved to data/processed/final_cleaned_stereotypes.csv')
 
 if __name__ == "__main__":
     main()

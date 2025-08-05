@@ -116,7 +116,8 @@ if you were to exclude the rare identity stereotypes:
 python scripts/extract_stereotypes.py --file_path ./data/raw/final_extracted_stereotypes_fixed.csv
 ```
 
-The output dictionary is written into `data/processed/attribute_to_group_initial.json`
+The output dictionary is written into `data/processed/attribute_to_group_initial.json`. 
+The combined stereotypes from all the files passed as arguments are written into `data/processed/final_cleaned_stereotypes.csv`. 
 
 ### Why do we need to group stereotypes?
 
@@ -154,10 +155,30 @@ A schematic diagram of this process is presented below:
 
 ![Attribute Grouping](media/embedding_grouping.png)
 
-Now that we have the attribute groups, we note that the automated model is only *so good* at grouping together similar attributes, and hence, we need another level of human feedback, to edit the groupings as and when required. That takes us to the next step:
+Now that we have the attribute groups, we note that the automated model is only *so good* at grouping together similar attributes, and hence, we need another level of human feedback, to edit the groupings as and when required. That takes us to the next step, where we use a streamlit application to correct these groupings. 
 
 ## Step-4: Human Correction for these Attribute Groups (Streamlit Application)
 
+### Implementation:
+
+```bash
+streamlit run app/afristereo_annotator.py -- --src=/path/to/original/attribute/to/group.json --dst=/path/to/modified/attribute/to/group.json
+```
+
+By default, the src is taken as: `data/processed/attribute_to_group_initial.json` and the dst is taken as `data/processed/attribute_to_group_modified.json`.
+
+A detailed demo on how to use this tool can be found in this video:
+
+\<INSERT VIDEO DEMO HERE\>
+
 ## Step-5: Form Final Stereotype Dataframe
+```bash
+streamlpython scripts/form_final_stereotypes.py ./path/to/attribute/to/groups.json
+```
+By default, this path is taken as: `data/processed/attribute_to_group_modified.json`
+
+The final output (the stereotype table) is written into `data/processed/stereotype_summary.csv`
 
 ## Further Steps
+
+Now that we have the stereotype table as an output, we proceed onto evaluations. More details on the evaluations can be found inside the README file in the evaluation folder. 
