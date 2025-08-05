@@ -173,7 +173,7 @@ A detailed demo on how to use this tool can be found in this video:
 
 ## Step-5: Form Final Stereotype Dataframe
 ```bash
-streamlpython scripts/form_final_stereotypes.py ./path/to/attribute/to/groups.json
+python scripts/form_final_stereotypes.py ./path/to/attribute/to/groups.json
 ```
 By default, this path is taken as: `data/processed/attribute_to_group_modified.json`
 
