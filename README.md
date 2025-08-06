@@ -1,6 +1,10 @@
 # AfriStereo: Building African Stereotypes Dataset for Responsible AI Evaluation 
 
-This repository contains the code-base used for the Afri-Stereo project. This includes the complete pipeline (manual + automated) to generate the stereotype dataset, and also the code used to perform the various LLM evaluations. 
+This repository contains the code-base used for the AfriStereo project. 
+
+We take inspiration from previous work done by google research [Dev et al. (2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/0dc91de822b71c66a7f54fa121d8cbb9-Paper-Datasets_and_Benchmarks.pdf#page=2.08), to form a dataset towards stereotype evaluation developed through an open-ended survey in Senegal, Kenya, and Nigeria. 
+
+This code-base includes the complete pipeline (manual + automated) to generate the stereotype dataset, and also the code used to perform the various LLM evaluations. 
 
 ## Understanding the Structure of the Repository
 
@@ -169,7 +173,7 @@ By default, the src is taken as: `data/processed/attribute_to_group_initial.json
 
 A detailed demo on how to use this tool can be found in this video:
 
-\<INSERT VIDEO DEMO HERE\>
+[VIDEO DEMO](https://drive.google.com/file/d/1XN88_w_9QcfVIwACjqN4rwCzGggmt_BQ/view?usp=sharing)
 
 ## Step-5: Form Final Stereotype Dataframe
 ```bash
