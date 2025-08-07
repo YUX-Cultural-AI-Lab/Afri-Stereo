@@ -9,6 +9,7 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer # sia to calculate p
 
 import json # save dictionary
 import argparse # to get the file name as an argument from the script
+import os
 
 def custom_preprocess(extracted_stereotypes):
     # this function takes the extracted stereotypes files after the human annotation, and performs a clean-up and replaces a few terms before returning it. 
@@ -68,9 +69,27 @@ def custom_preprocess(extracted_stereotypes):
 
     return extracted_stereotypes
 
-# group attribute terms together based on their similarity in embedding space. the idea is that similar/synonymous stereotypes will get grouped together
+def get_existing_groups(path):
+    # if there is already an existing grouping, this function returns that so that the modified grouping accounts for that
+    if path is None:
+        return None, None
+    
+    if os.path.isfile(path):
+        with open(path, "r", encoding="utf-8") as f:
+            raw_dict = json.load(f)
+            attribute_to_group = {k: tuple(v) for k, v in raw_dict.items()}
 
-def group_attributes_by_identity(identity_df, model, col_name = 'attribute_term', threshold=0.55):
+            # Get list of unique groups and convert to mutable lists
+            unique_groups = [list(tup) for tup in set(attribute_to_group.values())]
+
+            return list(attribute_to_group.keys()), unique_groups
+        
+    else:
+        return None, None
+
+# group attribute terms together based on their similarity in embedding space. the idea is that similar/synonymous stereotypes will get grouped together
+def group_attributes_by_identity(identity_df, model, col_name='attribute_term', threshold=0.55,
+                                 existing_attributes=None, existing_groups=None):
     # this function takes the stereotype dataframe and the embedding model, and uses a threshold to group elements of a column together based on their 
     # cosine similarities
     # input: identity_df -> the stereotype dataframe we are dealing with
@@ -84,36 +103,90 @@ def group_attributes_by_identity(identity_df, model, col_name = 'attribute_term'
     attrs = [a for a in attrs if a]  # remove blanks
 
     if len(attrs) == 0:
-        return []
+        return None, []
 
-    embeddings = model.encode(attrs) # obtain all embeddings of this column
-    sim_matrix = cosine_similarity(embeddings) # form the similarity matrix which is a N x N matrix with cosine similarities.
+    # if no existing attributes or groups, proceed from scratch
+    if existing_attributes is None or existing_groups is None:
+        embeddings = model.encode(attrs)  # obtain all embeddings of this column
+        sim_matrix = cosine_similarity(embeddings)  # form the similarity matrix which is a N x N matrix with cosine similarities.
 
-    # simple greedy grouping based on similarity threshold
-    grouped = []
-    visited = set()
+        grouped = []
+        visited = set()
 
-    # iterate through the attributes
-    for i, attr in enumerate(attrs):
+        # iterate through the attributes
+        for i, attr in enumerate(attrs):
+            if i in visited:
+                # if the attribute is already in a group, we ignore
+                continue
 
-        if i in visited:
-          # if the attribute is already in a group, we ignore
-          continue
+            # if not, we form a single member group with just this attribute
+            group = [attr]
+            visited.add(i)
 
-        # if not, we form a single member group with just this attribute
-        group = [attr]
-        visited.add(i)
+            # for each attribute, iterate through the remaining unvisited attributes, and add them to the existing group if their similarity meets the threshold requirements
+            for j in range(i + 1, len(attrs)):
+                if j not in visited and sim_matrix[i, j] >= threshold:
+                    group.append(attrs[j])
+                    visited.add(j)
 
-        # for each attribute, iterate through the remaining unvisited attributes, and add them to the existing group if their similarity meets the threshold requirements
-        for j in range(i + 1, len(attrs)):
-            if j not in visited and sim_matrix[i, j] >= threshold:
-                group.append(attrs[j])
-                visited.add(j)
+            # make a collection of all these groups
+            grouped.append(group)
 
-        # make a collection of all these groups
-        grouped.append(group)
+        # return the similarity matrix and the list of groups
+        return sim_matrix, grouped
 
-    # return the similarity matrix and the list of groups
+    # if existing attributes and groups are provided
+    existing_attributes = set(existing_attributes)
+    new_attrs = [a for a in attrs if a not in existing_attributes]
+
+    if len(new_attrs) == 0:
+        return None, existing_groups
+
+    # get embeddings for new attributes and representatives of existing groups
+    new_embeddings = model.encode(new_attrs)
+    group_reps = [group[0] for group in existing_groups]
+    group_rep_embeddings = model.encode(group_reps) if group_reps else []
+
+    grouped = existing_groups.copy()
+    unassigned = []
+
+    # try to assign new attributes to existing groups
+    for i, attr in enumerate(new_attrs):
+        if len(group_rep_embeddings) > 0:
+            sims = cosine_similarity([new_embeddings[i]], group_rep_embeddings)[0]
+            best_idx = sims.argmax()
+            best_sim = sims[best_idx]
+
+            if best_sim >= threshold:
+                grouped[best_idx].append(attr)
+                continue
+
+        # if not assigned, save for later grouping
+        unassigned.append((attr, new_embeddings[i]))
+
+    # group unassigned attributes among themselves
+    if unassigned:
+        un_attrs = [a for a, _ in unassigned]
+        un_embeds = [e for _, e in unassigned]
+        sim_matrix = cosine_similarity(un_embeds)
+
+        visited = set()
+        for i, attr in enumerate(un_attrs):
+            if i in visited:
+                continue
+
+            group = [attr]
+            visited.add(i)
+
+            for j in range(i + 1, len(un_attrs)):
+                if j not in visited and sim_matrix[i, j] >= threshold:
+                    group.append(un_attrs[j])
+                    visited.add(j)
+
+            grouped.append(group)
+    else:
+        sim_matrix = None
+
     return sim_matrix, grouped
 
 def get_polarity(phrase, sia_model, threshold = 0.1):
@@ -145,6 +218,9 @@ def main():
     parser = argparse.ArgumentParser(description="Script to process a file.")
     parser.add_argument("file_paths", nargs="+", type=str,
                     help="One or more input file paths (space-separated)")
+    # optional argument, to the grouping of attributes that already exist
+    parser.add_argument("--group_path", type=str, default=None,
+                    help="Path to the existing group JSON file (default: None)")
 
     args = parser.parse_args()
 
@@ -157,7 +233,15 @@ def main():
     # load a good, generalizable, lightweight embedding model
     model = SentenceTransformer("all-MiniLM-L6-v2") # ISSUE: this model doesnt detect positives/negatives and groups them together
 
-    _, grouped = group_attributes_by_identity(extracted_stereotypes, model) # return the groupings 
+    existing_attributes, existing_groups = get_existing_groups(path=args.group_path) # obtains attributes/groups if they already exist
+
+    if existing_groups is not None:
+        print('Existing groups found... Using them for new grouping!')
+    else:
+        print('No existing groups found, starting from scratch...')
+
+    _, grouped = group_attributes_by_identity(extracted_stereotypes, model, 
+    existing_attributes=existing_attributes, existing_groups=existing_groups) # return the groupings 
 
     # Initialize polarity analyzer (to separate the above groups based on polarity)
     nltk.download('vader_lexicon')
