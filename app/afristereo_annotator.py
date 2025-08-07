@@ -1,3 +1,4 @@
+from sentence_transformers import SentenceTransformer
 import streamlit as st
 import pandas as pd
 import uuid
@@ -21,12 +22,39 @@ for arg in sys.argv:
     elif arg.startswith("--dst="):
         dst_path = arg.split("=", 1)[1]
 
-# === Semantic Sorting Utility ===
-def sort_df_by_semantic_similarity(df, embedding_path="./app/app_data/attribute_embeddings.json", group_col='group'):
+def get_embedding_dict(df, embedding_path="./app/app_data/attribute_embeddings.json", group_col='group'):
+    # this function gets all the required embeddings of the words for the semantic sorting utility
+    # it caches existing embeddings from the .json file and recomputes new ones and updates the .json file simultaneously
+
     with open(embedding_path, "r") as f:
         embedding_dict = json.load(f)
+    
+    all_elements = list(set(elem for sublist in df[group_col] for elem in sublist))
 
-    group_embeddings = []
+    new_elements = [element for element in all_elements if element not in embedding_dict.keys()]
+
+    if len(new_elements) > 0:
+        model = SentenceTransformer("all-MiniLM-L6-v2")
+    
+    for element in new_elements:
+        embedding = model.encode(element).tolist()
+        embedding_dict[element] = embedding
+    
+    with open("./app/app_data/attribute_embeddings.json", "w") as f:
+        json.dump(embedding_dict, f)
+    
+    return embedding_dict
+
+# === Semantic Sorting Utility ===
+## what this does is use the embeddings of the group, and then use PCA (with 1 dimension) to re-order the groups in increasing order. 
+## the idea is that groups with similar meanings should end up close to each other (at least, somewhat), so that the grouping becomes easier, at least in theory. 
+def sort_df_by_semantic_similarity(df, embedding_path="./app/app_data/attribute_embeddings.json", group_col='group'):
+
+    # this uses the user defined function to get the embeddings
+    embedding_dict = get_embedding_dict(df, embedding_path, group_col)
+
+    # this code block basically computes the centroid embedding of each group
+    group_embeddings = [] 
     for group in df[group_col]:
         group_embeds = [np.array(embedding_dict[term]) for term in group if term in embedding_dict]
         if group_embeds:
@@ -34,7 +62,8 @@ def sort_df_by_semantic_similarity(df, embedding_path="./app/app_data/attribute_
         else:
             centroid = np.zeros(len(next(iter(embedding_dict.values()))))
         group_embeddings.append(centroid)
-
+    
+    # this code block uses PCA to flatten these into a single value, which are then arranged in ascending order
     pca = PCA(n_components=1)
     group_1d = pca.fit_transform(group_embeddings).flatten()
     df['sort_key'] = group_1d
@@ -48,6 +77,7 @@ st.set_page_config(layout="wide")
 st.title("Attribute Group Annotator (Group-Only View)")
 
 # === Load Initial Data ===
+# the below code block loads the attribute group from the json file and displays it in the tabular format for us to edit
 @st.cache_data
 def load_groups_from_attribute_json():
     with open(src_path, "r") as f:

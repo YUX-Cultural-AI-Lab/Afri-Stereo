@@ -106,18 +106,27 @@ Go through the highlighted rows and delete/edit them as necessary before exporti
 ### Implementation:
 
 ```bash
-python scripts/extract_stereotypes.py --file_path path/to/modified/extracted_stereotypes/file.csv path/to/modified/rare_stereotypes/file.csv
+python scripts/extract_stereotypes.py path/to/modified/extracted_stereotypes/file.csv path/to/modified/rare_stereotypes/file.csv --group_path path/to/attribute/grouping.json (optional)
 ```
 
-The arguments passed to this script are the paths to the human annotated stereotype files, separated by a space. This would look something like:
+The arguments passed to this script are the paths to the human annotated stereotype files, separated by a space. 
+
+The --group_path is an optional argument that passes the path to the existing grouping (if any), so that new attributes are added to the existing grouping rather than forming groups again from scratch. 
+
+This would look something like:
 
 If you were to include the rare identity stereotypes:
 ```bash
-python scripts/extract_stereotypes.py --file_path ./data/raw/final_extracted_stereotypes_fixed.csv ./data/raw/stereotypes_with_rare_identities_fixed.csv
+python scripts/extract_stereotypes.py ./data/raw/final_extracted_stereotypes_fixed.csv ./data/raw/stereotypes_with_rare_identities_fixed.csv
 ```
 if you were to exclude the rare identity stereotypes:
 ```bash
-python scripts/extract_stereotypes.py --file_path ./data/raw/final_extracted_stereotypes_fixed.csv
+python scripts/extract_stereotypes.py ./data/raw/final_extracted_stereotypes_fixed.csv
+```
+
+if you already had a few examples you had grouped together, and you're now expanding your dataset and want to perform the same grouping for the expanded data, you would do something like: 
+```bash
+python scripts/extract_stereotypes.py ./data/raw/final_extracted_stereotypes_fixed.csv ./data/raw/stereotypes_with_rare_identities_fixed.csv --group_path ./data/processed/attribute_to_group_existing.json
 ```
 
 The output dictionary is written into `data/processed/attribute_to_group_initial.json`. 
@@ -171,7 +180,7 @@ streamlit run app/afristereo_annotator.py -- --src=/path/to/original/attribute/t
 
 By default, the src is taken as: `data/processed/attribute_to_group_initial.json` and the dst is taken as `data/processed/attribute_to_group_modified.json`.
 
-A detailed demo on how to use this tool can be found in this video:
+A detailed demo on how to use this tool after launching it as above can be found in this video:
 
 [VIDEO DEMO](https://drive.google.com/file/d/1XN88_w_9QcfVIwACjqN4rwCzGggmt_BQ/view?usp=sharing)
 
