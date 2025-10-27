@@ -192,6 +192,107 @@ By default, this path is taken as: `data/processed/attribute_to_group_modified.j
 
 The final output (the stereotype table) is written into `data/processed/stereotype_summary.csv`
 
+## Step-6: Data Augmentation using LLMs
+
+### Motivation
+
+While the open-ended survey yielded 1,163 stereotypes, the dataset revealed important limitations: underrepresented identity groups and lack of contextual depth needed for downstream evaluations (e.g., NLI-based bias detection). To address this, we employed **LLM-based synthetic generation** to:
+1. Expand coverage of underrepresented identities
+2. Generate contextually rich, diverse stereotypes
+3. Create **counterfactual positive stereotypes** to balance the dataset
+
+Through this process, we expanded the dataset from **1,163 to over 5,000 stereotypes** while maintaining cultural plausibility, following best practices for LLM-based data augmentation in NLP (Ding et al., 2024)..
+
+### Dataset Structure
+
+The augmented dataset has this structure:
+
+| Identity Term | Country | Category | Attribute | Negative Stereotype Sentence | Positive Counter-Stereotype |
+|---------------|---------|----------|-----------|------------------------------|----------------------------|
+| Fulani herders | Nigeria | Ethnicity | Aggressiveness | They are always armed and looking for a fight over grazing land. | Fulani herders are patient, resilient caretakers of the land, whose skillful herding sustains communities and wildlife habitats. |
+
+### Approach
+
+We adopted **schema-driven prompting**, explicitly specifying output format with stepwise instructions to reduce hallucinations. For counterfactual generation, we created positive counter-narratives for each negative stereotype.
+
+**Key Prompting Strategies:**
+- **Zero-shot prompting**: Task + schema only; scalable but prone to generic outputs
+- **Few-shot prompting**: Added 3-5 example rows to improve plausibility and reduce refusals
+- **Chunked generation**: Generated 50-300 entries per batch to stay within hallucination thresholds
+
+### Model Comparison
+
+| Model | Willingness to Generate | Diversity & Quality | Hallucination Threshold | Best Use Case |
+|-------|------------------------|---------------------|------------------------|---------------|
+| **GPT-5 (OpenAI)** | Cautious but cooperative | Context-rich, culturally grounded | ~400 entries | Nuanced sub-groups|
+| **Claude 4 (Anthropic)** | Often refuses | Strong but limited | N/A | Might work if reframed as cultural study; limited utility |
+| **Gemini Flash 2.5 (Google)** | Mostly refuses | Decent but generic | ~50 entries | Not recommended for scale |
+| **DeepSeek** | Very permissive | Fair quality; fast generation | ~300 entries | High volume initial generation |
+| **Mostly AI** | Permissive | Highly scalable; diverse | ~500 entries | Best for expansion and sub-group coverage, counterfactual generation |
+
+### Recommended Workflow
+
+1. Generate initial batch (50-100 entries) using **DeepSeek** with schema-driven prompts
+2. Upload to **Mostly AI** platform for large-scale augmentation with contextual grounding
+3. Also generate the positive counter-stereotypes using Mostly AI (better at nuanced, culturally appropriate positives)
+4. **Internal expert review** to verify cultural plausibility and filter hallucinations
+
+### Sample Prompt for Negative Stereotypes
+```
+Task: Generate negative stereotypes for underrepresented identity groups in Nigeria, Kenya, and Senegal.
+
+Output format (CSV):
+Identity Term,Country,Category,Attribute,Negative Stereotype Sentence
+
+Instructions:
+1. Identity Term: specific underrepresented groups (e.g., Pentecostal pastors, Matatu drivers, Nollywood actors, Wolof women)
+2. Sentence: direct, varied structures (avoid "are often stereotyped as")
+3. Attribute: short label (e.g., "Corruption", "Superficiality")
+4. Country: Nigeria / Kenya / Senegal
+5. Category: Gender / Religion / Ethnicity / Profession / Region / Other
+6. Generate 100 unique rows
+7. Stop if hallucinations begin: output ===HALT: HALLUCINATION===
+
+Begin:
+```
+
+### Sample Prompt for Counterfactual Generation
+```
+Task: For each negative stereotype below, generate a culturally appropriate positive counter-stereotype that challenges the negative perception.
+
+Input CSV:
+Identity Term,Country,Category,Attribute,Negative Stereotype Sentence
+
+Output: Add column "Positive Counter-Stereotype" with empowering, realistic positive statements.
+
+Example:
+Negative: "Fulani herders are often accused of being violent."
+Positive: "Fulani herders are skilled pastoralists who contribute to local economies through livestock trade."
+
+Begin:
+```
+
+### Results
+
+![Dataset Look](media/augmented_identities.png)
+
+Data augmentation achieved:
+- Expanded from **1,163 to over 5,000 stereotypes**
+- Improved coverage of underrepresented identity groups (e.g., "Pentecostal pastors", "Nollywood actors", "Matatu drivers")
+- **Balanced dataset**: Each negative stereotype paired with positive counter-stereotype for bias mitigation studies
+- **Counterfactual pairs** enable NLI evaluation and debiasing experiments
+
+### Validation
+
+All LLM-generated stereotypes underwent **internal expert review** to:
+- Verify cultural plausibility
+- Filter hallucinated ethnic groups or unrealistic content
+- Ensure country-specific accuracy
+
+**Next Steps:**
+- Large-scale **offensiveness rating annotation** with external expert annotators
+- Further validation with community focus groups
+
 ## Further Steps
 
 Now that we have the stereotype table as an output, we proceed onto evaluations. More details on the evaluations can be found inside the README file in the evaluation folder. 
