@@ -228,7 +228,7 @@ We adopted **schema-driven prompting**, explicitly specifying output format with
 | **Claude 4 (Anthropic)** | Often refuses | Strong but limited | N/A | Might work if reframed as cultural study; limited utility |
 | **Gemini Flash 2.5 (Google)** | Mostly refuses | Decent but generic | ~50 entries | Not recommended for scale |
 | **DeepSeek** | Very permissive | Fair quality; fast generation | ~300 entries | High volume initial generation |
-| **Mostly AI** | Permissive | Highly scalable; diverse | ~500 entries | Best for expansion and sub-group coverage, counterfactual generation |
+| **Mostly AI** | Very Permissive | Highly scalable; diverse | ~500 entries | Best for expansion and sub-group coverage, counterfactual generation |
 
 ### Recommended Workflow
 
@@ -274,8 +274,6 @@ Begin:
 
 ### Results
 
-![Dataset Look](media/augmented_identities.png)
-
 Data augmentation achieved:
 - Expanded from **1,163 to over 5,000 stereotypes**
 - Improved coverage of underrepresented identity groups (e.g., "Pentecostal pastors", "Nollywood actors", "Matatu drivers")
@@ -288,6 +286,7 @@ All LLM-generated stereotypes underwent **internal expert review** to:
 - Verify cultural plausibility
 - Filter hallucinated ethnic groups or unrealistic content
 - Ensure country-specific accuracy
+The augmented dataset is stored in [`data/synthetic_data/augmented_stereotype_dataset.csv`](data/synthetic_data/augmented_stereotype_dataset.csv)
 
 **Next Steps:**
 - Large-scale **offensiveness rating annotation** with external expert annotators
