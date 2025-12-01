@@ -295,3 +295,15 @@ The augmented dataset is stored in [`data/synthetic_data/augmented_stereotype_da
 ## Further Steps
 
 Now that we have the stereotype table as an output, we proceed onto evaluations. More details on the evaluations can be found inside the README file in the evaluation folder. 
+
+## Citations
+To cite [AfriStereo](https://arxiv.org/abs/2511.22016):
+@misc{beux2025afristereoculturallygroundeddataset,
+      title={AfriStereo: A Culturally Grounded Dataset for Evaluating Stereotypical Bias in Large Language Models}, 
+      author={Yann Le Beux and Oluchi Audu and Oche D. Ankeli and Dhananjay Balakrishnan and Melissah Weya and Marie D. Ralaiarinosy and Ignatius Ezeani},
+      year={2025},
+      eprint={2511.22016},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2511.22016}, 
+}
