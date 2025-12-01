@@ -298,7 +298,7 @@ Now that we have the stereotype table as an output, we proceed onto evaluations.
 
 ## Citations
 
-To cite [AfriStereo](https://arxiv.org/abs/2511.22016):
+To cite [AfriStereo paper](https://arxiv.org/abs/2511.22016):
 ```bibtex
 @misc{beux2025afristereoculturallygroundeddataset,
       title={AfriStereo: A Culturally Grounded Dataset for Evaluating Stereotypical Bias in Large Language Models}, 
