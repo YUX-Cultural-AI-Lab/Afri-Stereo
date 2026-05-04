@@ -1,6 +1,6 @@
 # AfriStereo: Building African Stereotypes Dataset for Responsible AI Evaluation 
 
-This repository contains the code-base used for the AfriStereo project. 
+This repository contains the code-base used for the AfriStereo project. You can find the full paper here [AfriStereo](https://arxiv.org/pdf/2511.22016)
 
 We take inspiration from previous work done by google research [Dev et al. (2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/0dc91de822b71c66a7f54fa121d8cbb9-Paper-Datasets_and_Benchmarks.pdf#page=2.08), to form a dataset towards stereotype evaluation developed through an open-ended survey in Senegal, Kenya, and Nigeria. 
 
