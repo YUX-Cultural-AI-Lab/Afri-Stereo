@@ -84,11 +84,18 @@ This evaluation is done exactly the way it is done in [Nangia et al. (2020)](htt
 
 ### Results
 
-| Model Name     | BPR (Bias Pref. Ratio) | p-value  |
-|----------------|-----------------------|----------|
-| GPT-2 Medium   | 0.69                  | 0.0053*  |
-| GPT-2 Large    | 0.69                  | 0.0003*  |
-| GPT Neo        | 0.71                  | 0.0000*  |
-| Flan T5        | 0.63                  | 0.0007*  |
-| BioGPT Large   | 0.55                  | 0.0585   |
-| FinBERT        | 0.50                  | 0.4507   |
+| Model Family | Model | BPR | p-value | Primary Bias Axes |
+|--------------|-------|-----|---------|-------------------|
+| Baseline (2019-2022) | GPT-2 Medium | 0.69 | 0.0053* | Age, Profession |
+| Baseline (2019-2022) | GPT-2 Large | 0.69 | 0.0003* | Age, Profession, Gender |
+| Baseline (2019-2022) | GPT-Neo | 0.71 | <0.0001* | Age, Profession, Gender |
+| Baseline (2019-2022) | Flan-T5-Large | 0.63 | 0.0007* | Age, Profession, Gender |
+| Baseline (2019-2022) | BioGPT Large | 0.55 | 0.0585 | Religion (marginal) |
+| Baseline (2019-2022) | FinBERT | 0.50 | 0.4507 | None |
+| Modern (2023-2024) | Mistral 7B | 0.75 | <0.0001* | Age, Profession, Religion |
+| Modern (2023-2024) | Phi-3 Mini | 0.70 | <0.0001* | Age, Profession |
+| Modern (2023-2024) | Llama 3.2 3B | 0.78 | <0.0001* | Age, Profession, Gender |
+| Modern (2023-2024) | Qwen 2.5 7B | 0.71 | <0.0001* | Age, Profession, Gender |
+| Modern (2023-2024) | Gemma 2 2B | 0.71 | <0.0001* | Age, Profession, Gender |
+
+*Significant at p <= 0.05.*

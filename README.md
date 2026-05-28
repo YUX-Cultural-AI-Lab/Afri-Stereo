@@ -1,6 +1,6 @@
 # AfriStereo: Building African Stereotypes Dataset for Responsible AI Evaluation 
 
-This repository contains the code-base used for the AfriStereo project. You can find the full paper here [AfriStereo](https://arxiv.org/pdf/2511.22016)
+This repository contains the code-base used for the AfriStereo project. You can find the full paper here [AfriStereo](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.18.pdf).
 
 We take inspiration from previous work done by google research [Dev et al. (2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/0dc91de822b71c66a7f54fa121d8cbb9-Paper-Datasets_and_Benchmarks.pdf#page=2.08), to form a dataset towards stereotype evaluation developed through an open-ended survey in Senegal, Kenya, and Nigeria. 
 
@@ -297,4 +297,5 @@ The augmented dataset is stored in [`data/synthetic_data/augmented_stereotype_da
 Now that we have the stereotype table as an output, we proceed onto evaluations. More details on the evaluations can be found inside the README file in the evaluation folder. 
 
 ## Citations
-citation on the arxiv 
+
+Beux, Y. L., Audu, O., Ankeli, O. D., Balakrishnan, D., Weya, M., Ralaiarinosy, M. D., & Ezeani, I. (2026). AfriStereo: A Culturally Grounded Dataset for Evaluating Stereotypical Bias in Large Language Models. In *Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)* (pp. 266-280). European Language Resources Association (ELRA). https://doi.org/10.63317/58oaqcxpogdy.
