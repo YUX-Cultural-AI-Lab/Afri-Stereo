@@ -21,13 +21,18 @@ The dataframe that you form will look something like this:
 
 ### The models that we evaluate
 
-We evaluate the following models, that have different architectures:
+We evaluate the following baseline and modern models, spanning decoder-only, encoder-decoder, and encoder-only architectures:
 - **GPT-2 Medium** – Causal decoder-only transformer for general text generation.  
 - **GPT-2 Large** – Larger version of GPT-2; causal decoder-only transformer for general text generation.  
 - **GPT-Neo** – Open-source causal decoder-only transformer, similar to GPT-2 in design.  
-- **Flan-T5** – Encoder–decoder transformer fine-tuned for instruction following after span-corruption pretraining.  
+- **Flan-T5-Large** – Encoder-decoder transformer fine-tuned for instruction following after span-corruption pretraining.  
 - **BioGPT Large** – Causal decoder-only transformer specialized in biomedical literature and research text.  
 - **FinBERT** – Encoder-only BERT variant pretrained with Masked Language Modeling, fine-tuned for financial sentiment classification.  
+- **Mistral 7B** – Modern decoder-only transformer optimized for efficient open-weight generation.  
+- **Phi-3 Mini** – Compact decoder-only transformer designed for strong reasoning performance at small scale.  
+- **Llama 3.2 3B** – Modern decoder-only transformer from Meta's Llama model family.  
+- **Qwen 2.5 7B** – Modern decoder-only transformer from the Qwen model family.  
+- **Gemma 2 2B** – Lightweight decoder-only transformer from Google's Gemma model family.  
 
 ### Scoring Strategies
 
@@ -86,16 +91,16 @@ This evaluation is done exactly the way it is done in [Nangia et al. (2020)](htt
 
 | Model Family | Model | BPR | p-value | Primary Bias Axes |
 |--------------|-------|-----|---------|-------------------|
+| Modern (2023-2024) | Llama 3.2 3B | 0.78 | <0.0001* | Age, Profession, Gender |
+| Modern (2023-2024) | Mistral 7B | 0.75 | <0.0001* | Age, Profession, Religion |
+| Baseline (2019-2022) | GPT-Neo | 0.71 | <0.0001* | Age, Profession, Gender |
+| Modern (2023-2024) | Qwen 2.5 7B | 0.71 | <0.0001* | Age, Profession, Gender |
+| Modern (2023-2024) | Gemma 2 2B | 0.71 | <0.0001* | Age, Profession, Gender |
+| Modern (2023-2024) | Phi-3 Mini | 0.70 | <0.0001* | Age, Profession |
 | Baseline (2019-2022) | GPT-2 Medium | 0.69 | 0.0053* | Age, Profession |
 | Baseline (2019-2022) | GPT-2 Large | 0.69 | 0.0003* | Age, Profession, Gender |
-| Baseline (2019-2022) | GPT-Neo | 0.71 | <0.0001* | Age, Profession, Gender |
 | Baseline (2019-2022) | Flan-T5-Large | 0.63 | 0.0007* | Age, Profession, Gender |
 | Baseline (2019-2022) | BioGPT Large | 0.55 | 0.0585 | Religion (marginal) |
 | Baseline (2019-2022) | FinBERT | 0.50 | 0.4507 | None |
-| Modern (2023-2024) | Mistral 7B | 0.75 | <0.0001* | Age, Profession, Religion |
-| Modern (2023-2024) | Phi-3 Mini | 0.70 | <0.0001* | Age, Profession |
-| Modern (2023-2024) | Llama 3.2 3B | 0.78 | <0.0001* | Age, Profession, Gender |
-| Modern (2023-2024) | Qwen 2.5 7B | 0.71 | <0.0001* | Age, Profession, Gender |
-| Modern (2023-2024) | Gemma 2 2B | 0.71 | <0.0001* | Age, Profession, Gender |
 
 *Significant at p <= 0.05.*
